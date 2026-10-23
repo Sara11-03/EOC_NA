@@ -61,7 +61,12 @@ The repository provides archived QPU measurements, the corresponding graph insta
 
 The archived Modena QPU data yield **32 and 29 hubs** for the two post-processing branches, respectively. This differs from the value of 31 reported for the first branch in an earlier manuscript version. Experimental provenance and other historical clarifications are documented in [`docs/METHODS_AND_PROVENANCE.md`](docs/METHODS_AND_PROVENANCE.md).
 
-For full instructions, see [`docs/REPRODUCE.md`](docs/REPRODUCE.md).
+Documentation
+For further details, see:
+- Reproduction guide — Installation instructions and commands to reproduce the numerical results, figures, and case studies.
+- Methods and provenance — Graph generation, random seeds, quantum experiment metadata, classical algorithms, CPLEX settings, and reproducibility limitations.
+- Data attribution — Sources, attribution, and redistribution considerations for the geographical data.
+The documentation distinguishes results reconstructed from archived measurements from new computational runs, and records limitations where complete historical configurations are unavailable.
 
 ## Authors
 
