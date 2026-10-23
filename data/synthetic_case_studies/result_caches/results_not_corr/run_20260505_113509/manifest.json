@@ -1,0 +1,17 @@
+{
+  "created_at_unix": 1777973709.9614615,
+  "bench_dir": "historical_local/mDS/scripts/udg_benchmark_Rryd_7_18_rescaled_new",
+  "lower": 10,
+  "upper": 100,
+  "step": 5,
+  "instances_per_dim": 30,
+  "mode": "both",
+  "quantum_n_samples": 500,
+  "classical_n_samples": 500,
+  "random_bitstring_p": 0.5,
+  "plot_each_graph": false,
+  "has_job_map": true,
+  "has_quantum_samples_map": true,
+  "skip_missing_quantum": true,
+  "strict_quantum": false
+}

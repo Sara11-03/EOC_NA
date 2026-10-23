@@ -1,0 +1,92 @@
+{
+  "selected_submission": {
+    "submission_dir": "historical_local/subgraph_modena/scripts/pasqal_submissions/41_sicily_fresnel_can1_20260414_230242",
+    "backend_kind": "qpu",
+    "fetch_mode": "single_qpu_job",
+    "n_jobs_fetched": 1,
+    "n_samples_used_hw_stats": 1000
+  },
+  "stats": {
+    "graph_num_nodes": 41,
+    "n_samples_valid": 1000,
+    "n_samples_invalid": 0,
+    "IS_count": 587,
+    "notIS_count": 413,
+    "IS_fraction": 0.587,
+    "notIS_fraction": 0.413,
+    "size_counts_all": {
+      "15": 164,
+      "16": 78,
+      "13": 182,
+      "9": 21,
+      "14": 180,
+      "19": 2,
+      "17": 22,
+      "11": 99,
+      "12": 161,
+      "10": 62,
+      "18": 9,
+      "8": 13,
+      "7": 6,
+      "6": 1
+    },
+    "size_counts_is": {
+      "13": 112,
+      "14": 96,
+      "15": 67,
+      "12": 122,
+      "11": 78,
+      "10": 54,
+      "16": 28,
+      "8": 8,
+      "7": 4,
+      "9": 17,
+      "6": 1
+    },
+    "size_counts_not": {
+      "15": 97,
+      "16": 50,
+      "13": 70,
+      "9": 4,
+      "14": 84,
+      "19": 2,
+      "17": 22,
+      "11": 21,
+      "12": 39,
+      "18": 9,
+      "8": 5,
+      "10": 8,
+      "7": 2
+    },
+    "min_size": 6,
+    "max_size": 19,
+    "mean_size_all": 13.15
+  },
+  "notis_severity": {
+    "n_samples_invalid_length": 0,
+    "n_notis": 413,
+    "conflict_edges_counts": {
+      "3": 45,
+      "5": 4,
+      "2": 108,
+      "1": 233,
+      "4": 21,
+      "6": 2
+    },
+    "conflict_nodes_counts": {
+      "5": 29,
+      "4": 55,
+      "6": 20,
+      "3": 66,
+      "2": 233,
+      "7": 8,
+      "8": 2
+    },
+    "mean_conflict_edges": 1.694915254237288,
+    "median_conflict_edges": 1.0,
+    "max_conflict_edges": 6,
+    "mean_conflict_nodes": 2.956416464891041,
+    "median_conflict_nodes": 2.0,
+    "max_conflict_nodes": 8
+  }
+}

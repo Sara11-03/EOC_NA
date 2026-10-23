@@ -1,0 +1,2 @@
+frac_changed,frac_raw_not_independent,inst,job_id,mean_added_nodes,mean_conflict_edges_raw,mean_conflict_nodes_raw,mean_removed_nodes,n,n_changed,n_raw_not_independent,n_samples
+0.876,0.136,10,MERGED::54089912-d5ef-42d3-a41d-8fb5ccc32a23+b7bbd010-ab61-4fbd-b117-cedc5199c436,1.512,0.146,0.29,0.144,35,438,68,500

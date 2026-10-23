@@ -1,0 +1,173 @@
+{
+  "selected_submission": {
+    "submission_dir": "historical_local/subgraph_modena/scripts/pasqal_submissions/41_sicily_emu_fresnel_2x500_20260414_230042",
+    "backend_kind": "emulator",
+    "fetch_mode": "merged_emulator_jobs",
+    "n_jobs_fetched": 2,
+    "n_samples_used_hw_stats": 1000
+  },
+  "hw_stats": {
+    "graph_num_nodes": 41,
+    "n_samples_valid": 1000,
+    "n_samples_invalid": 0,
+    "IS_count": 965,
+    "notIS_count": 35,
+    "IS_fraction": 0.965,
+    "notIS_fraction": 0.035,
+    "size_counts_all": {
+      "15": 127,
+      "12": 211,
+      "13": 245,
+      "10": 38,
+      "14": 213,
+      "16": 41,
+      "18": 1,
+      "11": 107,
+      "9": 10,
+      "8": 3,
+      "17": 4
+    },
+    "size_counts_is": {
+      "15": 121,
+      "12": 207,
+      "13": 236,
+      "10": 37,
+      "14": 204,
+      "16": 37,
+      "18": 1,
+      "11": 106,
+      "9": 10,
+      "8": 3,
+      "17": 3
+    },
+    "size_counts_not": {
+      "14": 9,
+      "13": 9,
+      "11": 1,
+      "15": 6,
+      "17": 1,
+      "12": 4,
+      "16": 4,
+      "10": 1
+    },
+    "min_size": 8,
+    "max_size": 18,
+    "mean_size_all": 13.017
+  },
+  "mds": {
+    "selected_submission": {
+      "submission_dir": "historical_local/subgraph_modena/scripts/pasqal_submissions/41_sicily_emu_fresnel_2x500_20260414_230042",
+      "backend_kind": "emulator",
+      "fetch_mode": "merged_emulator_jobs"
+    },
+    "graph": {
+      "num_nodes": 41,
+      "num_edges": 56
+    },
+    "cache": {
+      "num_samples_used_hw_stats": 1000,
+      "num_samples_used_mds_quantum": 1000
+    },
+    "statuses": {
+      "docplex_exact": "integer optimal solution",
+      "from_mIS_classical": "ok",
+      "from_notMIS_classical": "ok",
+      "from_mIS_quantum": "ok",
+      "from_notMIS_quantum": "ok"
+    },
+    "mds_nodes": {
+      "docplex_exact": [
+        "Belmonte Mezzagno (PA)",
+        "Borgetto (PA)",
+        "Caltavuturo (PA)",
+        "Camporeale (PA)",
+        "Castellammare del Golfo (TP)",
+        "Cerda (PA)",
+        "Chiusa Sclafani (PA)",
+        "Isnello (PA)",
+        "Marineo (PA)",
+        "Salaparuta (TP)",
+        "Trapani (TP)",
+        "Vicari (PA)"
+      ],
+      "from_mIS_classical": [
+        "Alcamo (TP)",
+        "Belmonte Mezzagno (PA)",
+        "Borgetto (PA)",
+        "Buseto Palizzolo (TP)",
+        "Caltavuturo (PA)",
+        "Cerda (PA)",
+        "Chiusa Sclafani (PA)",
+        "Contessa Entellina (PA)",
+        "Godrano (PA)",
+        "Isnello (PA)",
+        "Santa Ninfa (TP)",
+        "Vicari (PA)"
+      ],
+      "from_notMIS_classical": [
+        "Belmonte Mezzagno (PA)",
+        "Borgetto (PA)",
+        "Buseto Palizzolo (TP)",
+        "Caccamo (PA)",
+        "Caltavuturo (PA)",
+        "Camporeale (PA)",
+        "Chiusa Sclafani (PA)",
+        "Contessa Entellina (PA)",
+        "Godrano (PA)",
+        "Isnello (PA)",
+        "Salemi (TP)",
+        "Vicari (PA)"
+      ],
+      "from_mIS_quantum": [
+        "Alcamo (TP)",
+        "Belmonte Mezzagno (PA)",
+        "Borgetto (PA)",
+        "Buseto Palizzolo (TP)",
+        "Caccamo (PA)",
+        "Caltavuturo (PA)",
+        "Campofiorito (PA)",
+        "Castronovo di Sicilia (PA)",
+        "Godrano (PA)",
+        "Isnello (PA)",
+        "Palazzo Adriano (PA)",
+        "Salaparuta (TP)",
+        "Salemi (TP)"
+      ],
+      "from_notMIS_quantum": [
+        "Belmonte Mezzagno (PA)",
+        "Borgetto (PA)",
+        "Buseto Palizzolo (TP)",
+        "Caccamo (PA)",
+        "Caltavuturo (PA)",
+        "Camporeale (PA)",
+        "Chiusa Sclafani (PA)",
+        "Contessa Entellina (PA)",
+        "Godrano (PA)",
+        "Isnello (PA)",
+        "Salemi (TP)",
+        "Vicari (PA)"
+      ]
+    },
+    "mds_sizes": {
+      "docplex_exact": 12,
+      "from_mIS_classical": 12,
+      "from_notMIS_classical": 12,
+      "from_mIS_quantum": 13,
+      "from_notMIS_quantum": 12
+    },
+    "exact_method_selected_node_names": [
+      "Belmonte Mezzagno (PA)",
+      "Borgetto (PA)",
+      "Caltavuturo (PA)",
+      "Camporeale (PA)",
+      "Castellammare del Golfo (TP)",
+      "Cerda (PA)",
+      "Chiusa Sclafani (PA)",
+      "Isnello (PA)",
+      "Marineo (PA)",
+      "Salaparuta (TP)",
+      "Trapani (TP)",
+      "Vicari (PA)"
+    ]
+  }
+}

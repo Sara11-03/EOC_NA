@@ -1,0 +1,23 @@
+{
+  "case": "palermo",
+  "backend_kind": "qpu",
+  "num_bits": 41,
+  "shots": 1000,
+  "unique_bitstrings": 1000,
+  "jobs": [
+    {
+      "job_id": "78a7b8e9-1915-4efc-860a-7a61844b1943",
+      "status": "DONE",
+      "n_samples": 1000,
+      "runs_requested": 1000,
+      "seed": 12345
+    }
+  ],
+  "source_file": "fetched_results_summary(2).json",
+  "source_sha256": "42d7c9b2d4aa6947e0da2deccc61fcbbfa403c42c4c66cc182551ab2892280da",
+  "source_submission_basename": "41_sicily_fresnel_can1_20260414_230242",
+  "processing": "No correction, no postselection, no relabeling of bits; exact counts preserved.",
+  "sample_order": "The original samples list is retained if present. Acquisition order is not established by this export; do not use sorted counts as a chronological shot sequence.",
+  "seed_note": "A recorded software seed does not make physical QPU measurements deterministic.",
+  "node_mapping_included": true
+}

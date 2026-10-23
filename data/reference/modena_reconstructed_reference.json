@@ -1,0 +1,2224 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "pos": [
+        -23.965753562881435,
+        20.51924342980716
+      ],
+      "rep": "Pieve d'Olmi (CR)",
+      "members": [
+        "Pieve d'Olmi (CR)"
+      ],
+      "size": 1,
+      "id": "Pieve d'Olmi (CR)"
+    },
+    {
+      "pos": [
+        -32.28509035629695,
+        0.3027727262626115
+      ],
+      "rep": "Salsomaggiore Terme (PR)",
+      "members": [
+        "Salsomaggiore Terme (PR)"
+      ],
+      "size": 1,
+      "id": "Salsomaggiore Terme (PR)"
+    },
+    {
+      "pos": [
+        28.243568171101952,
+        17.965245751563845
+      ],
+      "rep": "Borgo Mantovano (MN)",
+      "members": [
+        "Borgo Mantovano (MN)"
+      ],
+      "size": 1,
+      "id": "Borgo Mantovano (MN)"
+    },
+    {
+      "pos": [
+        -5.519240555138924,
+        -35.833883021457545
+      ],
+      "rep": "Villa Minozzo (RE)",
+      "members": [
+        "Villa Minozzo (RE)"
+      ],
+      "size": 1,
+      "id": "Villa Minozzo (RE)"
+    },
+    {
+      "pos": [
+        12.798799958154543,
+        12.393437469010706
+      ],
+      "rep": "Gonzaga (MN)",
+      "members": [
+        "Gonzaga (MN)"
+      ],
+      "size": 1,
+      "id": "Gonzaga (MN)"
+    },
+    {
+      "pos": [
+        -16.720374766731442,
+        21.257034908521447
+      ],
+      "rep": "Cingia de' Botti (CR)",
+      "members": [
+        "Cingia de' Botti (CR)"
+      ],
+      "size": 1,
+      "id": "Cingia de' Botti (CR)"
+    },
+    {
+      "pos": [
+        -24.471443120674806,
+        -29.851769270470818
+      ],
+      "rep": "Monchio delle Corti (PR)",
+      "members": [
+        "Monchio delle Corti (PR)"
+      ],
+      "size": 1,
+      "id": "Monchio delle Corti (PR)"
+    },
+    {
+      "pos": [
+        27.52053397175411,
+        -2.760364460394547
+      ],
+      "rep": "Ravarino (MO)",
+      "members": [
+        "Ravarino (MO)"
+      ],
+      "size": 1,
+      "id": "Ravarino (MO)"
+    },
+    {
+      "pos": [
+        21.157926452688777,
+        -29.09384834163693
+      ],
+      "rep": "Guiglia (MO)",
+      "members": [
+        "Guiglia (MO)"
+      ],
+      "size": 1,
+      "id": "Guiglia (MO)"
+    },
+    {
+      "pos": [
+        2.0841740892599194,
+        6.699951869671848
+      ],
+      "rep": "Gualtieri (RE)",
+      "members": [
+        "Gualtieri (RE)"
+      ],
+      "size": 1,
+      "id": "Gualtieri (RE)"
+    },
+    {
+      "pos": [
+        7.033486844537317,
+        24.019883671948225
+      ],
+      "rep": "Curtatone (MN)",
+      "members": [
+        "Curtatone (MN)"
+      ],
+      "size": 1,
+      "id": "Curtatone (MN)"
+    },
+    {
+      "pos": [
+        33.633244651499965,
+        18.25842663342645
+      ],
+      "rep": "Borgocarbonara (MN)",
+      "members": [
+        "Borgocarbonara (MN)"
+      ],
+      "size": 1,
+      "id": "Borgocarbonara (MN)"
+    },
+    {
+      "pos": [
+        -10.90109114852858,
+        11.108316959266942
+      ],
+      "rep": "Colorno (PR)",
+      "members": [
+        "Colorno (PR)"
+      ],
+      "size": 1,
+      "id": "Colorno (PR)"
+    },
+    {
+      "pos": [
+        -8.920149336885501,
+        -6.550189359550862
+      ],
+      "rep": "Montechiarugolo (PR)",
+      "members": [
+        "Montechiarugolo (PR)"
+      ],
+      "size": 1,
+      "id": "Montechiarugolo (PR)"
+    },
+    {
+      "pos": [
+        1.4750480647399475,
+        23.776274530639533
+      ],
+      "rep": "Marcaria (MN)",
+      "members": [
+        "Marcaria (MN)"
+      ],
+      "size": 1,
+      "id": "Marcaria (MN)"
+    },
+    {
+      "pos": [
+        -0.7172993179915845,
+        18.46576520416306
+      ],
+      "rep": "Commessaggio (MN)",
+      "members": [
+        "Commessaggio (MN)"
+      ],
+      "size": 1,
+      "id": "Commessaggio (MN)"
+    },
+    {
+      "pos": [
+        8.691490485271038,
+        -31.362657502831055
+      ],
+      "rep": "Polinago (MO)",
+      "members": [
+        "Polinago (MO)"
+      ],
+      "size": 1,
+      "id": "Polinago (MO)"
+    },
+    {
+      "pos": [
+        -15.177803281915839,
+        31.005741890595793
+      ],
+      "rep": "Volongo (CR)",
+      "members": [
+        "Volongo (CR)"
+      ],
+      "size": 1,
+      "id": "Volongo (CR)"
+    },
+    {
+      "pos": [
+        37.578331536151076,
+        -11.36985434784521
+      ],
+      "rep": "Sala Bolognese (BO)",
+      "members": [
+        "Sala Bolognese (BO)"
+      ],
+      "size": 1,
+      "id": "Sala Bolognese (BO)"
+    },
+    {
+      "pos": [
+        15.63962721444943,
+        -21.292206872232626
+      ],
+      "rep": "Maranello (MO)",
+      "members": [
+        "Maranello (MO)"
+      ],
+      "size": 1,
+      "id": "Maranello (MO)"
+    },
+    {
+      "pos": [
+        21.90002844028524,
+        7.266649525402695
+      ],
+      "rep": "San Possidonio (MO)",
+      "members": [
+        "San Possidonio (MO)"
+      ],
+      "size": 1,
+      "id": "San Possidonio (MO)"
+    },
+    {
+      "pos": [
+        -6.25027645600422,
+        18.125657652447405
+      ],
+      "rep": "Rivarolo del Re ed Uniti (CR)",
+      "members": [
+        "Rivarolo del Re ed Uniti (CR)"
+      ],
+      "size": 1,
+      "id": "Rivarolo del Re ed Uniti (CR)"
+    },
+    {
+      "pos": [
+        7.464484632580695,
+        -25.616809773304066
+      ],
+      "rep": "Prignano sulla Secchia (MO)",
+      "members": [
+        "Prignano sulla Secchia (MO)"
+      ],
+      "size": 1,
+      "id": "Prignano sulla Secchia (MO)"
+    },
+    {
+      "pos": [
+        18.31126824003594,
+        12.44320785748152
+      ],
+      "rep": "Moglia (MN)",
+      "members": [
+        "Moglia (MN)"
+      ],
+      "size": 1,
+      "id": "Moglia (MN)"
+    },
+    {
+      "pos": [
+        3.7768667899631483,
+        -6.923415059140564
+      ],
+      "rep": "Reggio nell'Emilia (RE)",
+      "members": [
+        "Reggio nell'Emilia (RE)"
+      ],
+      "size": 1,
+      "id": "Reggio nell'Emilia (RE)"
+    },
+    {
+      "pos": [
+        -20.042976798855562,
+        -27.03883231954848
+      ],
+      "rep": "Palanzano (PR)",
+      "members": [
+        "Palanzano (PR)"
+      ],
+      "size": 1,
+      "id": "Palanzano (PR)"
+    },
+    {
+      "pos": [
+        -2.3540222989478887,
+        -6.944030381128293
+      ],
+      "rep": "Cavriago (RE)",
+      "members": [
+        "Cavriago (RE)"
+      ],
+      "size": 1,
+      "id": "Cavriago (RE)"
+    },
+    {
+      "pos": [
+        30.10229872494011,
+        22.69100283933168
+      ],
+      "rep": "Ostiglia (MN)",
+      "members": [
+        "Ostiglia (MN)"
+      ],
+      "size": 1,
+      "id": "Ostiglia (MN)"
+    },
+    {
+      "pos": [
+        -18.462151186486153,
+        26.570490470123413
+      ],
+      "rep": "Cappella de' Picenardi (CR)",
+      "members": [
+        "Cappella de' Picenardi (CR)"
+      ],
+      "size": 1,
+      "id": "Cappella de' Picenardi (CR)"
+    },
+    {
+      "pos": [
+        -2.7738069782491124,
+        -1.1465681677762423
+      ],
+      "rep": "Campegine (RE)",
+      "members": [
+        "Campegine (RE)"
+      ],
+      "size": 1,
+      "id": "Campegine (RE)"
+    },
+    {
+      "pos": [
+        -24.276947850167453,
+        -9.822839759630577
+      ],
+      "rep": "Fornovo di Taro (PR)",
+      "members": [
+        "Fornovo di Taro (PR)"
+      ],
+      "size": 1,
+      "id": "Fornovo di Taro (PR)"
+    },
+    {
+      "pos": [
+        -0.9272327665905927,
+        -30.928528535721973
+      ],
+      "rep": "Toano (RE)",
+      "members": [
+        "Toano (RE)"
+      ],
+      "size": 1,
+      "id": "Toano (RE)"
+    },
+    {
+      "pos": [
+        26.835976748666734,
+        4.22878237668712
+      ],
+      "rep": "Medolla (MO)",
+      "members": [
+        "Medolla (MO)"
+      ],
+      "size": 1,
+      "id": "Medolla (MO)"
+    },
+    {
+      "pos": [
+        22.967696153039537,
+        -22.733798416439857
+      ],
+      "rep": "Vignola (MO)",
+      "members": [
+        "Vignola (MO)"
+      ],
+      "size": 1,
+      "id": "Vignola (MO)"
+    },
+    {
+      "pos": [
+        3.001748147060751,
+        30.17404719406593
+      ],
+      "rep": "Rodigo (MN)",
+      "members": [
+        "Rodigo (MN)"
+      ],
+      "size": 1,
+      "id": "Rodigo (MN)"
+    },
+    {
+      "pos": [
+        7.482318603232377,
+        -20.508048715619093
+      ],
+      "rep": "Castellarano (RE)",
+      "members": [
+        "Castellarano (RE)"
+      ],
+      "size": 1,
+      "id": "Castellarano (RE)"
+    },
+    {
+      "pos": [
+        0.541902097973209,
+        11.546611913040191
+      ],
+      "rep": "Pomponesco (MN)",
+      "members": [
+        "Pomponesco (MN)"
+      ],
+      "size": 1,
+      "id": "Pomponesco (MN)"
+    },
+    {
+      "pos": [
+        -23.29324607563451,
+        -15.302355243984868
+      ],
+      "rep": "Calestano (PR)",
+      "members": [
+        "Calestano (PR)"
+      ],
+      "size": 1,
+      "id": "Calestano (PR)"
+    },
+    {
+      "pos": [
+        -17.54944151619675,
+        -8.61768936946373
+      ],
+      "rep": "Felino (PR)",
+      "members": [
+        "Felino (PR)"
+      ],
+      "size": 1,
+      "id": "Felino (PR)"
+    },
+    {
+      "pos": [
+        -17.45039244556528,
+        -33.062676839419936
+      ],
+      "rep": "Ventasso (RE)",
+      "members": [
+        "Ventasso (RE)"
+      ],
+      "size": 1,
+      "id": "Ventasso (RE)"
+    },
+    {
+      "pos": [
+        11.370069892182038,
+        26.70676315469696
+      ],
+      "rep": "Mantova (MN)",
+      "members": [
+        "Mantova (MN)"
+      ],
+      "size": 1,
+      "id": "Mantova (MN)"
+    },
+    {
+      "pos": [
+        -28.959222898191424,
+        22.058756730795373
+      ],
+      "rep": "Gerre de' Caprioli (CR)",
+      "members": [
+        "Gerre de' Caprioli (CR)"
+      ],
+      "size": 1,
+      "id": "Gerre de' Caprioli (CR)"
+    },
+    {
+      "pos": [
+        -20.15834650134439,
+        15.091386814002666
+      ],
+      "rep": "Roccabianca (PR)",
+      "members": [
+        "Roccabianca (PR)"
+      ],
+      "size": 1,
+      "id": "Roccabianca (PR)"
+    },
+    {
+      "pos": [
+        10.032085959151834,
+        -2.4960552003956624
+      ],
+      "rep": "Correggio (RE)",
+      "members": [
+        "Correggio (RE)"
+      ],
+      "size": 1,
+      "id": "Correggio (RE)"
+    },
+    {
+      "pos": [
+        -18.93325877856629,
+        -3.6155914536015255
+      ],
+      "rep": "Collecchio (PR)",
+      "members": [
+        "Collecchio (PR)"
+      ],
+      "size": 1,
+      "id": "Collecchio (PR)"
+    },
+    {
+      "pos": [
+        8.167689953637387,
+        35.10358102256309
+      ],
+      "rep": "Marmirolo (MN)",
+      "members": [
+        "Marmirolo (MN)"
+      ],
+      "size": 1,
+      "id": "Marmirolo (MN)"
+    },
+    {
+      "pos": [
+        -11.118516862226024,
+        20.88491220039978
+      ],
+      "rep": "San Giovanni in Croce (CR)",
+      "members": [
+        "San Giovanni in Croce (CR)"
+      ],
+      "size": 1,
+      "id": "San Giovanni in Croce (CR)"
+    },
+    {
+      "pos": [
+        -26.72822606534209,
+        -24.46872879702149
+      ],
+      "rep": "Corniglio (PR)",
+      "members": [
+        "Corniglio (PR)"
+      ],
+      "size": 1,
+      "id": "Corniglio (PR)"
+    },
+    {
+      "pos": [
+        33.023423306908754,
+        -15.888731729954344
+      ],
+      "rep": "Anzola dell'Emilia (BO)",
+      "members": [
+        "Anzola dell'Emilia (BO)"
+      ],
+      "size": 1,
+      "id": "Anzola dell'Emilia (BO)"
+    },
+    {
+      "pos": [
+        -12.677217985806228,
+        15.828589349385313
+      ],
+      "rep": "Gussola (CR)",
+      "members": [
+        "Gussola (CR)"
+      ],
+      "size": 1,
+      "id": "Gussola (CR)"
+    },
+    {
+      "pos": [
+        -5.355469551476926,
+        34.44095781564939
+      ],
+      "rep": "Casaloldo (MN)",
+      "members": [
+        "Casaloldo (MN)"
+      ],
+      "size": 1,
+      "id": "Casaloldo (MN)"
+    },
+    {
+      "pos": [
+        27.971786247896816,
+        -14.47761888718439
+      ],
+      "rep": "Castelfranco Emilia (MO)",
+      "members": [
+        "Castelfranco Emilia (MO)"
+      ],
+      "size": 1,
+      "id": "Castelfranco Emilia (MO)"
+    },
+    {
+      "pos": [
+        9.737675379522233,
+        18.14417182682965
+      ],
+      "rep": "Motteggiana (MN)",
+      "members": [
+        "Motteggiana (MN)"
+      ],
+      "size": 1,
+      "id": "Motteggiana (MN)"
+    },
+    {
+      "pos": [
+        12.306307127953179,
+        6.567505566919255
+      ],
+      "rep": "Fabbrico (RE)",
+      "members": [
+        "Fabbrico (RE)"
+      ],
+      "size": 1,
+      "id": "Fabbrico (RE)"
+    },
+    {
+      "pos": [
+        6.1457778831509,
+        -14.842325149144328
+      ],
+      "rep": "Scandiano (RE)",
+      "members": [
+        "Scandiano (RE)"
+      ],
+      "size": 1,
+      "id": "Scandiano (RE)"
+    },
+    {
+      "pos": [
+        -37.22675296550036,
+        -16.553210811318756
+      ],
+      "rep": "Valmozzola (PR)",
+      "members": [
+        "Valmozzola (PR)"
+      ],
+      "size": 1,
+      "id": "Valmozzola (PR)"
+    },
+    {
+      "pos": [
+        -31.518466009836203,
+        -19.820646070137084
+      ],
+      "rep": "Berceto (PR)",
+      "members": [
+        "Berceto (PR)"
+      ],
+      "size": 1,
+      "id": "Berceto (PR)"
+    },
+    {
+      "pos": [
+        -1.3278405899369974,
+        -25.3645050656779
+      ],
+      "rep": "Carpineti (RE)",
+      "members": [
+        "Carpineti (RE)"
+      ],
+      "size": 1,
+      "id": "Carpineti (RE)"
+    },
+    {
+      "pos": [
+        16.47528850676203,
+        1.0919080542676445
+      ],
+      "rep": "Carpi (MO)",
+      "members": [
+        "Carpi (MO)"
+      ],
+      "size": 1,
+      "id": "Carpi (MO)"
+    },
+    {
+      "pos": [
+        -10.625060834896322,
+        -23.698653785826238
+      ],
+      "rep": "Vetto (RE)",
+      "members": [
+        "Vetto (RE)"
+      ],
+      "size": 1,
+      "id": "Vetto (RE)"
+    },
+    {
+      "pos": [
+        17.098808857683256,
+        -10.656920346885023
+      ],
+      "rep": "Modena (MO)",
+      "members": [
+        "Modena (MO)"
+      ],
+      "size": 1,
+      "id": "Modena (MO)"
+    },
+    {
+      "pos": [
+        -3.2512278354618767,
+        -12.7216378639957
+      ],
+      "rep": "Quattro Castella (RE)",
+      "members": [
+        "Quattro Castella (RE)"
+      ],
+      "size": 1,
+      "id": "Quattro Castella (RE)"
+    },
+    {
+      "pos": [
+        -20.332251810437683,
+        31.59703102229263
+      ],
+      "rep": "Gabbioneta-Binanuova (CR)",
+      "members": [
+        "Gabbioneta-Binanuova (CR)"
+      ],
+      "size": 1,
+      "id": "Gabbioneta-Binanuova (CR)"
+    },
+    {
+      "pos": [
+        -10.478596837450105,
+        27.605195676049846
+      ],
+      "rep": "Canneto sull'Oglio (MN)",
+      "members": [
+        "Canneto sull'Oglio (MN)"
+      ],
+      "size": 1,
+      "id": "Canneto sull'Oglio (MN)"
+    },
+    {
+      "pos": [
+        -13.079683810152972,
+        -1.0049192970108585
+      ],
+      "rep": "Parma (PR)",
+      "members": [
+        "Parma (PR)"
+      ],
+      "size": 1,
+      "id": "Parma (PR)"
+    },
+    {
+      "pos": [
+        15.374718377709291,
+        -33.697491333884244
+      ],
+      "rep": "Pavullo nel Frignano (MO)",
+      "members": [
+        "Pavullo nel Frignano (MO)"
+      ],
+      "size": 1,
+      "id": "Pavullo nel Frignano (MO)"
+    },
+    {
+      "pos": [
+        18.946531855120796,
+        17.615437895440152
+      ],
+      "rep": "San Benedetto Po (MN)",
+      "members": [
+        "San Benedetto Po (MN)"
+      ],
+      "size": 1,
+      "id": "San Benedetto Po (MN)"
+    },
+    {
+      "pos": [
+        -28.442894878614013,
+        4.305620893503491
+      ],
+      "rep": "Fidenza (PR)",
+      "members": [
+        "Fidenza (PR)"
+      ],
+      "size": 1,
+      "id": "Fidenza (PR)"
+    },
+    {
+      "pos": [
+        -35.73860891533969,
+        -3.4780655462547703
+      ],
+      "rep": "Pellegrino Parmense (PR)",
+      "members": [
+        "Pellegrino Parmense (PR)"
+      ],
+      "size": 1,
+      "id": "Pellegrino Parmense (PR)"
+    },
+    {
+      "pos": [
+        -2.9876904506547075,
+        4.304900525169388
+      ],
+      "rep": "Poviglio (RE)",
+      "members": [
+        "Poviglio (RE)"
+      ],
+      "size": 1,
+      "id": "Poviglio (RE)"
+    },
+    {
+      "pos": [
+        4.672732062626565,
+        -34.96036099321514
+      ],
+      "rep": "Palagano (MO)",
+      "members": [
+        "Palagano (MO)"
+      ],
+      "size": 1,
+      "id": "Palagano (MO)"
+    },
+    {
+      "pos": [
+        29.40861553804317,
+        -8.887962486231947
+      ],
+      "rep": "Sant'Agata Bolognese (BO)",
+      "members": [
+        "Sant'Agata Bolognese (BO)"
+      ],
+      "size": 1,
+      "id": "Sant'Agata Bolognese (BO)"
+    },
+    {
+      "pos": [
+        2.7206136909676997,
+        0.8188823510036949
+      ],
+      "rep": "Cadelbosco di Sopra (RE)",
+      "members": [
+        "Cadelbosco di Sopra (RE)"
+      ],
+      "size": 1,
+      "id": "Cadelbosco di Sopra (RE)"
+    },
+    {
+      "pos": [
+        14.48440813107689,
+        -15.455034687752175
+      ],
+      "rep": "Formigine (MO)",
+      "members": [
+        "Formigine (MO)"
+      ],
+      "size": 1,
+      "id": "Formigine (MO)"
+    },
+    {
+      "pos": [
+        -3.4472630905900687,
+        28.82609966321154
+      ],
+      "rep": "Redondesco (MN)",
+      "members": [
+        "Redondesco (MN)"
+      ],
+      "size": 1,
+      "id": "Redondesco (MN)"
+    },
+    {
+      "pos": [
+        -22.527657547572108,
+        0.7205205499100498
+      ],
+      "rep": "Noceto (PR)",
+      "members": [
+        "Noceto (PR)"
+      ],
+      "size": 1,
+      "id": "Noceto (PR)"
+    },
+    {
+      "pos": [
+        -21.60561056744376,
+        6.299126628647859
+      ],
+      "rep": "Fontanellato (PR)",
+      "members": [
+        "Fontanellato (PR)"
+      ],
+      "size": 1,
+      "id": "Fontanellato (PR)"
+    },
+    {
+      "pos": [
+        13.203486384014322,
+        -26.36288816183895
+      ],
+      "rep": "Serramazzoni (MO)",
+      "members": [
+        "Serramazzoni (MO)"
+      ],
+      "size": 1,
+      "id": "Serramazzoni (MO)"
+    },
+    {
+      "pos": [
+        6.374523659796224,
+        12.434172619426926
+      ],
+      "rep": "Luzzara (RE)",
+      "members": [
+        "Luzzara (RE)"
+      ],
+      "size": 1,
+      "id": "Luzzara (RE)"
+    },
+    {
+      "pos": [
+        11.498152039605497,
+        -9.211406707982439
+      ],
+      "rep": "Rubiera (RE)",
+      "members": [
+        "Rubiera (RE)"
+      ],
+      "size": 1,
+      "id": "Rubiera (RE)"
+    },
+    {
+      "pos": [
+        -14.06319741690218,
+        -19.44394783679579
+      ],
+      "rep": "Neviano degli Arduini (PR)",
+      "members": [
+        "Neviano degli Arduini (PR)"
+      ],
+      "size": 1,
+      "id": "Neviano degli Arduini (PR)"
+    },
+    {
+      "pos": [
+        -25.00085616645606,
+        27.814130078288407
+      ],
+      "rep": "Gadesco-Pieve Delmona (CR)",
+      "members": [
+        "Gadesco-Pieve Delmona (CR)"
+      ],
+      "size": 1,
+      "id": "Gadesco-Pieve Delmona (CR)"
+    },
+    {
+      "pos": [
+        -4.807151092303588,
+        -19.766457763886475
+      ],
+      "rep": "Casina (RE)",
+      "members": [
+        "Casina (RE)"
+      ],
+      "size": 1,
+      "id": "Casina (RE)"
+    },
+    {
+      "pos": [
+        20.621985441588013,
+        28.978841875341985
+      ],
+      "rep": "Castel d'Ario (MN)",
+      "members": [
+        "Castel d'Ario (MN)"
+      ],
+      "size": 1,
+      "id": "Castel d'Ario (MN)"
+    },
+    {
+      "pos": [
+        -37.818192769673225,
+        -11.510022174225186
+      ],
+      "rep": "Varsi (PR)",
+      "members": [
+        "Varsi (PR)"
+      ],
+      "size": 1,
+      "id": "Varsi (PR)"
+    },
+    {
+      "pos": [
+        -1.0780305264344139,
+        38.81772240854736
+      ],
+      "rep": "Guidizzolo (MN)",
+      "members": [
+        "Guidizzolo (MN)"
+      ],
+      "size": 1,
+      "id": "Guidizzolo (MN)"
+    },
+    {
+      "pos": [
+        23.380957406370488,
+        13.601596454447211
+      ],
+      "rep": "San Giacomo delle Segnate (MN)",
+      "members": [
+        "San Giacomo delle Segnate (MN)"
+      ],
+      "size": 1,
+      "id": "San Giacomo delle Segnate (MN)"
+    },
+    {
+      "pos": [
+        -26.710936448443345,
+        -4.546331025468718
+      ],
+      "rep": "Medesano (PR)",
+      "members": [
+        "Medesano (PR)"
+      ],
+      "size": 1,
+      "id": "Medesano (PR)"
+    },
+    {
+      "pos": [
+        -20.724187569951965,
+        -21.27269986078157
+      ],
+      "rep": "Tizzano Val Parma (PR)",
+      "members": [
+        "Tizzano Val Parma (PR)"
+      ],
+      "size": 1,
+      "id": "Tizzano Val Parma (PR)"
+    },
+    {
+      "pos": [
+        1.6324594095801759,
+        -18.476909461830918
+      ],
+      "rep": "Viano (RE)",
+      "members": [
+        "Viano (RE)"
+      ],
+      "size": 1,
+      "id": "Viano (RE)"
+    },
+    {
+      "pos": [
+        6.7631372859391,
+        4.064070220441099
+      ],
+      "rep": "Novellara (RE)",
+      "members": [
+        "Novellara (RE)"
+      ],
+      "size": 1,
+      "id": "Novellara (RE)"
+    },
+    {
+      "pos": [
+        22.976908246694627,
+        22.22109184796993
+      ],
+      "rep": "Sustinente (MN)",
+      "members": [
+        "Sustinente (MN)"
+      ],
+      "size": 1,
+      "id": "Sustinente (MN)"
+    },
+    {
+      "pos": [
+        22.423534441706764,
+        -5.045105289113205
+      ],
+      "rep": "Bastiglia (MO)",
+      "members": [
+        "Bastiglia (MO)"
+      ],
+      "size": 1,
+      "id": "Bastiglia (MO)"
+    },
+    {
+      "pos": [
+        29.670098730149352,
+        9.046712536921492
+      ],
+      "rep": "Mirandola (MO)",
+      "members": [
+        "Mirandola (MO)"
+      ],
+      "size": 1,
+      "id": "Mirandola (MO)"
+    },
+    {
+      "pos": [
+        -31.717422550285264,
+        -12.020540662134964
+      ],
+      "rep": "Solignano (PR)",
+      "members": [
+        "Solignano (PR)"
+      ],
+      "size": 1,
+      "id": "Solignano (PR)"
+    },
+    {
+      "pos": [
+        16.366526044561848,
+        21.96123820346368
+      ],
+      "rep": "Bagnolo San Vito (MN)",
+      "members": [
+        "Bagnolo San Vito (MN)"
+      ],
+      "size": 1,
+      "id": "Bagnolo San Vito (MN)"
+    },
+    {
+      "pos": [
+        -10.28649522502917,
+        -11.94195242011015
+      ],
+      "rep": "Traversetolo (PR)",
+      "members": [
+        "Traversetolo (PR)"
+      ],
+      "size": 1,
+      "id": "Traversetolo (PR)"
+    },
+    {
+      "pos": [
+        3.8702726462231687,
+        39.53556342264234
+      ],
+      "rep": "Volta Mantovana (MN)",
+      "members": [
+        "Volta Mantovana (MN)"
+      ],
+      "size": 1,
+      "id": "Volta Mantovana (MN)"
+    },
+    {
+      "pos": [
+        15.354405336997829,
+        29.87793647830788
+      ],
+      "rep": "San Giorgio Bigarello (MN)",
+      "members": [
+        "San Giorgio Bigarello (MN)"
+      ],
+      "size": 1,
+      "id": "San Giorgio Bigarello (MN)"
+    },
+    {
+      "pos": [
+        -0.9686339305145406,
+        -39.52360049112501
+      ],
+      "rep": "Frassinoro (MO)",
+      "members": [
+        "Frassinoro (MO)"
+      ],
+      "size": 1,
+      "id": "Frassinoro (MO)"
+    }
+  ],
+  "edges": [
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 8.136762028414752,
+      "rep_dist_um": 8.136762028414752,
+      "source": "Pieve d'Olmi (CR)",
+      "target": "Cingia de' Botti (CR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 5.83808301426907,
+      "rep_dist_um": 5.83808301426907,
+      "source": "Pieve d'Olmi (CR)",
+      "target": "Gerre de' Caprioli (CR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.407459982908742,
+      "rep_dist_um": 7.407459982908742,
+      "source": "Pieve d'Olmi (CR)",
+      "target": "Roccabianca (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 8.231853370759996,
+      "rep_dist_um": 8.231853370759996,
+      "source": "Pieve d'Olmi (CR)",
+      "target": "Gadesco-Pieve Delmona (CR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.199003477549044,
+      "rep_dist_um": 6.199003477549044,
+      "source": "Salsomaggiore Terme (PR)",
+      "target": "Fidenza (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 5.721099119795196,
+      "rep_dist_um": 5.721099119795196,
+      "source": "Salsomaggiore Terme (PR)",
+      "target": "Pellegrino Parmense (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 8.254430658914748,
+      "rep_dist_um": 8.254430658914748,
+      "source": "Salsomaggiore Terme (PR)",
+      "target": "Medesano (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.030519952834778,
+      "rep_dist_um": 6.030519952834778,
+      "source": "Borgo Mantovano (MN)",
+      "target": "Borgocarbonara (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 5.6735701947686215,
+      "rep_dist_um": 5.6735701947686215,
+      "source": "Borgo Mantovano (MN)",
+      "target": "Ostiglia (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.299537264135148,
+      "rep_dist_um": 7.299537264135148,
+      "source": "Borgo Mantovano (MN)",
+      "target": "San Giacomo delle Segnate (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.565189687187735,
+      "rep_dist_um": 7.565189687187735,
+      "source": "Borgo Mantovano (MN)",
+      "target": "Sustinente (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.5071435714570205,
+      "rep_dist_um": 7.5071435714570205,
+      "source": "Villa Minozzo (RE)",
+      "target": "Toano (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.545412016063877,
+      "rep_dist_um": 6.545412016063877,
+      "source": "Villa Minozzo (RE)",
+      "target": "Frassinoro (MO)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.159057724823797,
+      "rep_dist_um": 6.159057724823797,
+      "source": "Gonzaga (MN)",
+      "target": "Moglia (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.278560079198007,
+      "rep_dist_um": 7.278560079198007,
+      "source": "Gonzaga (MN)",
+      "target": "Motteggiana (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.532239684089236,
+      "rep_dist_um": 6.532239684089236,
+      "source": "Gonzaga (MN)",
+      "target": "Fabbrico (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.177668750750691,
+      "rep_dist_um": 7.177668750750691,
+      "source": "Gonzaga (MN)",
+      "target": "Luzzara (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.247277035136841,
+      "rep_dist_um": 6.247277035136841,
+      "source": "Cingia de' Botti (CR)",
+      "target": "Cappella de' Picenardi (CR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.887095837805369,
+      "rep_dist_um": 7.887095837805369,
+      "source": "Cingia de' Botti (CR)",
+      "target": "Roccabianca (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.272471037812195,
+      "rep_dist_um": 6.272471037812195,
+      "source": "Cingia de' Botti (CR)",
+      "target": "San Giovanni in Croce (CR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.562318589060899,
+      "rep_dist_um": 7.562318589060899,
+      "source": "Cingia de' Botti (CR)",
+      "target": "Gussola (CR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 5.861458289651275,
+      "rep_dist_um": 5.861458289651275,
+      "source": "Monchio delle Corti (PR)",
+      "target": "Palanzano (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.521353967315313,
+      "rep_dist_um": 6.521353967315313,
+      "source": "Monchio delle Corti (PR)",
+      "target": "Corniglio (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.845992344120726,
+      "rep_dist_um": 7.845992344120726,
+      "source": "Ravarino (MO)",
+      "target": "Medolla (MO)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.163683793428147,
+      "rep_dist_um": 7.163683793428147,
+      "source": "Ravarino (MO)",
+      "target": "Sant'Agata Bolognese (BO)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.240564893643261,
+      "rep_dist_um": 6.240564893643261,
+      "source": "Ravarino (MO)",
+      "target": "Bastiglia (MO)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.387846605013064,
+      "rep_dist_um": 7.387846605013064,
+      "source": "Guiglia (MO)",
+      "target": "Vignola (MO)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 8.258514556424686,
+      "rep_dist_um": 8.258514556424686,
+      "source": "Guiglia (MO)",
+      "target": "Pavullo nel Frignano (MO)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 5.68247993314994,
+      "rep_dist_um": 5.68247993314994,
+      "source": "Gualtieri (RE)",
+      "target": "Pomponesco (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.266577103308164,
+      "rep_dist_um": 6.266577103308164,
+      "source": "Gualtieri (RE)",
+      "target": "Poviglio (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.608989539391899,
+      "rep_dist_um": 6.608989539391899,
+      "source": "Gualtieri (RE)",
+      "target": "Cadelbosco di Sopra (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 8.001289624658275,
+      "rep_dist_um": 8.001289624658275,
+      "source": "Gualtieri (RE)",
+      "target": "Luzzara (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.000015606245626,
+      "rep_dist_um": 6.000015606245626,
+      "source": "Gualtieri (RE)",
+      "target": "Novellara (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.216128631291943,
+      "rep_dist_um": 6.216128631291943,
+      "source": "Curtatone (MN)",
+      "target": "Marcaria (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 8.219852991429654,
+      "rep_dist_um": 8.219852991429654,
+      "source": "Curtatone (MN)",
+      "target": "Rodigo (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 5.699649173055987,
+      "rep_dist_um": 5.699649173055987,
+      "source": "Curtatone (MN)",
+      "target": "Mantova (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.226513081018759,
+      "rep_dist_um": 7.226513081018759,
+      "source": "Curtatone (MN)",
+      "target": "Motteggiana (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.331498904221099,
+      "rep_dist_um": 6.331498904221099,
+      "source": "Borgocarbonara (MN)",
+      "target": "Ostiglia (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 5.634708406142238,
+      "rep_dist_um": 5.634708406142238,
+      "source": "Colorno (PR)",
+      "target": "Gussola (CR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.349191720435833,
+      "rep_dist_um": 7.349191720435833,
+      "source": "Montechiarugolo (PR)",
+      "target": "Cavriago (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.74470824155262,
+      "rep_dist_um": 7.74470824155262,
+      "source": "Montechiarugolo (PR)",
+      "target": "Parma (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.214363570285,
+      "rep_dist_um": 6.214363570285,
+      "source": "Montechiarugolo (PR)",
+      "target": "Traversetolo (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.418882026308462,
+      "rep_dist_um": 6.418882026308462,
+      "source": "Marcaria (MN)",
+      "target": "Commessaggio (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.3486119342474625,
+      "rep_dist_um": 7.3486119342474625,
+      "source": "Marcaria (MN)",
+      "target": "Rodigo (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.8787837451267215,
+      "rep_dist_um": 7.8787837451267215,
+      "source": "Marcaria (MN)",
+      "target": "Redondesco (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.193387909834023,
+      "rep_dist_um": 6.193387909834023,
+      "source": "Commessaggio (MN)",
+      "target": "Rivarolo del Re ed Uniti (CR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.857397309411024,
+      "rep_dist_um": 7.857397309411024,
+      "source": "Commessaggio (MN)",
+      "target": "Pomponesco (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.5642907776644455,
+      "rep_dist_um": 6.5642907776644455,
+      "source": "Polinago (MO)",
+      "target": "Prignano sulla Secchia (MO)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.909388980407176,
+      "rep_dist_um": 7.909388980407176,
+      "source": "Polinago (MO)",
+      "target": "Pavullo nel Frignano (MO)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.026308550959066,
+      "rep_dist_um": 6.026308550959066,
+      "source": "Polinago (MO)",
+      "target": "Palagano (MO)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.524313607059164,
+      "rep_dist_um": 7.524313607059164,
+      "source": "Polinago (MO)",
+      "target": "Serramazzoni (MO)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.166006624949473,
+      "rep_dist_um": 6.166006624949473,
+      "source": "Volongo (CR)",
+      "target": "Cappella de' Picenardi (CR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 5.7965763686117455,
+      "rep_dist_um": 5.7965763686117455,
+      "source": "Volongo (CR)",
+      "target": "Gabbioneta-Binanuova (CR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.4806540904509005,
+      "rep_dist_um": 6.4806540904509005,
+      "source": "Volongo (CR)",
+      "target": "Canneto sull'Oglio (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.168485486180446,
+      "rep_dist_um": 7.168485486180446,
+      "source": "Sala Bolognese (BO)",
+      "target": "Anzola dell'Emilia (BO)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 8.344205244745782,
+      "rep_dist_um": 8.344205244745782,
+      "source": "Maranello (MO)",
+      "target": "Vignola (MO)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.648071963493592,
+      "rep_dist_um": 6.648071963493592,
+      "source": "Maranello (MO)",
+      "target": "Formigine (MO)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.2851252493313465,
+      "rep_dist_um": 6.2851252493313465,
+      "source": "Maranello (MO)",
+      "target": "Serramazzoni (MO)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.037431327915619,
+      "rep_dist_um": 7.037431327915619,
+      "source": "San Possidonio (MO)",
+      "target": "Moglia (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.475448288408028,
+      "rep_dist_um": 6.475448288408028,
+      "source": "San Possidonio (MO)",
+      "target": "Medolla (MO)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.268544120409686,
+      "rep_dist_um": 7.268544120409686,
+      "source": "San Possidonio (MO)",
+      "target": "San Giacomo delle Segnate (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.251936310987479,
+      "rep_dist_um": 6.251936310987479,
+      "source": "Rivarolo del Re ed Uniti (CR)",
+      "target": "San Giovanni in Croce (CR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.62535387386742,
+      "rep_dist_um": 7.62535387386742,
+      "source": "Rivarolo del Re ed Uniti (CR)",
+      "target": "Gussola (CR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 5.707799475502417,
+      "rep_dist_um": 5.707799475502417,
+      "source": "Prignano sulla Secchia (MO)",
+      "target": "Castellarano (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.465856028983956,
+      "rep_dist_um": 6.465856028983956,
+      "source": "Prignano sulla Secchia (MO)",
+      "target": "Serramazzoni (MO)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 5.822098644582003,
+      "rep_dist_um": 5.822098644582003,
+      "source": "Moglia (MN)",
+      "target": "San Benedetto Po (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 5.810089489309979,
+      "rep_dist_um": 5.810089489309979,
+      "source": "Moglia (MN)",
+      "target": "San Giacomo delle Segnate (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.849776245756707,
+      "rep_dist_um": 6.849776245756707,
+      "source": "Reggio nell'Emilia (RE)",
+      "target": "Cavriago (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.32699821288997,
+      "rep_dist_um": 7.32699821288997,
+      "source": "Palanzano (PR)",
+      "target": "Ventasso (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 8.002038638326347,
+      "rep_dist_um": 8.002038638326347,
+      "source": "Palanzano (PR)",
+      "target": "Corniglio (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.487014454973114,
+      "rep_dist_um": 6.487014454973114,
+      "source": "Palanzano (PR)",
+      "target": "Tizzano Val Parma (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.494173978486886,
+      "rep_dist_um": 6.494173978486886,
+      "source": "Cavriago (RE)",
+      "target": "Campegine (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.532401562889485,
+      "rep_dist_um": 6.532401562889485,
+      "source": "Cavriago (RE)",
+      "target": "Quattro Castella (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.978137521919346,
+      "rep_dist_um": 7.978137521919346,
+      "source": "Ostiglia (MN)",
+      "target": "Sustinente (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 5.991981682811107,
+      "rep_dist_um": 5.991981682811107,
+      "source": "Cappella de' Picenardi (CR)",
+      "target": "Gabbioneta-Binanuova (CR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.436331074312009,
+      "rep_dist_um": 7.436331074312009,
+      "source": "Cappella de' Picenardi (CR)",
+      "target": "Gadesco-Pieve Delmona (CR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.095340812356109,
+      "rep_dist_um": 6.095340812356109,
+      "source": "Campegine (RE)",
+      "target": "Poviglio (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.519579383506322,
+      "rep_dist_um": 6.519579383506322,
+      "source": "Campegine (RE)",
+      "target": "Cadelbosco di Sopra (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.21985973270028,
+      "rep_dist_um": 6.21985973270028,
+      "source": "Fornovo di Taro (PR)",
+      "target": "Calestano (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.635956424400233,
+      "rep_dist_um": 7.635956424400233,
+      "source": "Fornovo di Taro (PR)",
+      "target": "Felino (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.492160994821388,
+      "rep_dist_um": 6.492160994821388,
+      "source": "Fornovo di Taro (PR)",
+      "target": "Medesano (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.232498701566902,
+      "rep_dist_um": 6.232498701566902,
+      "source": "Toano (RE)",
+      "target": "Carpineti (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.709454280459654,
+      "rep_dist_um": 7.709454280459654,
+      "source": "Toano (RE)",
+      "target": "Palagano (MO)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.245089100999972,
+      "rep_dist_um": 6.245089100999972,
+      "source": "Medolla (MO)",
+      "target": "Mirandola (MO)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.9777661359568794,
+      "rep_dist_um": 7.9777661359568794,
+      "source": "Rodigo (MN)",
+      "target": "Marmirolo (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.360865761938883,
+      "rep_dist_um": 7.360865761938883,
+      "source": "Rodigo (MN)",
+      "target": "Redondesco (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.503775225991291,
+      "rep_dist_um": 6.503775225991291,
+      "source": "Castellarano (RE)",
+      "target": "Scandiano (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.918511257440004,
+      "rep_dist_um": 6.918511257440004,
+      "source": "Castellarano (RE)",
+      "target": "Viano (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.5915151340430915,
+      "rep_dist_um": 6.5915151340430915,
+      "source": "Pomponesco (MN)",
+      "target": "Luzzara (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.2617036353689945,
+      "rep_dist_um": 7.2617036353689945,
+      "source": "Calestano (PR)",
+      "target": "Tizzano Val Parma (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 5.798511036976551,
+      "rep_dist_um": 5.798511036976551,
+      "source": "Felino (PR)",
+      "target": "Collecchio (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.6988662721605525,
+      "rep_dist_um": 7.6988662721605525,
+      "source": "Mantova (MN)",
+      "target": "Bagnolo San Vito (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 5.689346140114502,
+      "rep_dist_um": 5.689346140114502,
+      "source": "Mantova (MN)",
+      "target": "San Giorgio Bigarello (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.804214264455606,
+      "rep_dist_um": 7.804214264455606,
+      "source": "Gerre de' Caprioli (CR)",
+      "target": "Gadesco-Pieve Delmona (CR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 8.398776250281355,
+      "rep_dist_um": 8.398776250281355,
+      "source": "Roccabianca (PR)",
+      "target": "Gussola (CR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 8.23954765257726,
+      "rep_dist_um": 8.23954765257726,
+      "source": "Correggio (RE)",
+      "target": "Carpi (MO)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.679443609985871,
+      "rep_dist_um": 7.679443609985871,
+      "source": "Correggio (RE)",
+      "target": "Rubiera (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 8.18886308214425,
+      "rep_dist_um": 8.18886308214425,
+      "source": "Correggio (RE)",
+      "target": "Novellara (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.160863879322823,
+      "rep_dist_um": 7.160863879322823,
+      "source": "Collecchio (PR)",
+      "target": "Parma (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.292566385342823,
+      "rep_dist_um": 6.292566385342823,
+      "source": "Collecchio (PR)",
+      "target": "Noceto (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.897178188994073,
+      "rep_dist_um": 6.897178188994073,
+      "source": "Marmirolo (MN)",
+      "target": "Volta Mantovana (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 5.911505182635475,
+      "rep_dist_um": 5.911505182635475,
+      "source": "San Giovanni in Croce (CR)",
+      "target": "Gussola (CR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.542201336386451,
+      "rep_dist_um": 7.542201336386451,
+      "source": "San Giovanni in Croce (CR)",
+      "target": "Canneto sull'Oglio (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.457264520898145,
+      "rep_dist_um": 7.457264520898145,
+      "source": "Corniglio (PR)",
+      "target": "Berceto (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.599197610181261,
+      "rep_dist_um": 7.599197610181261,
+      "source": "Corniglio (PR)",
+      "target": "Tizzano Val Parma (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 5.860004472606431,
+      "rep_dist_um": 5.860004472606431,
+      "source": "Anzola dell'Emilia (BO)",
+      "target": "Castelfranco Emilia (MO)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.62557522582972,
+      "rep_dist_um": 6.62557522582972,
+      "source": "Casaloldo (MN)",
+      "target": "Redondesco (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.837403083066451,
+      "rep_dist_um": 6.837403083066451,
+      "source": "Casaloldo (MN)",
+      "target": "Guidizzolo (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.44806718085504,
+      "rep_dist_um": 6.44806718085504,
+      "source": "Castelfranco Emilia (MO)",
+      "target": "Sant'Agata Bolognese (BO)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.403828028438875,
+      "rep_dist_um": 7.403828028438875,
+      "source": "Motteggiana (MN)",
+      "target": "Luzzara (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.688969144280136,
+      "rep_dist_um": 7.688969144280136,
+      "source": "Fabbrico (RE)",
+      "target": "Carpi (MO)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.795409756520704,
+      "rep_dist_um": 6.795409756520704,
+      "source": "Fabbrico (RE)",
+      "target": "Novellara (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.47429392538532,
+      "rep_dist_um": 6.47429392538532,
+      "source": "Scandiano (RE)",
+      "target": "Viano (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.348473066233145,
+      "rep_dist_um": 7.348473066233145,
+      "source": "Valmozzola (PR)",
+      "target": "Berceto (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 5.673118422237615,
+      "rep_dist_um": 5.673118422237615,
+      "source": "Valmozzola (PR)",
+      "target": "Varsi (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.9707660508564935,
+      "rep_dist_um": 7.9707660508564935,
+      "source": "Valmozzola (PR)",
+      "target": "Solignano (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.364004565841509,
+      "rep_dist_um": 7.364004565841509,
+      "source": "Carpineti (RE)",
+      "target": "Casina (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 8.375827127781713,
+      "rep_dist_um": 8.375827127781713,
+      "source": "Carpineti (RE)",
+      "target": "Viano (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.111604700699834,
+      "rep_dist_um": 6.111604700699834,
+      "source": "Vetto (RE)",
+      "target": "Neviano degli Arduini (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.845471074175754,
+      "rep_dist_um": 7.845471074175754,
+      "source": "Vetto (RE)",
+      "target": "Casina (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.104828935740432,
+      "rep_dist_um": 6.104828935740432,
+      "source": "Modena (MO)",
+      "target": "Formigine (MO)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.462389078579458,
+      "rep_dist_um": 6.462389078579458,
+      "source": "Modena (MO)",
+      "target": "Rubiera (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 8.060508527486311,
+      "rep_dist_um": 8.060508527486311,
+      "source": "Quattro Castella (RE)",
+      "target": "Casina (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 8.433097461341745,
+      "rep_dist_um": 8.433097461341745,
+      "source": "Quattro Castella (RE)",
+      "target": "Viano (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.9082772721761625,
+      "rep_dist_um": 7.9082772721761625,
+      "source": "Quattro Castella (RE)",
+      "target": "Traversetolo (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.713382610053937,
+      "rep_dist_um": 6.713382610053937,
+      "source": "Gabbioneta-Binanuova (CR)",
+      "target": "Gadesco-Pieve Delmona (CR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.973305790752354,
+      "rep_dist_um": 7.973305790752354,
+      "source": "Canneto sull'Oglio (MN)",
+      "target": "Redondesco (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.682525331990594,
+      "rep_dist_um": 6.682525331990594,
+      "source": "San Benedetto Po (MN)",
+      "target": "San Giacomo delle Segnate (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.837716102973036,
+      "rep_dist_um": 6.837716102973036,
+      "source": "San Benedetto Po (MN)",
+      "target": "Sustinente (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 5.646526995147847,
+      "rep_dist_um": 5.646526995147847,
+      "source": "San Benedetto Po (MN)",
+      "target": "Bagnolo San Vito (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.727865749602331,
+      "rep_dist_um": 7.727865749602331,
+      "source": "Fidenza (PR)",
+      "target": "Noceto (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.957028055899059,
+      "rep_dist_um": 7.957028055899059,
+      "source": "Fidenza (PR)",
+      "target": "Fontanellato (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.472814210245151,
+      "rep_dist_um": 7.472814210245151,
+      "source": "Poviglio (RE)",
+      "target": "Cadelbosco di Sopra (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 8.10666244471541,
+      "rep_dist_um": 8.10666244471541,
+      "source": "Palagano (MO)",
+      "target": "Frassinoro (MO)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 5.79175918934887,
+      "rep_dist_um": 5.79175918934887,
+      "source": "Cadelbosco di Sopra (RE)",
+      "target": "Novellara (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.732519406248059,
+      "rep_dist_um": 7.732519406248059,
+      "source": "Formigine (MO)",
+      "target": "Rubiera (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.317259134694434,
+      "rep_dist_um": 6.317259134694434,
+      "source": "Noceto (PR)",
+      "target": "Fontanellato (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.51466454300679,
+      "rep_dist_um": 7.51466454300679,
+      "source": "Noceto (PR)",
+      "target": "Medesano (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.717371301746444,
+      "rep_dist_um": 7.717371301746444,
+      "source": "Neviano degli Arduini (PR)",
+      "target": "Tizzano Val Parma (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.337495419914769,
+      "rep_dist_um": 7.337495419914769,
+      "source": "Casina (RE)",
+      "target": "Viano (RE)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.995395096450254,
+      "rep_dist_um": 7.995395096450254,
+      "source": "Castel d'Ario (MN)",
+      "target": "Sustinente (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 5.970317364938024,
+      "rep_dist_um": 5.970317364938024,
+      "source": "Castel d'Ario (MN)",
+      "target": "San Giorgio Bigarello (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 6.839910426588071,
+      "rep_dist_um": 6.839910426588071,
+      "source": "Varsi (PR)",
+      "target": "Solignano (PR)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 5.58636310129638,
+      "rep_dist_um": 5.58636310129638,
+      "source": "Guidizzolo (MN)",
+      "target": "Volta Mantovana (MN)"
+    },
+    {
+      "count_orig_edges": 1,
+      "min_member_dist_um": 7.391155391773895,
+      "rep_dist_um": 7.391155391773895,
+      "source": "Sustinente (MN)",
+      "target": "Bagnolo San Vito (MN)"
+    }
+  ]
+}

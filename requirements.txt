@@ -1,0 +1,8 @@
+# Offline data replay. Use Python 3.12 or later.
+networkx==3.6.1
+numpy==2.3.5
+scipy==1.17.0
+matplotlib==3.10.8
+PyYAML==6.0.3
+shapely==2.1.2
+pyproj==3.7.2

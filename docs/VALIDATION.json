@@ -1,0 +1,77 @@
+{
+  "tested_platform": "Linux",
+  "python_version": "3.13.5",
+  "packages": {
+    "numpy": "2.3.5",
+    "networkx": "3.6.1",
+    "scipy": "1.17.0",
+    "matplotlib": "3.10.8",
+    "pyproj": "3.7.2",
+    "shapely": "2.1.2",
+    "pytest": "9.0.2"
+  },
+  "automated_tests": {
+    "passed": 45,
+    "skipped": 1,
+    "skip_reason": "CPLEX runtime unavailable"
+  },
+  "graph_generation": {
+    "instances": 570,
+    "all_node_edge_and_order_matches": true,
+    "max_coordinate_error_um": 1.5888218580782548e-14
+  },
+  "synthetic_heuristics": {
+    "compared_cardinalities": 2280,
+    "all_match": true
+  },
+  "synthetic_raw_statistics": {
+    "compared_values": 3420,
+    "all_match": true
+  },
+  "exact_maximum_independent_set": {
+    "certified_instances": 570,
+    "method": "Historical branch-and-bound; not CPLEX"
+  },
+  "case_studies": {
+    "palermo_emulator": {
+      "IS_count": 965,
+      "shots": 1000,
+      "DS_direct": 13,
+      "DS_complement": 12
+    },
+    "palermo_qpu": {
+      "IS_count": 587,
+      "shots": 1000,
+      "DS_direct": 13,
+      "DS_complement": 12
+    },
+    "modena_emulator": {
+      "IS_count": 740,
+      "shots": 1000,
+      "DS_direct": 31,
+      "DS_complement": 29
+    },
+    "modena_qpu": {
+      "IS_count": 161,
+      "shots": 1000,
+      "DS_direct": 32,
+      "DS_complement": 29
+    }
+  },
+  "not_executed": [
+    "CPLEX exact MDS runs",
+    "Live Pasqal submission or fetch",
+    "Windows/Spyder execution",
+    "Fresh geographical remote download"
+  ],
+  "not_claimed": [
+    "Agreement with old Modena QPU value 31 or 30",
+    "Pixel-identical rendering",
+    "Historical calibration/CPLEX versions recovered",
+    "All historical pulse grids/configurations archived"
+  ],
+  "archived_input_json_comparison": {
+    "compared": 1179,
+    "changed": []
+  }
+}

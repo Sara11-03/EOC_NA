@@ -1,0 +1,16 @@
+# Illustrative new-run settings; not certified historical pulse configurations.
+# Example parameters for the Palermo/Sicily-style case study.
+# The paper instance was manually curated; this file gives a reproducible
+# starting point from public municipality coordinates.
+geojson: data/raw/comuni.geojson
+center_name: Palermo
+radius_km: 105
+max_nodes: 41
+edge_radius_km: 13.0
+desired_edge_radius_um: 10.0
+device_radius_um: 46.0
+min_atom_distance_um: 5.0
+max_atoms: 100
+runs: 1000
+total_time_ns: 3600
+delta_f_multiplier: 2.8

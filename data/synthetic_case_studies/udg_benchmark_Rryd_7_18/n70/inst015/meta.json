@@ -1,0 +1,47 @@
+{
+  "n": 70,
+  "instance": 15,
+  "seed": 219240275,
+  "seed_try": 0,
+  "num_edges": 117,
+  "avg_degree": 3.342857142857143,
+  "r_conn_um": 7.186760677748386,
+  "max_radial_um": 35.55378364745522,
+  "min_pairwise_um": 5.115428863120809,
+  "graph_attrs": {
+    "radius_um": 7.186760677748386,
+    "min_dist_um": 5.0,
+    "max_radius_um": 46.0,
+    "placement_radius_um": 37.75615183626054,
+    "R_ryd_um": 7.186760677748386
+  },
+  "sequence_duration_ns": 6000,
+  "interaction_coeff": 868066.9281,
+  "physics_params": {
+    "R_min_um": 7.186205824762692,
+    "R_max_um": 7.2142690167146855,
+    "R_opt_um": 7.200223748559491,
+    "omega_max_rad_per_us": 6.22984520890555,
+    "delta_f_rad_per_us": 6.22984520890555,
+    "delta_f_min_rad_per_us": 6.157426169014262,
+    "delta_f_max_rad_per_us": 6.303115987363377
+  },
+  "rescaled_to_R_ryd_um": 7.186760677748386,
+  "min_pairwise_constraint_um": 5.0,
+  "allow_shrink": false,
+  "scale_target_for_R_ryd": 0.99813018716067,
+  "scale_min_for_min_dist": 0.9774351542735776,
+  "scale_applied": 1.0,
+  "scale_clamp_reasons": [
+    "no_shrink"
+  ],
+  "R_min_um_before": 7.186205824762692,
+  "R_max_um_before": 7.2142690167146855,
+  "R_opt_um_before": 7.200223748559491,
+  "min_pairwise_um_before": 5.115428863120809,
+  "R_min_um_after": 7.186205824762692,
+  "R_max_um_after": 7.2142690167146855,
+  "R_opt_um_after": 7.200223748559491,
+  "min_pairwise_um_after": 5.115428863120809,
+  "max_radial_um_after": 35.55378364745522
+}

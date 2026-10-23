@@ -1,0 +1,822 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "lon": 14.034219394050352,
+      "lat": 37.73594243486826,
+      "idx": 47,
+      "pretty": "Castellana Sicula",
+      "x_3857": 1562282.1566267696,
+      "y_3857": 4542190.200118477,
+      "pos": [
+        33.955052691358276,
+        -8.58907902332002
+      ],
+      "id": "Castellana Sicula (PA)"
+    },
+    {
+      "lon": 13.825915989113913,
+      "lat": 37.75626748249862,
+      "idx": 99,
+      "pretty": "Valledolmo",
+      "x_3857": 1539093.9276587402,
+      "y_3857": 4545051.569448167,
+      "pos": [
+        23.294487622914296,
+        -7.846865964656538
+      ],
+      "id": "Valledolmo (PA)"
+    },
+    {
+      "lon": 12.73335040872848,
+      "lat": 37.993200556617765,
+      "idx": 1,
+      "pretty": "Buseto Palizzolo",
+      "x_3857": 1417470.0835919762,
+      "y_3857": 4578465.324087257,
+      "pos": [
+        -32.8478460001954,
+        4.77464413054645
+      ],
+      "id": "Buseto Palizzolo (TP)"
+    },
+    {
+      "lon": 13.387533314335496,
+      "lat": 38.03707071464767,
+      "idx": 32,
+      "pretty": "Belmonte Mezzagno",
+      "x_3857": 1490293.3915298134,
+      "y_3857": 4584663.985970181,
+      "pos": [
+        0.1619406556357478,
+        9.031673363917543
+      ],
+      "id": "Belmonte Mezzagno (PA)"
+    },
+    {
+      "lon": 13.10581587450779,
+      "lat": 37.74045330966072,
+      "idx": 56,
+      "pretty": "Contessa Entellina",
+      "x_3857": 1458932.7495806084,
+      "y_3857": 4542825.175255343,
+      "pos": [
+        -13.265679190271959,
+        -10.609821476078555
+      ],
+      "id": "Contessa Entellina (PA)"
+    },
+    {
+      "lon": 13.095577250958549,
+      "lat": 37.89402664717658,
+      "idx": 42,
+      "pretty": "Camporeale",
+      "x_3857": 1457792.991220683,
+      "y_3857": 4564466.129944654,
+      "pos": [
+        -14.21781833470275,
+        -0.8013101446885847
+      ],
+      "id": "Camporeale (PA)"
+    },
+    {
+      "lon": 13.681465215151928,
+      "lat": 37.8773529981757,
+      "idx": 37,
+      "pretty": "Caccamo",
+      "x_3857": 1523013.7410565976,
+      "y_3857": 4562114.363627481,
+      "pos": [
+        15.56164376326033,
+        -0.46771644239417
+      ],
+      "id": "Caccamo (PA)"
+    },
+    {
+      "lon": 13.93405131668228,
+      "lat": 38.000553496691104,
+      "idx": 67,
+      "pretty": "Lascari",
+      "x_3857": 1551131.4972604145,
+      "y_3857": 4579504.003684182,
+      "pos": [
+        27.962929374064746,
+        8.083595526704183
+      ],
+      "id": "Lascari (PA)"
+    },
+    {
+      "lon": 13.61851067670026,
+      "lat": 37.70452843595642,
+      "idx": 48,
+      "pretty": "Castronovo di Sicilia",
+      "x_3857": 1516005.6738930326,
+      "y_3857": 4537769.268047237,
+      "pos": [
+        12.914346635360264,
+        -11.692931144673258
+      ],
+      "id": "Castronovo di Sicilia (PA)"
+    },
+    {
+      "lon": 12.711085649397804,
+      "lat": 37.9009378340705,
+      "idx": 19,
+      "pretty": "Trapani",
+      "x_3857": 1414991.5819206508,
+      "y_3857": 4565441.087499498,
+      "pos": [
+        -33.74016355940056,
+        -1.1763396280611131
+      ],
+      "id": "Trapani (TP)"
+    },
+    {
+      "lon": 12.777722473754762,
+      "lat": 37.820097635709885,
+      "idx": 16,
+      "pretty": "Salemi",
+      "x_3857": 1422409.5592761482,
+      "y_3857": 4554042.722315086,
+      "pos": [
+        -30.150537223948454,
+        -6.215158366564272
+      ],
+      "id": "Salemi (TP)"
+    },
+    {
+      "lon": 13.081791570924436,
+      "lat": 38.11782077093402,
+      "idx": 94,
+      "pretty": "Terrasini",
+      "x_3857": 1456258.3763390465,
+      "y_3857": 4596083.332628232,
+      "pos": [
+        -15.546720046532073,
+        13.494848606214838
+      ],
+      "id": "Terrasini (PA)"
+    },
+    {
+      "lon": 13.766521131197791,
+      "lat": 37.83427063802636,
+      "idx": 74,
+      "pretty": "Montemaggiore Belsito",
+      "x_3857": 1532482.1223197787,
+      "y_3857": 4556040.1942266775,
+      "pos": [
+        20.019699359869282,
+        -3.0073308842308832
+      ],
+      "id": "Montemaggiore Belsito (PA)"
+    },
+    {
+      "lon": 14.041426996959256,
+      "lat": 37.9942923661625,
+      "idx": 50,
+      "pretty": "Cefalù",
+      "x_3857": 1563084.5033124287,
+      "y_3857": 4578619.54700811,
+      "pos": [
+        33.42574991356216,
+        7.975001377677792
+      ],
+      "id": "Cefalù (PA)"
+    },
+    {
+      "lon": 13.928251856032729,
+      "lat": 37.78338843925033,
+      "idx": 38,
+      "pretty": "Caltavuturo",
+      "x_3857": 1550485.904254031,
+      "y_3857": 4548870.894532487,
+      "pos": [
+        28.405530169783,
+        -5.838335105715644
+      ],
+      "id": "Caltavuturo (PA)"
+    },
+    {
+      "lon": 13.497210246864627,
+      "lat": 38.07754280490173,
+      "idx": 29,
+      "pretty": "Bagheria",
+      "x_3857": 1502502.5718107247,
+      "y_3857": 4590385.809311137,
+      "pos": [
+        5.590124862122532,
+        11.88883406615294
+      ],
+      "id": "Bagheria (PA)"
+    },
+    {
+      "lon": 13.014286479030504,
+      "lat": 38.04988921513248,
+      "idx": 30,
+      "pretty": "Balestrate",
+      "x_3857": 1448743.743883461,
+      "y_3857": 4586475.884967934,
+      "pos": [
+        -18.772600683008996,
+        8.996914141137252
+      ],
+      "id": "Balestrate (PA)"
+    },
+    {
+      "lon": 13.180741123080368,
+      "lat": 38.13159850690387,
+      "idx": 44,
+      "pretty": "Carini",
+      "x_3857": 1467273.3900992675,
+      "y_3857": 4598032.984726666,
+      "pos": [
+        -10.581946604798427,
+        14.600043820385972
+      ],
+      "id": "Carini (PA)"
+    },
+    {
+      "lon": 13.15728686560674,
+      "lat": 38.042229241962346,
+      "idx": 36,
+      "pretty": "Borgetto",
+      "x_3857": 1464662.4741003688,
+      "y_3857": 4585393.107257713,
+      "pos": [
+        -11.511450410962286,
+        8.8252460903269
+      ],
+      "id": "Borgetto (PA)"
+    },
+    {
+      "lon": 14.006368974572776,
+      "lat": 37.91252432280303,
+      "idx": 65,
+      "pretty": "Isnello",
+      "x_3857": 1559181.8621121468,
+      "y_3857": 4567075.792893182,
+      "pos": [
+        31.931194060748794,
+        2.6426143659715295
+      ],
+      "id": "Isnello (PA)"
+    },
+    {
+      "lon": 13.575469881761393,
+      "lat": 37.79151023263909,
+      "idx": 101,
+      "pretty": "Vicari",
+      "x_3857": 1511214.3945171002,
+      "y_3857": 4550014.923639467,
+      "pos": [
+        10.45198487789555,
+        -6.231408062426051
+      ],
+      "id": "Vicari (PA)"
+    },
+    {
+      "lon": 13.283398745602703,
+      "lat": 37.6648418975751,
+      "idx": 52,
+      "pretty": "Chiusa Sclafani",
+      "x_3857": 1478701.1843645019,
+      "y_3857": 4532186.808836088,
+      "pos": [
+        -4.015812238587307,
+        -15.045221230693791
+      ],
+      "id": "Chiusa Sclafani (PA)"
+    },
+    {
+      "lon": 13.264512702312004,
+      "lat": 37.75398632660677,
+      "idx": 41,
+      "pretty": "Campofiorito",
+      "x_3857": 1476598.7996422816,
+      "y_3857": 4544730.38814421,
+      "pos": [
+        -5.237267605758321,
+        -9.382067700227887
+      ],
+      "id": "Campofiorito (PA)"
+    },
+    {
+      "lon": 13.554317444386788,
+      "lat": 37.88038254579482,
+      "idx": 53,
+      "pretty": "Ciminna",
+      "x_3857": 1508859.7159595224,
+      "y_3857": 4562541.632309857,
+      "pos": [
+        9.099193307556128,
+        -0.5937645838483443
+      ],
+      "id": "Ciminna (PA)"
+    },
+    {
+      "lon": 13.42515484681084,
+      "lat": 37.947228314176186,
+      "idx": 69,
+      "pretty": "Marineo",
+      "x_3857": 1494481.4013678313,
+      "y_3857": 4571973.623450317,
+      "pos": [
+        2.341013752875543,
+        3.36997785984795
+      ],
+      "id": "Marineo (PA)"
+    },
+    {
+      "lon": 12.868744825789614,
+      "lat": 37.90376684580381,
+      "idx": 2,
+      "pretty": "Calatafimi-Segesta",
+      "x_3857": 1432542.1211554739,
+      "y_3857": 4565840.201127173,
+      "pos": [
+        -25.75087471960269,
+        -0.6698263029889144
+      ],
+      "id": "Calatafimi-Segesta (TP)"
+    },
+    {
+      "lon": 13.294307018672528,
+      "lat": 37.96880927732544,
+      "idx": 80,
+      "pretty": "Piana degli Albanesi",
+      "x_3857": 1479915.4877680687,
+      "y_3857": 4575020.546379135,
+      "pos": [
+        -4.356648700743462,
+        4.440622203404407
+      ],
+      "id": "Piana degli Albanesi (PA)"
+    },
+    {
+      "lon": 12.865929110524515,
+      "lat": 37.77962164590444,
+      "idx": 17,
+      "pretty": "Santa Ninfa",
+      "x_3857": 1432228.6771659441,
+      "y_3857": 4548340.34980778,
+      "pos": [
+        -25.564236471308256,
+        -8.622667140597523
+      ],
+      "id": "Santa Ninfa (TP)"
+    },
+    {
+      "lon": 12.985225984882916,
+      "lat": 37.76259432105311,
+      "idx": 15,
+      "pretty": "Salaparuta",
+      "x_3857": 1445508.7444727505,
+      "y_3857": 4545942.425041146,
+      "pos": [
+        -19.456514077119813,
+        -9.457856549642631
+      ],
+      "id": "Salaparuta (TP)"
+    },
+    {
+      "lon": 13.705241012026548,
+      "lat": 37.954568241774986,
+      "idx": 93,
+      "pretty": "Termini Imerese",
+      "x_3857": 1525660.4506578846,
+      "y_3857": 4573009.8156481525,
+      "pos": [
+        16.518267444442348,
+        4.537252449315108
+      ],
+      "id": "Termini Imerese (PA)"
+    },
+    {
+      "lon": 13.392927033341255,
+      "lat": 37.66147343057085,
+      "idx": 75,
+      "pretty": "Palazzo Adriano",
+      "x_3857": 1490893.8175830166,
+      "y_3857": 4531713.124940558,
+      "pos": [
+        1.568579089779211,
+        -15.002487434182397
+      ],
+      "id": "Palazzo Adriano (PA)"
+    },
+    {
+      "lon": 13.415855888363229,
+      "lat": 37.86146577279085,
+      "idx": 63,
+      "pretty": "Godrano",
+      "x_3857": 1493446.2460485355,
+      "y_3857": 4559874.015141406,
+      "pos": [
+        2.130061387284977,
+        -2.1433219371031207
+      ],
+      "id": "Godrano (PA)"
+    },
+    {
+      "lon": 12.827745038020216,
+      "lat": 38.01624796059127,
+      "idx": 4,
+      "pretty": "Castellammare del Golfo",
+      "x_3857": 1427978.045658352,
+      "y_3857": 4581721.35910724,
+      "pos": [
+        -28.126755362519912,
+        6.444494417252351
+      ],
+      "id": "Castellammare del Golfo (TP)"
+    },
+    {
+      "lon": 13.450997447164069,
+      "lat": 37.73641455592344,
+      "idx": 83,
+      "pretty": "Prizzi",
+      "x_3857": 1497358.1864799268,
+      "y_3857": 4542256.656619308,
+      "pos": [
+        4.295804218376576,
+        -10.064791927584512
+      ],
+      "id": "Prizzi (PA)"
+    },
+    {
+      "lon": 13.825749503096272,
+      "lat": 37.90079317291642,
+      "idx": 51,
+      "pretty": "Cerda",
+      "x_3857": 1539075.3945200322,
+      "y_3857": 4565420.679287378,
+      "pos": [
+        22.806840162812346,
+        1.4071280090204352
+      ],
+      "id": "Cerda (PA)"
+    },
+    {
+      "lon": 13.520335898964742,
+      "lat": 37.98331078887925,
+      "idx": 100,
+      "pretty": "Ventimiglia di Sicilia",
+      "x_3857": 1505076.9076267718,
+      "y_3857": 4577068.45526306,
+      "pos": [
+        7.054409426737476,
+        5.912356088974286
+      ],
+      "id": "Ventimiglia di Sicilia (PA)"
+    },
+    {
+      "lon": 12.9772169889459,
+      "lat": 37.96789374011967,
+      "idx": 0,
+      "pretty": "Alcamo",
+      "x_3857": 1444617.1871232765,
+      "y_3857": 4574891.267449458,
+      "pos": [
+        -20.424405057891736,
+        3.667093048098899
+      ],
+      "id": "Alcamo (TP)"
+    },
+    {
+      "lon": 13.167756968489384,
+      "lat": 37.82229366070337,
+      "idx": 84,
+      "pretty": "Roccamena",
+      "x_3857": 1465828.000621818,
+      "y_3857": 4554352.1939567905,
+      "pos": [
+        -10.350619526477562,
+        -5.231112559958652
+      ],
+      "id": "Roccamena (PA)"
+    },
+    {
+      "lon": 13.310865565600038,
+      "lat": 38.13718492281573,
+      "idx": 76,
+      "pretty": "Palermo",
+      "x_3857": 1481758.7767803157,
+      "y_3857": 4598823.608980694,
+      "pos": [
+        -4.018296073159648,
+        15.25935243468627
+      ],
+      "id": "Palermo (PA)"
+    },
+    {
+      "lon": 13.92631582898188,
+      "lat": 37.86134768137976,
+      "idx": 104,
+      "pretty": "Scillato",
+      "x_3857": 1550270.3867085683,
+      "y_3857": 4559857.364204802,
+      "pos": [
+        28.04327201931244,
+        -0.851375205890135
+      ],
+      "id": "Scillato (PA)"
+    },
+    {
+      "lon": 13.19092059860487,
+      "lat": 37.96861596398328,
+      "idx": 87,
+      "pretty": "San Giuseppe Jato",
+      "x_3857": 1468406.5641311975,
+      "y_3857": 4574993.24932913,
+      "pos": [
+        -9.595932908762418,
+        4.1890968158918875
+      ],
+      "id": "San Giuseppe Jato (PA)"
+    }
+  ],
+  "edges": [
+    {
+      "dist_km": 10.705721671861005,
+      "source": "Castellana Sicula (PA)",
+      "target": "Caltavuturo (PA)"
+    },
+    {
+      "dist_km": 10.122590139380344,
+      "source": "Valledolmo (PA)",
+      "target": "Montemaggiore Belsito (PA)"
+    },
+    {
+      "dist_km": 9.487097179917551,
+      "source": "Valledolmo (PA)",
+      "target": "Caltavuturo (PA)"
+    },
+    {
+      "dist_km": 10.443255889780003,
+      "source": "Buseto Palizzolo (TP)",
+      "target": "Trapani (TP)"
+    },
+    {
+      "dist_km": 8.658541369304194,
+      "source": "Buseto Palizzolo (TP)",
+      "target": "Castellammare del Golfo (TP)"
+    },
+    {
+      "dist_km": 10.604912088656443,
+      "source": "Belmonte Mezzagno (PA)",
+      "target": "Bagheria (PA)"
+    },
+    {
+      "dist_km": 10.519968654827105,
+      "source": "Belmonte Mezzagno (PA)",
+      "target": "Marineo (PA)"
+    },
+    {
+      "dist_km": 11.150610801254585,
+      "source": "Belmonte Mezzagno (PA)",
+      "target": "Piana degli Albanesi (PA)"
+    },
+    {
+      "dist_km": 13.080737822943732,
+      "source": "Belmonte Mezzagno (PA)",
+      "target": "Ventimiglia di Sicilia (PA)"
+    },
+    {
+      "dist_km": 12.99799213396883,
+      "source": "Belmonte Mezzagno (PA)",
+      "target": "Palermo (PA)"
+    },
+    {
+      "dist_km": 10.884223988338904,
+      "source": "Contessa Entellina (PA)",
+      "target": "Salaparuta (TP)"
+    },
+    {
+      "dist_km": 10.604098526247983,
+      "source": "Contessa Entellina (PA)",
+      "target": "Roccamena (PA)"
+    },
+    {
+      "dist_km": 13.237265967046225,
+      "source": "Camporeale (PA)",
+      "target": "Alcamo (TP)"
+    },
+    {
+      "dist_km": 10.187105031570946,
+      "source": "Camporeale (PA)",
+      "target": "Roccamena (PA)"
+    },
+    {
+      "dist_km": 11.777683340948034,
+      "source": "Camporeale (PA)",
+      "target": "San Giuseppe Jato (PA)"
+    },
+    {
+      "dist_km": 8.87199675717736,
+      "source": "Caccamo (PA)",
+      "target": "Montemaggiore Belsito (PA)"
+    },
+    {
+      "dist_km": 13.332711082047329,
+      "source": "Caccamo (PA)",
+      "target": "Vicari (PA)"
+    },
+    {
+      "dist_km": 11.164503384222952,
+      "source": "Caccamo (PA)",
+      "target": "Ciminna (PA)"
+    },
+    {
+      "dist_km": 8.835638714987862,
+      "source": "Caccamo (PA)",
+      "target": "Termini Imerese (PA)"
+    },
+    {
+      "dist_km": 12.92717633770122,
+      "source": "Caccamo (PA)",
+      "target": "Cerda (PA)"
+    },
+    {
+      "dist_km": 9.434610162910907,
+      "source": "Lascari (PA)",
+      "target": "Cefalù (PA)"
+    },
+    {
+      "dist_km": 11.662492972655253,
+      "source": "Lascari (PA)",
+      "target": "Isnello (PA)"
+    },
+    {
+      "dist_km": 10.385906786840446,
+      "source": "Castronovo di Sicilia (PA)",
+      "target": "Vicari (PA)"
+    },
+    {
+      "dist_km": 10.724965357027529,
+      "source": "Trapani (TP)",
+      "target": "Salemi (TP)"
+    },
+    {
+      "dist_km": 12.26404825257895,
+      "source": "Salemi (TP)",
+      "target": "Calatafimi-Segesta (TP)"
+    },
+    {
+      "dist_km": 8.962051312662938,
+      "source": "Salemi (TP)",
+      "target": "Santa Ninfa (TP)"
+    },
+    {
+      "dist_km": 9.58981423826004,
+      "source": "Terrasini (PA)",
+      "target": "Balestrate (PA)"
+    },
+    {
+      "dist_km": 8.790008829280534,
+      "source": "Terrasini (PA)",
+      "target": "Carini (PA)"
+    },
+    {
+      "dist_km": 10.691808403921726,
+      "source": "Terrasini (PA)",
+      "target": "Borgetto (PA)"
+    },
+    {
+      "dist_km": 9.041346216252048,
+      "source": "Montemaggiore Belsito (PA)",
+      "target": "Cerda (PA)"
+    },
+    {
+      "dist_km": 9.597728388668497,
+      "source": "Cefalù (PA)",
+      "target": "Isnello (PA)"
+    },
+    {
+      "dist_km": 8.670339955098799,
+      "source": "Caltavuturo (PA)",
+      "target": "Scillato (PA)"
+    },
+    {
+      "dist_km": 10.67209742832348,
+      "source": "Bagheria (PA)",
+      "target": "Ventimiglia di Sicilia (PA)"
+    },
+    {
+      "dist_km": 12.551153184099645,
+      "source": "Balestrate (PA)",
+      "target": "Borgetto (PA)"
+    },
+    {
+      "dist_km": 9.678649561629765,
+      "source": "Balestrate (PA)",
+      "target": "Alcamo (TP)"
+    },
+    {
+      "dist_km": 10.147197996615011,
+      "source": "Carini (PA)",
+      "target": "Borgetto (PA)"
+    },
+    {
+      "dist_km": 11.397880445399283,
+      "source": "Carini (PA)",
+      "target": "Palermo (PA)"
+    },
+    {
+      "dist_km": 8.69972146509856,
+      "source": "Borgetto (PA)",
+      "target": "San Giuseppe Jato (PA)"
+    },
+    {
+      "dist_km": 9.040868366548988,
+      "source": "Isnello (PA)",
+      "target": "Scillato (PA)"
+    },
+    {
+      "dist_km": 10.055221323978815,
+      "source": "Vicari (PA)",
+      "target": "Ciminna (PA)"
+    },
+    {
+      "dist_km": 12.540000228410223,
+      "source": "Vicari (PA)",
+      "target": "Prizzi (PA)"
+    },
+    {
+      "dist_km": 10.050673213116607,
+      "source": "Chiusa Sclafani (PA)",
+      "target": "Campofiorito (PA)"
+    },
+    {
+      "dist_km": 9.648362979002576,
+      "source": "Chiusa Sclafani (PA)",
+      "target": "Palazzo Adriano (PA)"
+    },
+    {
+      "dist_km": 11.400966559732847,
+      "source": "Campofiorito (PA)",
+      "target": "Roccamena (PA)"
+    },
+    {
+      "dist_km": 12.334390359476133,
+      "source": "Ciminna (PA)",
+      "target": "Godrano (PA)"
+    },
+    {
+      "dist_km": 11.826774601897103,
+      "source": "Ciminna (PA)",
+      "target": "Ventimiglia di Sicilia (PA)"
+    },
+    {
+      "dist_km": 11.720110868053904,
+      "source": "Marineo (PA)",
+      "target": "Piana degli Albanesi (PA)"
+    },
+    {
+      "dist_km": 9.571195513634866,
+      "source": "Marineo (PA)",
+      "target": "Godrano (PA)"
+    },
+    {
+      "dist_km": 9.258488781638093,
+      "source": "Marineo (PA)",
+      "target": "Ventimiglia di Sicilia (PA)"
+    },
+    {
+      "dist_km": 13.013589841996962,
+      "source": "Calatafimi-Segesta (TP)",
+      "target": "Castellammare del Golfo (TP)"
+    },
+    {
+      "dist_km": 11.888706254807893,
+      "source": "Calatafimi-Segesta (TP)",
+      "target": "Alcamo (TP)"
+    },
+    {
+      "dist_km": 9.062895959754739,
+      "source": "Piana degli Albanesi (PA)",
+      "target": "San Giuseppe Jato (PA)"
+    },
+    {
+      "dist_km": 10.655233813747627,
+      "source": "Santa Ninfa (TP)",
+      "target": "Salaparuta (TP)"
+    },
+    {
+      "dist_km": 12.143847304393386,
+      "source": "Termini Imerese (PA)",
+      "target": "Cerda (PA)"
+    },
+    {
+      "dist_km": 9.774615135015171,
+      "source": "Palazzo Adriano (PA)",
+      "target": "Prizzi (PA)"
+    },
+    {
+      "dist_km": 9.855939757544487,
+      "source": "Cerda (PA)",
+      "target": "Scillato (PA)"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "created_at_unix": 1776200564.763438,
+  "device_key": "FRESNEL_CAN1",
+  "device_type": "FRESNEL_CAN1",
+  "runs": 1000,
+  "seed": 12345,
+  "batch_id": "ba8aa6a6-44bb-4aa0-8242-ae2492face29",
+  "job_id": "78a7b8e9-1915-4efc-860a-7a61844b1943",
+  "graph_path": "register_sicily.json",
+  "num_nodes": 41,
+  "num_edges": 56,
+  "R_ryd": 7.768662988569316,
+  "Omega_max": 3.938231804004736,
+  "U": 1.969115902002368,
+  "delta_0": -18.84955592153876,
+  "delta_f": 3.150585443203789,
+  "t_rise": 500,
+  "t_sweep": 1500,
+  "t_fall": 1000,
+  "provenance_note": "Copied recorded submission parameters; original local absolute graph path replaced by basename."
+}

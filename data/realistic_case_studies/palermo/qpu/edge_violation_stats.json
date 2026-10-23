@@ -1,0 +1,513 @@
+{
+  "n_samples_valid": 1000,
+  "n_samples_invalid": 0,
+  "total_edge_violations": 700,
+  "edge_counts": {
+    "Palermo (PA)||Belmonte Mezzagno (PA)": 29,
+    "Alcamo (TP)||Balestrate (PA)": 16,
+    "Belmonte Mezzagno (PA)||Bagheria (PA)": 12,
+    "Castellammare del Golfo (TP)||Buseto Palizzolo (TP)": 13,
+    "Borgetto (PA)||Balestrate (PA)": 17,
+    "Alcamo (TP)||Camporeale (PA)": 42,
+    "Alcamo (TP)||Calatafimi-Segesta (TP)": 16,
+    "Salemi (TP)||Calatafimi-Segesta (TP)": 13,
+    "Salemi (TP)||Santa Ninfa (TP)": 12,
+    "Termini Imerese (PA)||Cerda (PA)": 23,
+    "Terrasini (PA)||Balestrate (PA)": 9,
+    "Belmonte Mezzagno (PA)||Piana degli Albanesi (PA)": 7,
+    "Castronovo di Sicilia (PA)||Vicari (PA)": 10,
+    "Terrasini (PA)||Borgetto (PA)": 7,
+    "San Giuseppe Jato (PA)||Borgetto (PA)": 5,
+    "Ventimiglia di Sicilia (PA)||Bagheria (PA)": 12,
+    "Caccamo (PA)||Ciminna (PA)": 6,
+    "Caccamo (PA)||Cerda (PA)": 26,
+    "Godrano (PA)||Marineo (PA)": 8,
+    "Caccamo (PA)||Termini Imerese (PA)": 18,
+    "Piana degli Albanesi (PA)||Marineo (PA)": 10,
+    "Vicari (PA)||Prizzi (PA)": 13,
+    "Camporeale (PA)||Roccamena (PA)": 14,
+    "Isnello (PA)||Lascari (PA)": 27,
+    "Palazzo Adriano (PA)||Prizzi (PA)": 12,
+    "Contessa Entellina (PA)||Roccamena (PA)": 14,
+    "Salaparuta (TP)||Santa Ninfa (TP)": 14,
+    "Caccamo (PA)||Montemaggiore Belsito (PA)": 8,
+    "Scillato (PA)||Isnello (PA)": 6,
+    "Isnello (PA)||Cefalù (PA)": 10,
+    "Piana degli Albanesi (PA)||San Giuseppe Jato (PA)": 8,
+    "Caccamo (PA)||Vicari (PA)": 13,
+    "Caltavuturo (PA)||Castellana Sicula (PA)": 7,
+    "Chiusa Sclafani (PA)||Campofiorito (PA)": 15,
+    "Roccamena (PA)||Campofiorito (PA)": 12,
+    "Palermo (PA)||Carini (PA)": 14,
+    "Caltavuturo (PA)||Valledolmo (PA)": 9,
+    "Montemaggiore Belsito (PA)||Valledolmo (PA)": 10,
+    "Caltavuturo (PA)||Scillato (PA)": 4,
+    "Ventimiglia di Sicilia (PA)||Marineo (PA)": 5,
+    "Camporeale (PA)||San Giuseppe Jato (PA)": 11,
+    "Ciminna (PA)||Godrano (PA)": 23,
+    "Scillato (PA)||Cerda (PA)": 10,
+    "Ventimiglia di Sicilia (PA)||Ciminna (PA)": 11,
+    "Ventimiglia di Sicilia (PA)||Belmonte Mezzagno (PA)": 23,
+    "Chiusa Sclafani (PA)||Palazzo Adriano (PA)": 11,
+    "Contessa Entellina (PA)||Salaparuta (TP)": 11,
+    "Castellammare del Golfo (TP)||Calatafimi-Segesta (TP)": 22,
+    "Cerda (PA)||Montemaggiore Belsito (PA)": 5,
+    "Terrasini (PA)||Carini (PA)": 10,
+    "Trapani (TP)||Salemi (TP)": 12,
+    "Trapani (TP)||Buseto Palizzolo (TP)": 12,
+    "Lascari (PA)||Cefalù (PA)": 4,
+    "Carini (PA)||Borgetto (PA)": 5,
+    "Vicari (PA)||Ciminna (PA)": 3,
+    "Belmonte Mezzagno (PA)||Marineo (PA)": 1
+  },
+  "edge_rows": [
+    {
+      "u": "Trapani (TP)",
+      "v": "Salemi (TP)",
+      "edge_key": "Trapani (TP)||Salemi (TP)",
+      "violation_count": 12,
+      "violation_fraction": 0.012,
+      "edge_length": 6.186688250401975
+    },
+    {
+      "u": "Trapani (TP)",
+      "v": "Buseto Palizzolo (TP)",
+      "edge_key": "Trapani (TP)||Buseto Palizzolo (TP)",
+      "violation_count": 12,
+      "violation_fraction": 0.012,
+      "edge_length": 6.017510973955665
+    },
+    {
+      "u": "Salemi (TP)",
+      "v": "Calatafimi-Segesta (TP)",
+      "edge_key": "Salemi (TP)||Calatafimi-Segesta (TP)",
+      "violation_count": 13,
+      "violation_fraction": 0.013,
+      "edge_length": 7.078681928682977
+    },
+    {
+      "u": "Salemi (TP)",
+      "v": "Santa Ninfa (TP)",
+      "edge_key": "Salemi (TP)||Santa Ninfa (TP)",
+      "violation_count": 12,
+      "violation_fraction": 0.012,
+      "edge_length": 5.179792765228658
+    },
+    {
+      "u": "Ventimiglia di Sicilia (PA)",
+      "v": "Belmonte Mezzagno (PA)",
+      "edge_key": "Ventimiglia di Sicilia (PA)||Belmonte Mezzagno (PA)",
+      "violation_count": 23,
+      "violation_fraction": 0.023,
+      "edge_length": 7.565465353986627
+    },
+    {
+      "u": "Ventimiglia di Sicilia (PA)",
+      "v": "Ciminna (PA)",
+      "edge_key": "Ventimiglia di Sicilia (PA)||Ciminna (PA)",
+      "violation_count": 11,
+      "violation_fraction": 0.011,
+      "edge_length": 6.819878835330271
+    },
+    {
+      "u": "Ventimiglia di Sicilia (PA)",
+      "v": "Bagheria (PA)",
+      "edge_key": "Ventimiglia di Sicilia (PA)||Bagheria (PA)",
+      "violation_count": 12,
+      "violation_fraction": 0.012,
+      "edge_length": 6.153244534216972
+    },
+    {
+      "u": "Ventimiglia di Sicilia (PA)",
+      "v": "Marineo (PA)",
+      "edge_key": "Ventimiglia di Sicilia (PA)||Marineo (PA)",
+      "violation_count": 5,
+      "violation_fraction": 0.005,
+      "edge_length": 5.355351140524396
+    },
+    {
+      "u": "Palermo (PA)",
+      "v": "Belmonte Mezzagno (PA)",
+      "edge_key": "Palermo (PA)||Belmonte Mezzagno (PA)",
+      "violation_count": 29,
+      "violation_fraction": 0.029,
+      "edge_length": 7.50055769374924
+    },
+    {
+      "u": "Palermo (PA)",
+      "v": "Carini (PA)",
+      "edge_key": "Palermo (PA)||Carini (PA)",
+      "violation_count": 14,
+      "violation_fraction": 0.014,
+      "edge_length": 6.596680691861068
+    },
+    {
+      "u": "Castellammare del Golfo (TP)",
+      "v": "Buseto Palizzolo (TP)",
+      "edge_key": "Castellammare del Golfo (TP)||Buseto Palizzolo (TP)",
+      "violation_count": 13,
+      "violation_fraction": 0.013,
+      "edge_length": 5.007703744148504
+    },
+    {
+      "u": "Castellammare del Golfo (TP)",
+      "v": "Calatafimi-Segesta (TP)",
+      "edge_key": "Castellammare del Golfo (TP)||Calatafimi-Segesta (TP)",
+      "violation_count": 22,
+      "violation_fraction": 0.022,
+      "edge_length": 7.500557855242697
+    },
+    {
+      "u": "Castronovo di Sicilia (PA)",
+      "v": "Vicari (PA)",
+      "edge_key": "Castronovo di Sicilia (PA)||Vicari (PA)",
+      "violation_count": 10,
+      "violation_fraction": 0.01,
+      "edge_length": 5.990948155554658
+    },
+    {
+      "u": "Caltavuturo (PA)",
+      "v": "Scillato (PA)",
+      "edge_key": "Caltavuturo (PA)||Scillato (PA)",
+      "violation_count": 4,
+      "violation_fraction": 0.004,
+      "edge_length": 5.000100000005
+    },
+    {
+      "u": "Caltavuturo (PA)",
+      "v": "Valledolmo (PA)",
+      "edge_key": "Caltavuturo (PA)||Valledolmo (PA)",
+      "violation_count": 9,
+      "violation_fraction": 0.009,
+      "edge_length": 5.491534587637597
+    },
+    {
+      "u": "Caltavuturo (PA)",
+      "v": "Castellana Sicula (PA)",
+      "edge_key": "Caltavuturo (PA)||Castellana Sicula (PA)",
+      "violation_count": 7,
+      "violation_fraction": 0.007,
+      "edge_length": 6.193851170129025
+    },
+    {
+      "u": "Contessa Entellina (PA)",
+      "v": "Roccamena (PA)",
+      "edge_key": "Contessa Entellina (PA)||Roccamena (PA)",
+      "violation_count": 14,
+      "violation_fraction": 0.014,
+      "edge_length": 6.117849495356096
+    },
+    {
+      "u": "Contessa Entellina (PA)",
+      "v": "Salaparuta (TP)",
+      "edge_key": "Contessa Entellina (PA)||Salaparuta (TP)",
+      "violation_count": 11,
+      "violation_fraction": 0.011,
+      "edge_length": 6.297099315395225
+    },
+    {
+      "u": "Caccamo (PA)",
+      "v": "Vicari (PA)",
+      "edge_key": "Caccamo (PA)||Vicari (PA)",
+      "violation_count": 13,
+      "violation_fraction": 0.013,
+      "edge_length": 7.702516148351329
+    },
+    {
+      "u": "Caccamo (PA)",
+      "v": "Ciminna (PA)",
+      "edge_key": "Caccamo (PA)||Ciminna (PA)",
+      "violation_count": 6,
+      "violation_fraction": 0.006,
+      "edge_length": 6.463679604249848
+    },
+    {
+      "u": "Caccamo (PA)",
+      "v": "Termini Imerese (PA)",
+      "edge_key": "Caccamo (PA)||Termini Imerese (PA)",
+      "violation_count": 18,
+      "violation_fraction": 0.018,
+      "edge_length": 5.095570868349869
+    },
+    {
+      "u": "Caccamo (PA)",
+      "v": "Cerda (PA)",
+      "edge_key": "Caccamo (PA)||Cerda (PA)",
+      "violation_count": 26,
+      "violation_fraction": 0.026,
+      "edge_length": 7.483843436702937
+    },
+    {
+      "u": "Caccamo (PA)",
+      "v": "Montemaggiore Belsito (PA)",
+      "edge_key": "Caccamo (PA)||Montemaggiore Belsito (PA)",
+      "violation_count": 8,
+      "violation_fraction": 0.008,
+      "edge_length": 5.130682334314025
+    },
+    {
+      "u": "Vicari (PA)",
+      "v": "Ciminna (PA)",
+      "edge_key": "Vicari (PA)||Ciminna (PA)",
+      "violation_count": 3,
+      "violation_fraction": 0.003,
+      "edge_length": 5.797677899325827
+    },
+    {
+      "u": "Vicari (PA)",
+      "v": "Prizzi (PA)",
+      "edge_key": "Vicari (PA)||Prizzi (PA)",
+      "violation_count": 13,
+      "violation_fraction": 0.013,
+      "edge_length": 7.252130181559946
+    },
+    {
+      "u": "Alcamo (TP)",
+      "v": "Camporeale (PA)",
+      "edge_key": "Alcamo (TP)||Camporeale (PA)",
+      "violation_count": 42,
+      "violation_fraction": 0.042,
+      "edge_length": 7.647767376547169
+    },
+    {
+      "u": "Alcamo (TP)",
+      "v": "Balestrate (PA)",
+      "edge_key": "Alcamo (TP)||Balestrate (PA)",
+      "violation_count": 16,
+      "violation_fraction": 0.016,
+      "edge_length": 5.579914925577119
+    },
+    {
+      "u": "Alcamo (TP)",
+      "v": "Calatafimi-Segesta (TP)",
+      "edge_key": "Alcamo (TP)||Calatafimi-Segesta (TP)",
+      "violation_count": 16,
+      "violation_fraction": 0.016,
+      "edge_length": 6.86878071530655
+    },
+    {
+      "u": "Belmonte Mezzagno (PA)",
+      "v": "Piana degli Albanesi (PA)",
+      "edge_key": "Belmonte Mezzagno (PA)||Piana degli Albanesi (PA)",
+      "violation_count": 7,
+      "violation_fraction": 0.007,
+      "edge_length": 6.441692365367387
+    },
+    {
+      "u": "Belmonte Mezzagno (PA)",
+      "v": "Bagheria (PA)",
+      "edge_key": "Belmonte Mezzagno (PA)||Bagheria (PA)",
+      "violation_count": 12,
+      "violation_fraction": 0.012,
+      "edge_length": 6.13421152699765
+    },
+    {
+      "u": "Belmonte Mezzagno (PA)",
+      "v": "Marineo (PA)",
+      "edge_key": "Belmonte Mezzagno (PA)||Marineo (PA)",
+      "violation_count": 1,
+      "violation_fraction": 0.001,
+      "edge_length": 6.066560437671091
+    },
+    {
+      "u": "Terrasini (PA)",
+      "v": "Carini (PA)",
+      "edge_key": "Terrasini (PA)||Carini (PA)",
+      "violation_count": 10,
+      "violation_fraction": 0.01,
+      "edge_length": 5.086298436895979
+    },
+    {
+      "u": "Terrasini (PA)",
+      "v": "Borgetto (PA)",
+      "edge_key": "Terrasini (PA)||Borgetto (PA)",
+      "violation_count": 7,
+      "violation_fraction": 0.007,
+      "edge_length": 6.171595311435973
+    },
+    {
+      "u": "Terrasini (PA)",
+      "v": "Balestrate (PA)",
+      "edge_key": "Terrasini (PA)||Balestrate (PA)",
+      "violation_count": 9,
+      "violation_fraction": 0.009,
+      "edge_length": 5.535135078110524
+    },
+    {
+      "u": "Scillato (PA)",
+      "v": "Isnello (PA)",
+      "edge_key": "Scillato (PA)||Isnello (PA)",
+      "violation_count": 6,
+      "violation_fraction": 0.006,
+      "edge_length": 5.2272268870372045
+    },
+    {
+      "u": "Scillato (PA)",
+      "v": "Cerda (PA)",
+      "edge_key": "Scillato (PA)||Cerda (PA)",
+      "violation_count": 10,
+      "violation_fraction": 0.01,
+      "edge_length": 5.70272350368931
+    },
+    {
+      "u": "Chiusa Sclafani (PA)",
+      "v": "Palazzo Adriano (PA)",
+      "edge_key": "Chiusa Sclafani (PA)||Palazzo Adriano (PA)",
+      "violation_count": 11,
+      "violation_fraction": 0.011,
+      "edge_length": 5.584554833261058
+    },
+    {
+      "u": "Chiusa Sclafani (PA)",
+      "v": "Campofiorito (PA)",
+      "edge_key": "Chiusa Sclafani (PA)||Campofiorito (PA)",
+      "violation_count": 15,
+      "violation_fraction": 0.015,
+      "edge_length": 5.793380802572819
+    },
+    {
+      "u": "Piana degli Albanesi (PA)",
+      "v": "San Giuseppe Jato (PA)",
+      "edge_key": "Piana degli Albanesi (PA)||San Giuseppe Jato (PA)",
+      "violation_count": 8,
+      "violation_fraction": 0.008,
+      "edge_length": 5.245318296629875
+    },
+    {
+      "u": "Piana degli Albanesi (PA)",
+      "v": "Marineo (PA)",
+      "edge_key": "Piana degli Albanesi (PA)||Marineo (PA)",
+      "violation_count": 10,
+      "violation_fraction": 0.01,
+      "edge_length": 6.782695751174986
+    },
+    {
+      "u": "Isnello (PA)",
+      "v": "Lascari (PA)",
+      "edge_key": "Isnello (PA)||Lascari (PA)",
+      "violation_count": 27,
+      "violation_fraction": 0.027,
+      "edge_length": 6.734344854180793
+    },
+    {
+      "u": "Isnello (PA)",
+      "v": "Cefalù (PA)",
+      "edge_key": "Isnello (PA)||Cefalù (PA)",
+      "violation_count": 10,
+      "violation_fraction": 0.01,
+      "edge_length": 5.537873999992444
+    },
+    {
+      "u": "Ciminna (PA)",
+      "v": "Godrano (PA)",
+      "edge_key": "Ciminna (PA)||Godrano (PA)",
+      "violation_count": 23,
+      "violation_fraction": 0.023,
+      "edge_length": 7.139322636859061
+    },
+    {
+      "u": "Camporeale (PA)",
+      "v": "Roccamena (PA)",
+      "edge_key": "Camporeale (PA)||Roccamena (PA)",
+      "violation_count": 14,
+      "violation_fraction": 0.014,
+      "edge_length": 5.880338090677341
+    },
+    {
+      "u": "Camporeale (PA)",
+      "v": "San Giuseppe Jato (PA)",
+      "edge_key": "Camporeale (PA)||San Giuseppe Jato (PA)",
+      "violation_count": 11,
+      "violation_fraction": 0.011,
+      "edge_length": 6.801910505345515
+    },
+    {
+      "u": "Godrano (PA)",
+      "v": "Marineo (PA)",
+      "edge_key": "Godrano (PA)||Marineo (PA)",
+      "violation_count": 8,
+      "violation_fraction": 0.008,
+      "edge_length": 5.51733409824065
+    },
+    {
+      "u": "Palazzo Adriano (PA)",
+      "v": "Prizzi (PA)",
+      "edge_key": "Palazzo Adriano (PA)||Prizzi (PA)",
+      "violation_count": 12,
+      "violation_fraction": 0.012,
+      "edge_length": 5.640797267933839
+    },
+    {
+      "u": "Lascari (PA)",
+      "v": "Cefalù (PA)",
+      "edge_key": "Lascari (PA)||Cefalù (PA)",
+      "violation_count": 4,
+      "violation_fraction": 0.004,
+      "edge_length": 5.463899791902991
+    },
+    {
+      "u": "Termini Imerese (PA)",
+      "v": "Cerda (PA)",
+      "edge_key": "Termini Imerese (PA)||Cerda (PA)",
+      "violation_count": 23,
+      "violation_fraction": 0.023,
+      "edge_length": 7.024516057776327
+    },
+    {
+      "u": "Carini (PA)",
+      "v": "Borgetto (PA)",
+      "edge_key": "Carini (PA)||Borgetto (PA)",
+      "violation_count": 5,
+      "violation_fraction": 0.005,
+      "edge_length": 5.849125246459381
+    },
+    {
+      "u": "Cerda (PA)",
+      "v": "Montemaggiore Belsito (PA)",
+      "edge_key": "Cerda (PA)||Montemaggiore Belsito (PA)",
+      "violation_count": 5,
+      "violation_fraction": 0.005,
+      "edge_length": 5.220689722214467
+    },
+    {
+      "u": "Roccamena (PA)",
+      "v": "Campofiorito (PA)",
+      "edge_key": "Roccamena (PA)||Campofiorito (PA)",
+      "violation_count": 12,
+      "violation_fraction": 0.012,
+      "edge_length": 6.586106318732698
+    },
+    {
+      "u": "San Giuseppe Jato (PA)",
+      "v": "Borgetto (PA)",
+      "edge_key": "San Giuseppe Jato (PA)||Borgetto (PA)",
+      "violation_count": 5,
+      "violation_fraction": 0.005,
+      "edge_length": 5.0162822285113
+    },
+    {
+      "u": "Montemaggiore Belsito (PA)",
+      "v": "Valledolmo (PA)",
+      "edge_key": "Montemaggiore Belsito (PA)||Valledolmo (PA)",
+      "violation_count": 10,
+      "violation_fraction": 0.01,
+      "edge_length": 5.843401232368691
+    },
+    {
+      "u": "Borgetto (PA)",
+      "v": "Balestrate (PA)",
+      "edge_key": "Borgetto (PA)||Balestrate (PA)",
+      "violation_count": 17,
+      "violation_fraction": 0.017,
+      "edge_length": 7.26317927583459
+    },
+    {
+      "u": "Salaparuta (TP)",
+      "v": "Santa Ninfa (TP)",
+      "edge_key": "Salaparuta (TP)||Santa Ninfa (TP)",
+      "violation_count": 14,
+      "violation_fraction": 0.014,
+      "edge_length": 6.16456115173271
+    }
+  ]
+}

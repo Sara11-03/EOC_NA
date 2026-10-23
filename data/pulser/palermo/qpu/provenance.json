@@ -1,0 +1,8 @@
+{
+  "job_id": "78a7b8e9-1915-4efc-860a-7a61844b1943",
+  "source_file": "Testo incollato(1).txt",
+  "source_sha256": "db622e954f0415e7148506d57e3739ab3c86677ead572a1ec32f5811bec65a0c",
+  "output_sha256": "386f36d9f5c3ed3f4e29943f0e6de54050d967fa6c81e095908e7715a28c1253",
+  "origin": "JSON reconstituted from author-provided Pasqal portal tree copy; all displayed numeric values retained.",
+  "validation": "JSON syntax checked; not deserialized with Pulser in this environment."
+}

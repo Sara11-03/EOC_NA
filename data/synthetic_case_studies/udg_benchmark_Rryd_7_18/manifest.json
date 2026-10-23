@@ -1,0 +1,3478 @@
+{
+  "created_at_unix": 1771930289.7155452,
+  "lower": 10,
+  "upper_inclusive": 100,
+  "step": 5,
+  "dims": [
+    10,
+    15,
+    20,
+    25,
+    30,
+    35,
+    40,
+    45,
+    50,
+    55,
+    60,
+    65,
+    70,
+    75,
+    80,
+    85,
+    90,
+    95,
+    100
+  ],
+  "instances_per_size": 30,
+  "generator_params": {
+    "radius": 0.2,
+    "radius_is_normalized": true,
+    "min_dist": 5.0,
+    "max_radius": 46.0,
+    "target_avg_degree": 2.5,
+    "require_connected": true,
+    "min_degree": 1,
+    "margin": 0.5,
+    "plot": false
+  },
+  "physics_constraints": {
+    "enforce": true,
+    "interaction_coeff": 868066.9281,
+    "max_pulse_amplitude_rad_per_us": 12.566370614359172,
+    "max_abs_detuning_rad_per_us": 62.83185307179586,
+    "sequence_duration_ns": 6000,
+    "max_sequence_duration_ns": 6000,
+    "pulser_channel_id": "rydberg_global"
+  },
+  "graphs": [
+    {
+      "n": 10,
+      "instance": 0,
+      "seed": 3528835259,
+      "relpath": "n10\\inst000\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 1,
+      "seed": 528218089,
+      "relpath": "n10\\inst001\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 2,
+      "seed": 1299051706,
+      "relpath": "n10\\inst002\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 3,
+      "seed": 1462908847,
+      "relpath": "n10\\inst003\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 4,
+      "seed": 878241019,
+      "relpath": "n10\\inst004\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 5,
+      "seed": 1465133230,
+      "relpath": "n10\\inst005\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 6,
+      "seed": 2423962820,
+      "relpath": "n10\\inst006\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 7,
+      "seed": 1136647291,
+      "relpath": "n10\\inst007\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 8,
+      "seed": 231765426,
+      "relpath": "n10\\inst008\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 9,
+      "seed": 4249237828,
+      "relpath": "n10\\inst009\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 10,
+      "seed": 3140571520,
+      "relpath": "n10\\inst010\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 11,
+      "seed": 1129054372,
+      "relpath": "n10\\inst011\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 12,
+      "seed": 2527576892,
+      "relpath": "n10\\inst012\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 13,
+      "seed": 3106677888,
+      "relpath": "n10\\inst013\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 14,
+      "seed": 1058507441,
+      "relpath": "n10\\inst014\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 15,
+      "seed": 571082188,
+      "relpath": "n10\\inst015\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 16,
+      "seed": 2915891870,
+      "relpath": "n10\\inst016\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 17,
+      "seed": 4276280155,
+      "relpath": "n10\\inst017\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 18,
+      "seed": 165521390,
+      "relpath": "n10\\inst018\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 19,
+      "seed": 1501094149,
+      "relpath": "n10\\inst019\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 20,
+      "seed": 4088330877,
+      "relpath": "n10\\inst020\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 21,
+      "seed": 2594297322,
+      "relpath": "n10\\inst021\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 22,
+      "seed": 2174778525,
+      "relpath": "n10\\inst022\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 23,
+      "seed": 1284741475,
+      "relpath": "n10\\inst023\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 24,
+      "seed": 2738166154,
+      "relpath": "n10\\inst024\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 25,
+      "seed": 440672471,
+      "relpath": "n10\\inst025\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 26,
+      "seed": 2084322312,
+      "relpath": "n10\\inst026\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 27,
+      "seed": 2341760659,
+      "relpath": "n10\\inst027\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 28,
+      "seed": 2638559578,
+      "relpath": "n10\\inst028\\graph_target.pkl"
+    },
+    {
+      "n": 10,
+      "instance": 29,
+      "seed": 741348339,
+      "relpath": "n10\\inst029\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 0,
+      "seed": 3285388380,
+      "relpath": "n15\\inst000\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 1,
+      "seed": 2261438039,
+      "relpath": "n15\\inst001\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 2,
+      "seed": 2142366417,
+      "relpath": "n15\\inst002\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 3,
+      "seed": 2874914987,
+      "relpath": "n15\\inst003\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 4,
+      "seed": 2425418887,
+      "relpath": "n15\\inst004\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 5,
+      "seed": 1935041679,
+      "relpath": "n15\\inst005\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 6,
+      "seed": 3648737113,
+      "relpath": "n15\\inst006\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 7,
+      "seed": 1631538531,
+      "relpath": "n15\\inst007\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 8,
+      "seed": 2947103174,
+      "relpath": "n15\\inst008\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 9,
+      "seed": 4280041325,
+      "relpath": "n15\\inst009\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 10,
+      "seed": 1401498223,
+      "relpath": "n15\\inst010\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 11,
+      "seed": 2189391318,
+      "relpath": "n15\\inst011\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 12,
+      "seed": 1343599350,
+      "relpath": "n15\\inst012\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 13,
+      "seed": 483340259,
+      "relpath": "n15\\inst013\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 14,
+      "seed": 1878400661,
+      "relpath": "n15\\inst014\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 15,
+      "seed": 2131337006,
+      "relpath": "n15\\inst015\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 16,
+      "seed": 530742430,
+      "relpath": "n15\\inst016\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 17,
+      "seed": 4265516983,
+      "relpath": "n15\\inst017\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 18,
+      "seed": 2614454509,
+      "relpath": "n15\\inst018\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 19,
+      "seed": 1478498693,
+      "relpath": "n15\\inst019\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 20,
+      "seed": 1547604081,
+      "relpath": "n15\\inst020\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 21,
+      "seed": 507893243,
+      "relpath": "n15\\inst021\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 22,
+      "seed": 2518624695,
+      "relpath": "n15\\inst022\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 23,
+      "seed": 3945491766,
+      "relpath": "n15\\inst023\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 24,
+      "seed": 806244976,
+      "relpath": "n15\\inst024\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 25,
+      "seed": 3492594651,
+      "relpath": "n15\\inst025\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 26,
+      "seed": 4282831304,
+      "relpath": "n15\\inst026\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 27,
+      "seed": 1927016907,
+      "relpath": "n15\\inst027\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 28,
+      "seed": 3658449347,
+      "relpath": "n15\\inst028\\graph_target.pkl"
+    },
+    {
+      "n": 15,
+      "instance": 29,
+      "seed": 1928260309,
+      "relpath": "n15\\inst029\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 0,
+      "seed": 438497551,
+      "relpath": "n20\\inst000\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 1,
+      "seed": 3034143893,
+      "relpath": "n20\\inst001\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 2,
+      "seed": 13832798,
+      "relpath": "n20\\inst002\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 3,
+      "seed": 1992838639,
+      "relpath": "n20\\inst003\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 4,
+      "seed": 247383429,
+      "relpath": "n20\\inst004\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 5,
+      "seed": 1298317239,
+      "relpath": "n20\\inst005\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 6,
+      "seed": 187218460,
+      "relpath": "n20\\inst006\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 7,
+      "seed": 1870462187,
+      "relpath": "n20\\inst007\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 8,
+      "seed": 2447029424,
+      "relpath": "n20\\inst008\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 9,
+      "seed": 1646663040,
+      "relpath": "n20\\inst009\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 10,
+      "seed": 2422411493,
+      "relpath": "n20\\inst010\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 11,
+      "seed": 3427970731,
+      "relpath": "n20\\inst011\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 12,
+      "seed": 4075567591,
+      "relpath": "n20\\inst012\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 13,
+      "seed": 1087626546,
+      "relpath": "n20\\inst013\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 14,
+      "seed": 3929569145,
+      "relpath": "n20\\inst014\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 15,
+      "seed": 3340869468,
+      "relpath": "n20\\inst015\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 16,
+      "seed": 2493465106,
+      "relpath": "n20\\inst016\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 17,
+      "seed": 2766355918,
+      "relpath": "n20\\inst017\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 18,
+      "seed": 3711116652,
+      "relpath": "n20\\inst018\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 19,
+      "seed": 3198555985,
+      "relpath": "n20\\inst019\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 20,
+      "seed": 2818789109,
+      "relpath": "n20\\inst020\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 21,
+      "seed": 2985009953,
+      "relpath": "n20\\inst021\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 22,
+      "seed": 99962419,
+      "relpath": "n20\\inst022\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 23,
+      "seed": 3599119927,
+      "relpath": "n20\\inst023\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 24,
+      "seed": 3849956825,
+      "relpath": "n20\\inst024\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 25,
+      "seed": 3848176582,
+      "relpath": "n20\\inst025\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 26,
+      "seed": 3983623921,
+      "relpath": "n20\\inst026\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 27,
+      "seed": 3683848636,
+      "relpath": "n20\\inst027\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 28,
+      "seed": 3166876033,
+      "relpath": "n20\\inst028\\graph_target.pkl"
+    },
+    {
+      "n": 20,
+      "instance": 29,
+      "seed": 1465531347,
+      "relpath": "n20\\inst029\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 0,
+      "seed": 2615991548,
+      "relpath": "n25\\inst000\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 1,
+      "seed": 3252715405,
+      "relpath": "n25\\inst001\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 2,
+      "seed": 3712018549,
+      "relpath": "n25\\inst002\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 3,
+      "seed": 2277811305,
+      "relpath": "n25\\inst003\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 4,
+      "seed": 3672562881,
+      "relpath": "n25\\inst004\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 5,
+      "seed": 2542001303,
+      "relpath": "n25\\inst005\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 6,
+      "seed": 1867123470,
+      "relpath": "n25\\inst006\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 7,
+      "seed": 2571352141,
+      "relpath": "n25\\inst007\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 8,
+      "seed": 3983474997,
+      "relpath": "n25\\inst008\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 9,
+      "seed": 3156563756,
+      "relpath": "n25\\inst009\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 10,
+      "seed": 1767194643,
+      "relpath": "n25\\inst010\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 11,
+      "seed": 265398316,
+      "relpath": "n25\\inst011\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 12,
+      "seed": 2859712689,
+      "relpath": "n25\\inst012\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 13,
+      "seed": 438881784,
+      "relpath": "n25\\inst013\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 14,
+      "seed": 2565166563,
+      "relpath": "n25\\inst014\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 15,
+      "seed": 254311734,
+      "relpath": "n25\\inst015\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 16,
+      "seed": 629018100,
+      "relpath": "n25\\inst016\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 17,
+      "seed": 3731793141,
+      "relpath": "n25\\inst017\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 18,
+      "seed": 2082063306,
+      "relpath": "n25\\inst018\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 19,
+      "seed": 4289008257,
+      "relpath": "n25\\inst019\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 20,
+      "seed": 587303883,
+      "relpath": "n25\\inst020\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 21,
+      "seed": 1034820129,
+      "relpath": "n25\\inst021\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 22,
+      "seed": 2340365321,
+      "relpath": "n25\\inst022\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 23,
+      "seed": 4119522223,
+      "relpath": "n25\\inst023\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 24,
+      "seed": 2428726626,
+      "relpath": "n25\\inst024\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 25,
+      "seed": 724130385,
+      "relpath": "n25\\inst025\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 26,
+      "seed": 1234653900,
+      "relpath": "n25\\inst026\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 27,
+      "seed": 2496130657,
+      "relpath": "n25\\inst027\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 28,
+      "seed": 433053477,
+      "relpath": "n25\\inst028\\graph_target.pkl"
+    },
+    {
+      "n": 25,
+      "instance": 29,
+      "seed": 737565504,
+      "relpath": "n25\\inst029\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 0,
+      "seed": 242554108,
+      "relpath": "n30\\inst000\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 1,
+      "seed": 4210394811,
+      "relpath": "n30\\inst001\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 2,
+      "seed": 3565707002,
+      "relpath": "n30\\inst002\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 3,
+      "seed": 2336300077,
+      "relpath": "n30\\inst003\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 4,
+      "seed": 1243892264,
+      "relpath": "n30\\inst004\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 5,
+      "seed": 2422101927,
+      "relpath": "n30\\inst005\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 6,
+      "seed": 3342745675,
+      "relpath": "n30\\inst006\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 7,
+      "seed": 1884235697,
+      "relpath": "n30\\inst007\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 8,
+      "seed": 2409316931,
+      "relpath": "n30\\inst008\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 9,
+      "seed": 1761678003,
+      "relpath": "n30\\inst009\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 10,
+      "seed": 623377080,
+      "relpath": "n30\\inst010\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 11,
+      "seed": 2530014310,
+      "relpath": "n30\\inst011\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 12,
+      "seed": 2027164257,
+      "relpath": "n30\\inst012\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 13,
+      "seed": 1743841533,
+      "relpath": "n30\\inst013\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 14,
+      "seed": 2926280514,
+      "relpath": "n30\\inst014\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 15,
+      "seed": 3199542737,
+      "relpath": "n30\\inst015\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 16,
+      "seed": 581241329,
+      "relpath": "n30\\inst016\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 17,
+      "seed": 1882375531,
+      "relpath": "n30\\inst017\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 18,
+      "seed": 168521649,
+      "relpath": "n30\\inst018\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 19,
+      "seed": 3129417076,
+      "relpath": "n30\\inst019\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 20,
+      "seed": 4205827519,
+      "relpath": "n30\\inst020\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 21,
+      "seed": 1794890370,
+      "relpath": "n30\\inst021\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 22,
+      "seed": 2650915876,
+      "relpath": "n30\\inst022\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 23,
+      "seed": 156522154,
+      "relpath": "n30\\inst023\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 24,
+      "seed": 29552015,
+      "relpath": "n30\\inst024\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 25,
+      "seed": 920249506,
+      "relpath": "n30\\inst025\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 26,
+      "seed": 1252359166,
+      "relpath": "n30\\inst026\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 27,
+      "seed": 1366667722,
+      "relpath": "n30\\inst027\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 28,
+      "seed": 326538140,
+      "relpath": "n30\\inst028\\graph_target.pkl"
+    },
+    {
+      "n": 30,
+      "instance": 29,
+      "seed": 1215405517,
+      "relpath": "n30\\inst029\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 0,
+      "seed": 3337762450,
+      "relpath": "n35\\inst000\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 1,
+      "seed": 2067857279,
+      "relpath": "n35\\inst001\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 2,
+      "seed": 3859500301,
+      "relpath": "n35\\inst002\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 3,
+      "seed": 4072347540,
+      "relpath": "n35\\inst003\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 4,
+      "seed": 1885008929,
+      "relpath": "n35\\inst004\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 5,
+      "seed": 2828282983,
+      "relpath": "n35\\inst005\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 6,
+      "seed": 351983572,
+      "relpath": "n35\\inst006\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 7,
+      "seed": 1343117954,
+      "relpath": "n35\\inst007\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 8,
+      "seed": 1267955970,
+      "relpath": "n35\\inst008\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 9,
+      "seed": 1533752129,
+      "relpath": "n35\\inst009\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 10,
+      "seed": 3843630654,
+      "relpath": "n35\\inst010\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 11,
+      "seed": 346824545,
+      "relpath": "n35\\inst011\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 12,
+      "seed": 47571884,
+      "relpath": "n35\\inst012\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 13,
+      "seed": 4113156424,
+      "relpath": "n35\\inst013\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 14,
+      "seed": 3781914132,
+      "relpath": "n35\\inst014\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 15,
+      "seed": 2166951878,
+      "relpath": "n35\\inst015\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 16,
+      "seed": 3633140318,
+      "relpath": "n35\\inst016\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 17,
+      "seed": 456189048,
+      "relpath": "n35\\inst017\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 18,
+      "seed": 3007643144,
+      "relpath": "n35\\inst018\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 19,
+      "seed": 3427097359,
+      "relpath": "n35\\inst019\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 20,
+      "seed": 2581548845,
+      "relpath": "n35\\inst020\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 21,
+      "seed": 331155199,
+      "relpath": "n35\\inst021\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 22,
+      "seed": 4044974483,
+      "relpath": "n35\\inst022\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 23,
+      "seed": 1549359927,
+      "relpath": "n35\\inst023\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 24,
+      "seed": 1230568396,
+      "relpath": "n35\\inst024\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 25,
+      "seed": 2555439530,
+      "relpath": "n35\\inst025\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 26,
+      "seed": 3370654927,
+      "relpath": "n35\\inst026\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 27,
+      "seed": 948373316,
+      "relpath": "n35\\inst027\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 28,
+      "seed": 2964225417,
+      "relpath": "n35\\inst028\\graph_target.pkl"
+    },
+    {
+      "n": 35,
+      "instance": 29,
+      "seed": 1165843193,
+      "relpath": "n35\\inst029\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 0,
+      "seed": 2749179582,
+      "relpath": "n40\\inst000\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 1,
+      "seed": 1556946243,
+      "relpath": "n40\\inst001\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 2,
+      "seed": 1688915847,
+      "relpath": "n40\\inst002\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 3,
+      "seed": 2323292041,
+      "relpath": "n40\\inst003\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 4,
+      "seed": 1921396381,
+      "relpath": "n40\\inst004\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 5,
+      "seed": 4019122910,
+      "relpath": "n40\\inst005\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 6,
+      "seed": 4022166108,
+      "relpath": "n40\\inst006\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 7,
+      "seed": 2626185203,
+      "relpath": "n40\\inst007\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 8,
+      "seed": 1397906601,
+      "relpath": "n40\\inst008\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 9,
+      "seed": 1211287699,
+      "relpath": "n40\\inst009\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 10,
+      "seed": 1443411833,
+      "relpath": "n40\\inst010\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 11,
+      "seed": 4069148025,
+      "relpath": "n40\\inst011\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 12,
+      "seed": 3106157733,
+      "relpath": "n40\\inst012\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 13,
+      "seed": 3881962604,
+      "relpath": "n40\\inst013\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 14,
+      "seed": 4257059974,
+      "relpath": "n40\\inst014\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 15,
+      "seed": 2839022429,
+      "relpath": "n40\\inst015\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 16,
+      "seed": 294759129,
+      "relpath": "n40\\inst016\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 17,
+      "seed": 2724231239,
+      "relpath": "n40\\inst017\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 18,
+      "seed": 2272244250,
+      "relpath": "n40\\inst018\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 19,
+      "seed": 975501656,
+      "relpath": "n40\\inst019\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 20,
+      "seed": 739102781,
+      "relpath": "n40\\inst020\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 21,
+      "seed": 1346086512,
+      "relpath": "n40\\inst021\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 22,
+      "seed": 3787134051,
+      "relpath": "n40\\inst022\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 23,
+      "seed": 1666661165,
+      "relpath": "n40\\inst023\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 24,
+      "seed": 2220866198,
+      "relpath": "n40\\inst024\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 25,
+      "seed": 28353767,
+      "relpath": "n40\\inst025\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 26,
+      "seed": 2931976272,
+      "relpath": "n40\\inst026\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 27,
+      "seed": 3811661455,
+      "relpath": "n40\\inst027\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 28,
+      "seed": 2313935927,
+      "relpath": "n40\\inst028\\graph_target.pkl"
+    },
+    {
+      "n": 40,
+      "instance": 29,
+      "seed": 2212089497,
+      "relpath": "n40\\inst029\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 0,
+      "seed": 1982925818,
+      "relpath": "n45\\inst000\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 1,
+      "seed": 2833880933,
+      "relpath": "n45\\inst001\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 2,
+      "seed": 3805218897,
+      "relpath": "n45\\inst002\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 3,
+      "seed": 2411886612,
+      "relpath": "n45\\inst003\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 4,
+      "seed": 3263322198,
+      "relpath": "n45\\inst004\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 5,
+      "seed": 2271046847,
+      "relpath": "n45\\inst005\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 6,
+      "seed": 4033668978,
+      "relpath": "n45\\inst006\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 7,
+      "seed": 154053148,
+      "relpath": "n45\\inst007\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 8,
+      "seed": 372432039,
+      "relpath": "n45\\inst008\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 9,
+      "seed": 448927566,
+      "relpath": "n45\\inst009\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 10,
+      "seed": 1231416469,
+      "relpath": "n45\\inst010\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 11,
+      "seed": 2720907839,
+      "relpath": "n45\\inst011\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 12,
+      "seed": 3972631059,
+      "relpath": "n45\\inst012\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 13,
+      "seed": 3636966781,
+      "relpath": "n45\\inst013\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 14,
+      "seed": 1616760657,
+      "relpath": "n45\\inst014\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 15,
+      "seed": 2358071649,
+      "relpath": "n45\\inst015\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 16,
+      "seed": 1645672057,
+      "relpath": "n45\\inst016\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 17,
+      "seed": 732769548,
+      "relpath": "n45\\inst017\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 18,
+      "seed": 1748196142,
+      "relpath": "n45\\inst018\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 19,
+      "seed": 4015856614,
+      "relpath": "n45\\inst019\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 20,
+      "seed": 3506157609,
+      "relpath": "n45\\inst020\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 21,
+      "seed": 1118616945,
+      "relpath": "n45\\inst021\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 22,
+      "seed": 514674404,
+      "relpath": "n45\\inst022\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 23,
+      "seed": 1496694711,
+      "relpath": "n45\\inst023\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 24,
+      "seed": 1536071593,
+      "relpath": "n45\\inst024\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 25,
+      "seed": 52884801,
+      "relpath": "n45\\inst025\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 26,
+      "seed": 3612625022,
+      "relpath": "n45\\inst026\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 27,
+      "seed": 1515485380,
+      "relpath": "n45\\inst027\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 28,
+      "seed": 3507011996,
+      "relpath": "n45\\inst028\\graph_target.pkl"
+    },
+    {
+      "n": 45,
+      "instance": 29,
+      "seed": 3013174979,
+      "relpath": "n45\\inst029\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 0,
+      "seed": 807043830,
+      "relpath": "n50\\inst000\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 1,
+      "seed": 849201880,
+      "relpath": "n50\\inst001\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 2,
+      "seed": 3207106906,
+      "relpath": "n50\\inst002\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 3,
+      "seed": 1297135640,
+      "relpath": "n50\\inst003\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 4,
+      "seed": 3361070606,
+      "relpath": "n50\\inst004\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 5,
+      "seed": 242120626,
+      "relpath": "n50\\inst005\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 6,
+      "seed": 4207060628,
+      "relpath": "n50\\inst006\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 7,
+      "seed": 2851929981,
+      "relpath": "n50\\inst007\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 8,
+      "seed": 3270683069,
+      "relpath": "n50\\inst008\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 9,
+      "seed": 3442893482,
+      "relpath": "n50\\inst009\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 10,
+      "seed": 722956788,
+      "relpath": "n50\\inst010\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 11,
+      "seed": 264077156,
+      "relpath": "n50\\inst011\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 12,
+      "seed": 2320198210,
+      "relpath": "n50\\inst012\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 13,
+      "seed": 2174684847,
+      "relpath": "n50\\inst013\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 14,
+      "seed": 1881896573,
+      "relpath": "n50\\inst014\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 15,
+      "seed": 2632811854,
+      "relpath": "n50\\inst015\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 16,
+      "seed": 3200993824,
+      "relpath": "n50\\inst016\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 17,
+      "seed": 232728459,
+      "relpath": "n50\\inst017\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 18,
+      "seed": 555690391,
+      "relpath": "n50\\inst018\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 19,
+      "seed": 3184067578,
+      "relpath": "n50\\inst019\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 20,
+      "seed": 51574054,
+      "relpath": "n50\\inst020\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 21,
+      "seed": 1527080731,
+      "relpath": "n50\\inst021\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 22,
+      "seed": 3409138323,
+      "relpath": "n50\\inst022\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 23,
+      "seed": 1643325943,
+      "relpath": "n50\\inst023\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 24,
+      "seed": 3621674113,
+      "relpath": "n50\\inst024\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 25,
+      "seed": 3557501177,
+      "relpath": "n50\\inst025\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 26,
+      "seed": 1551962213,
+      "relpath": "n50\\inst026\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 27,
+      "seed": 872045820,
+      "relpath": "n50\\inst027\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 28,
+      "seed": 1638602658,
+      "relpath": "n50\\inst028\\graph_target.pkl"
+    },
+    {
+      "n": 50,
+      "instance": 29,
+      "seed": 609348967,
+      "relpath": "n50\\inst029\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 0,
+      "seed": 1586346648,
+      "relpath": "n55\\inst000\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 1,
+      "seed": 1199650752,
+      "relpath": "n55\\inst001\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 2,
+      "seed": 1885836354,
+      "relpath": "n55\\inst002\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 3,
+      "seed": 1055160486,
+      "relpath": "n55\\inst003\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 4,
+      "seed": 4089274866,
+      "relpath": "n55\\inst004\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 5,
+      "seed": 101382898,
+      "relpath": "n55\\inst005\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 6,
+      "seed": 3009168999,
+      "relpath": "n55\\inst006\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 7,
+      "seed": 1689065998,
+      "relpath": "n55\\inst007\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 8,
+      "seed": 387302359,
+      "relpath": "n55\\inst008\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 9,
+      "seed": 132264406,
+      "relpath": "n55\\inst009\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 10,
+      "seed": 1880048997,
+      "relpath": "n55\\inst010\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 11,
+      "seed": 3034864924,
+      "relpath": "n55\\inst011\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 12,
+      "seed": 4242065564,
+      "relpath": "n55\\inst012\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 13,
+      "seed": 2786069207,
+      "relpath": "n55\\inst013\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 14,
+      "seed": 2509356729,
+      "relpath": "n55\\inst014\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 15,
+      "seed": 912539298,
+      "relpath": "n55\\inst015\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 16,
+      "seed": 386042817,
+      "relpath": "n55\\inst016\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 17,
+      "seed": 2899446506,
+      "relpath": "n55\\inst017\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 18,
+      "seed": 552554934,
+      "relpath": "n55\\inst018\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 19,
+      "seed": 4139854063,
+      "relpath": "n55\\inst019\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 20,
+      "seed": 4102614263,
+      "relpath": "n55\\inst020\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 21,
+      "seed": 474888318,
+      "relpath": "n55\\inst021\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 22,
+      "seed": 1784473077,
+      "relpath": "n55\\inst022\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 23,
+      "seed": 472254332,
+      "relpath": "n55\\inst023\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 24,
+      "seed": 1305863781,
+      "relpath": "n55\\inst024\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 25,
+      "seed": 3089413814,
+      "relpath": "n55\\inst025\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 26,
+      "seed": 3751648641,
+      "relpath": "n55\\inst026\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 27,
+      "seed": 746241388,
+      "relpath": "n55\\inst027\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 28,
+      "seed": 387871384,
+      "relpath": "n55\\inst028\\graph_target.pkl"
+    },
+    {
+      "n": 55,
+      "instance": 29,
+      "seed": 865328765,
+      "relpath": "n55\\inst029\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 0,
+      "seed": 3009023900,
+      "relpath": "n60\\inst000\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 1,
+      "seed": 1225836544,
+      "relpath": "n60\\inst001\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 2,
+      "seed": 1099241925,
+      "relpath": "n60\\inst002\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 3,
+      "seed": 3056887609,
+      "relpath": "n60\\inst003\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 4,
+      "seed": 1280013525,
+      "relpath": "n60\\inst004\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 5,
+      "seed": 1767070834,
+      "relpath": "n60\\inst005\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 6,
+      "seed": 1160389068,
+      "relpath": "n60\\inst006\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 7,
+      "seed": 2575348217,
+      "relpath": "n60\\inst007\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 8,
+      "seed": 1668814032,
+      "relpath": "n60\\inst008\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 9,
+      "seed": 3975243242,
+      "relpath": "n60\\inst009\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 10,
+      "seed": 1831306137,
+      "relpath": "n60\\inst010\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 11,
+      "seed": 2946643738,
+      "relpath": "n60\\inst011\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 12,
+      "seed": 1729731286,
+      "relpath": "n60\\inst012\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 13,
+      "seed": 1243538988,
+      "relpath": "n60\\inst013\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 14,
+      "seed": 4086799854,
+      "relpath": "n60\\inst014\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 15,
+      "seed": 3895843339,
+      "relpath": "n60\\inst015\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 16,
+      "seed": 3316438947,
+      "relpath": "n60\\inst016\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 17,
+      "seed": 1055714422,
+      "relpath": "n60\\inst017\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 18,
+      "seed": 1999612377,
+      "relpath": "n60\\inst018\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 19,
+      "seed": 4251385545,
+      "relpath": "n60\\inst019\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 20,
+      "seed": 3390779441,
+      "relpath": "n60\\inst020\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 21,
+      "seed": 4249808921,
+      "relpath": "n60\\inst021\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 22,
+      "seed": 1525311623,
+      "relpath": "n60\\inst022\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 23,
+      "seed": 1088492081,
+      "relpath": "n60\\inst023\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 24,
+      "seed": 2657680790,
+      "relpath": "n60\\inst024\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 25,
+      "seed": 1860703204,
+      "relpath": "n60\\inst025\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 26,
+      "seed": 2611423612,
+      "relpath": "n60\\inst026\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 27,
+      "seed": 1770949121,
+      "relpath": "n60\\inst027\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 28,
+      "seed": 2442284047,
+      "relpath": "n60\\inst028\\graph_target.pkl"
+    },
+    {
+      "n": 60,
+      "instance": 29,
+      "seed": 3244859633,
+      "relpath": "n60\\inst029\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 0,
+      "seed": 2375597883,
+      "relpath": "n65\\inst000\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 1,
+      "seed": 1402496762,
+      "relpath": "n65\\inst001\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 2,
+      "seed": 1205623916,
+      "relpath": "n65\\inst002\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 3,
+      "seed": 3620853226,
+      "relpath": "n65\\inst003\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 4,
+      "seed": 3053349141,
+      "relpath": "n65\\inst004\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 5,
+      "seed": 4207579931,
+      "relpath": "n65\\inst005\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 6,
+      "seed": 1972058039,
+      "relpath": "n65\\inst006\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 7,
+      "seed": 855395140,
+      "relpath": "n65\\inst007\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 8,
+      "seed": 4050526132,
+      "relpath": "n65\\inst008\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 9,
+      "seed": 1080067719,
+      "relpath": "n65\\inst009\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 10,
+      "seed": 2248741534,
+      "relpath": "n65\\inst010\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 11,
+      "seed": 1130439194,
+      "relpath": "n65\\inst011\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 12,
+      "seed": 4116937822,
+      "relpath": "n65\\inst012\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 13,
+      "seed": 1469892399,
+      "relpath": "n65\\inst013\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 14,
+      "seed": 906893703,
+      "relpath": "n65\\inst014\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 15,
+      "seed": 1980665345,
+      "relpath": "n65\\inst015\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 16,
+      "seed": 3796268133,
+      "relpath": "n65\\inst016\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 17,
+      "seed": 1643964805,
+      "relpath": "n65\\inst017\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 18,
+      "seed": 3453246916,
+      "relpath": "n65\\inst018\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 19,
+      "seed": 3431798635,
+      "relpath": "n65\\inst019\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 20,
+      "seed": 177251505,
+      "relpath": "n65\\inst020\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 21,
+      "seed": 4219129378,
+      "relpath": "n65\\inst021\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 22,
+      "seed": 2967983131,
+      "relpath": "n65\\inst022\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 23,
+      "seed": 3194664266,
+      "relpath": "n65\\inst023\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 24,
+      "seed": 2960486421,
+      "relpath": "n65\\inst024\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 25,
+      "seed": 3420913109,
+      "relpath": "n65\\inst025\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 26,
+      "seed": 1297293277,
+      "relpath": "n65\\inst026\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 27,
+      "seed": 3855553467,
+      "relpath": "n65\\inst027\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 28,
+      "seed": 236246671,
+      "relpath": "n65\\inst028\\graph_target.pkl"
+    },
+    {
+      "n": 65,
+      "instance": 29,
+      "seed": 3843131129,
+      "relpath": "n65\\inst029\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 0,
+      "seed": 2524312431,
+      "relpath": "n70\\inst000\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 1,
+      "seed": 3896438747,
+      "relpath": "n70\\inst001\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 2,
+      "seed": 3067979733,
+      "relpath": "n70\\inst002\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 3,
+      "seed": 480761814,
+      "relpath": "n70\\inst003\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 4,
+      "seed": 2624629520,
+      "relpath": "n70\\inst004\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 5,
+      "seed": 4013568735,
+      "relpath": "n70\\inst005\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 6,
+      "seed": 1175373587,
+      "relpath": "n70\\inst006\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 7,
+      "seed": 2396467740,
+      "relpath": "n70\\inst007\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 8,
+      "seed": 585368787,
+      "relpath": "n70\\inst008\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 9,
+      "seed": 3376371637,
+      "relpath": "n70\\inst009\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 10,
+      "seed": 3599594466,
+      "relpath": "n70\\inst010\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 11,
+      "seed": 1933462296,
+      "relpath": "n70\\inst011\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 12,
+      "seed": 2116180574,
+      "relpath": "n70\\inst012\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 13,
+      "seed": 4080002910,
+      "relpath": "n70\\inst013\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 14,
+      "seed": 1359379159,
+      "relpath": "n70\\inst014\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 15,
+      "seed": 219240275,
+      "relpath": "n70\\inst015\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 16,
+      "seed": 3537261290,
+      "relpath": "n70\\inst016\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 17,
+      "seed": 2175881930,
+      "relpath": "n70\\inst017\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 18,
+      "seed": 1591094720,
+      "relpath": "n70\\inst018\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 19,
+      "seed": 2969236032,
+      "relpath": "n70\\inst019\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 20,
+      "seed": 1583819696,
+      "relpath": "n70\\inst020\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 21,
+      "seed": 3505796169,
+      "relpath": "n70\\inst021\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 22,
+      "seed": 2432480653,
+      "relpath": "n70\\inst022\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 23,
+      "seed": 817203783,
+      "relpath": "n70\\inst023\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 24,
+      "seed": 488585592,
+      "relpath": "n70\\inst024\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 25,
+      "seed": 146461933,
+      "relpath": "n70\\inst025\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 26,
+      "seed": 215657092,
+      "relpath": "n70\\inst026\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 27,
+      "seed": 2659523539,
+      "relpath": "n70\\inst027\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 28,
+      "seed": 3428922271,
+      "relpath": "n70\\inst028\\graph_target.pkl"
+    },
+    {
+      "n": 70,
+      "instance": 29,
+      "seed": 501351166,
+      "relpath": "n70\\inst029\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 0,
+      "seed": 1074526809,
+      "relpath": "n75\\inst000\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 1,
+      "seed": 3730760610,
+      "relpath": "n75\\inst001\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 2,
+      "seed": 2894343289,
+      "relpath": "n75\\inst002\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 3,
+      "seed": 2146880709,
+      "relpath": "n75\\inst003\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 4,
+      "seed": 1594861769,
+      "relpath": "n75\\inst004\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 5,
+      "seed": 3435625496,
+      "relpath": "n75\\inst005\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 6,
+      "seed": 3030335333,
+      "relpath": "n75\\inst006\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 7,
+      "seed": 3035302913,
+      "relpath": "n75\\inst007\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 8,
+      "seed": 370891637,
+      "relpath": "n75\\inst008\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 9,
+      "seed": 2354385153,
+      "relpath": "n75\\inst009\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 10,
+      "seed": 2867808803,
+      "relpath": "n75\\inst010\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 11,
+      "seed": 2062073136,
+      "relpath": "n75\\inst011\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 12,
+      "seed": 2444401937,
+      "relpath": "n75\\inst012\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 13,
+      "seed": 2787216702,
+      "relpath": "n75\\inst013\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 14,
+      "seed": 2781571044,
+      "relpath": "n75\\inst014\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 15,
+      "seed": 4167409944,
+      "relpath": "n75\\inst015\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 16,
+      "seed": 198661571,
+      "relpath": "n75\\inst016\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 17,
+      "seed": 1341266744,
+      "relpath": "n75\\inst017\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 18,
+      "seed": 884735804,
+      "relpath": "n75\\inst018\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 19,
+      "seed": 3223510284,
+      "relpath": "n75\\inst019\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 20,
+      "seed": 399171167,
+      "relpath": "n75\\inst020\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 21,
+      "seed": 18567154,
+      "relpath": "n75\\inst021\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 22,
+      "seed": 2508737731,
+      "relpath": "n75\\inst022\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 23,
+      "seed": 490930579,
+      "relpath": "n75\\inst023\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 24,
+      "seed": 380257134,
+      "relpath": "n75\\inst024\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 25,
+      "seed": 2976762077,
+      "relpath": "n75\\inst025\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 26,
+      "seed": 266277657,
+      "relpath": "n75\\inst026\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 27,
+      "seed": 968534377,
+      "relpath": "n75\\inst027\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 28,
+      "seed": 92505018,
+      "relpath": "n75\\inst028\\graph_target.pkl"
+    },
+    {
+      "n": 75,
+      "instance": 29,
+      "seed": 4168790512,
+      "relpath": "n75\\inst029\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 0,
+      "seed": 944796486,
+      "relpath": "n80\\inst000\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 1,
+      "seed": 3900391881,
+      "relpath": "n80\\inst001\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 2,
+      "seed": 2966658241,
+      "relpath": "n80\\inst002\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 3,
+      "seed": 3303312819,
+      "relpath": "n80\\inst003\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 4,
+      "seed": 3578720103,
+      "relpath": "n80\\inst004\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 5,
+      "seed": 3800454077,
+      "relpath": "n80\\inst005\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 6,
+      "seed": 2329692770,
+      "relpath": "n80\\inst006\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 7,
+      "seed": 2206353153,
+      "relpath": "n80\\inst007\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 8,
+      "seed": 1958517326,
+      "relpath": "n80\\inst008\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 9,
+      "seed": 2146672489,
+      "relpath": "n80\\inst009\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 10,
+      "seed": 384895347,
+      "relpath": "n80\\inst010\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 11,
+      "seed": 4030626064,
+      "relpath": "n80\\inst011\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 12,
+      "seed": 2073055413,
+      "relpath": "n80\\inst012\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 13,
+      "seed": 702454441,
+      "relpath": "n80\\inst013\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 14,
+      "seed": 1176205477,
+      "relpath": "n80\\inst014\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 15,
+      "seed": 236029723,
+      "relpath": "n80\\inst015\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 16,
+      "seed": 4046873421,
+      "relpath": "n80\\inst016\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 17,
+      "seed": 2122025620,
+      "relpath": "n80\\inst017\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 18,
+      "seed": 1923614543,
+      "relpath": "n80\\inst018\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 19,
+      "seed": 1789687883,
+      "relpath": "n80\\inst019\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 20,
+      "seed": 2731738300,
+      "relpath": "n80\\inst020\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 21,
+      "seed": 2494143377,
+      "relpath": "n80\\inst021\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 22,
+      "seed": 1109884967,
+      "relpath": "n80\\inst022\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 23,
+      "seed": 1528831677,
+      "relpath": "n80\\inst023\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 24,
+      "seed": 2143911917,
+      "relpath": "n80\\inst024\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 25,
+      "seed": 1526083268,
+      "relpath": "n80\\inst025\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 26,
+      "seed": 510019038,
+      "relpath": "n80\\inst026\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 27,
+      "seed": 668774278,
+      "relpath": "n80\\inst027\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 28,
+      "seed": 36293914,
+      "relpath": "n80\\inst028\\graph_target.pkl"
+    },
+    {
+      "n": 80,
+      "instance": 29,
+      "seed": 3121236663,
+      "relpath": "n80\\inst029\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 0,
+      "seed": 3167757046,
+      "relpath": "n85\\inst000\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 1,
+      "seed": 2933298470,
+      "relpath": "n85\\inst001\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 2,
+      "seed": 389402607,
+      "relpath": "n85\\inst002\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 3,
+      "seed": 2933498933,
+      "relpath": "n85\\inst003\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 4,
+      "seed": 2046432062,
+      "relpath": "n85\\inst004\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 5,
+      "seed": 2962017030,
+      "relpath": "n85\\inst005\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 6,
+      "seed": 3786870307,
+      "relpath": "n85\\inst006\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 7,
+      "seed": 3840965061,
+      "relpath": "n85\\inst007\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 8,
+      "seed": 2903505183,
+      "relpath": "n85\\inst008\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 9,
+      "seed": 3411605091,
+      "relpath": "n85\\inst009\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 10,
+      "seed": 604695433,
+      "relpath": "n85\\inst010\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 11,
+      "seed": 3031580873,
+      "relpath": "n85\\inst011\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 12,
+      "seed": 718399718,
+      "relpath": "n85\\inst012\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 13,
+      "seed": 2087301458,
+      "relpath": "n85\\inst013\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 14,
+      "seed": 3449228152,
+      "relpath": "n85\\inst014\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 15,
+      "seed": 1839603244,
+      "relpath": "n85\\inst015\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 16,
+      "seed": 3499474806,
+      "relpath": "n85\\inst016\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 17,
+      "seed": 157606694,
+      "relpath": "n85\\inst017\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 18,
+      "seed": 1392067253,
+      "relpath": "n85\\inst018\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 19,
+      "seed": 2041799114,
+      "relpath": "n85\\inst019\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 20,
+      "seed": 2821151653,
+      "relpath": "n85\\inst020\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 21,
+      "seed": 1162575247,
+      "relpath": "n85\\inst021\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 22,
+      "seed": 1899322617,
+      "relpath": "n85\\inst022\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 23,
+      "seed": 3013935722,
+      "relpath": "n85\\inst023\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 24,
+      "seed": 1448616418,
+      "relpath": "n85\\inst024\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 25,
+      "seed": 132604387,
+      "relpath": "n85\\inst025\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 26,
+      "seed": 1168549335,
+      "relpath": "n85\\inst026\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 27,
+      "seed": 3863106538,
+      "relpath": "n85\\inst027\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 28,
+      "seed": 423264223,
+      "relpath": "n85\\inst028\\graph_target.pkl"
+    },
+    {
+      "n": 85,
+      "instance": 29,
+      "seed": 654893943,
+      "relpath": "n85\\inst029\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 0,
+      "seed": 2036301603,
+      "relpath": "n90\\inst000\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 1,
+      "seed": 2750878869,
+      "relpath": "n90\\inst001\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 2,
+      "seed": 843404779,
+      "relpath": "n90\\inst002\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 3,
+      "seed": 4045956133,
+      "relpath": "n90\\inst003\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 4,
+      "seed": 3358821125,
+      "relpath": "n90\\inst004\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 5,
+      "seed": 3129073321,
+      "relpath": "n90\\inst005\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 6,
+      "seed": 3423254372,
+      "relpath": "n90\\inst006\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 7,
+      "seed": 2139942633,
+      "relpath": "n90\\inst007\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 8,
+      "seed": 3435920562,
+      "relpath": "n90\\inst008\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 9,
+      "seed": 511722868,
+      "relpath": "n90\\inst009\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 10,
+      "seed": 2202213483,
+      "relpath": "n90\\inst010\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 11,
+      "seed": 2007966022,
+      "relpath": "n90\\inst011\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 12,
+      "seed": 189496140,
+      "relpath": "n90\\inst012\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 13,
+      "seed": 1211736540,
+      "relpath": "n90\\inst013\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 14,
+      "seed": 463838330,
+      "relpath": "n90\\inst014\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 15,
+      "seed": 3735050618,
+      "relpath": "n90\\inst015\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 16,
+      "seed": 3485325025,
+      "relpath": "n90\\inst016\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 17,
+      "seed": 1201712841,
+      "relpath": "n90\\inst017\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 18,
+      "seed": 2519274362,
+      "relpath": "n90\\inst018\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 19,
+      "seed": 3988860890,
+      "relpath": "n90\\inst019\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 20,
+      "seed": 3265659891,
+      "relpath": "n90\\inst020\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 21,
+      "seed": 3675444693,
+      "relpath": "n90\\inst021\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 22,
+      "seed": 2286025036,
+      "relpath": "n90\\inst022\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 23,
+      "seed": 1900315742,
+      "relpath": "n90\\inst023\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 24,
+      "seed": 1397859265,
+      "relpath": "n90\\inst024\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 25,
+      "seed": 153601312,
+      "relpath": "n90\\inst025\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 26,
+      "seed": 1882093278,
+      "relpath": "n90\\inst026\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 27,
+      "seed": 1464470752,
+      "relpath": "n90\\inst027\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 28,
+      "seed": 1550709024,
+      "relpath": "n90\\inst028\\graph_target.pkl"
+    },
+    {
+      "n": 90,
+      "instance": 29,
+      "seed": 3990271236,
+      "relpath": "n90\\inst029\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 0,
+      "seed": 2131335938,
+      "relpath": "n95\\inst000\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 1,
+      "seed": 2906099855,
+      "relpath": "n95\\inst001\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 2,
+      "seed": 3616756771,
+      "relpath": "n95\\inst002\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 3,
+      "seed": 934879529,
+      "relpath": "n95\\inst003\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 4,
+      "seed": 4027989545,
+      "relpath": "n95\\inst004\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 5,
+      "seed": 939697165,
+      "relpath": "n95\\inst005\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 6,
+      "seed": 3969473788,
+      "relpath": "n95\\inst006\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 7,
+      "seed": 2682515007,
+      "relpath": "n95\\inst007\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 8,
+      "seed": 1494817891,
+      "relpath": "n95\\inst008\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 9,
+      "seed": 511929445,
+      "relpath": "n95\\inst009\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 10,
+      "seed": 1425466765,
+      "relpath": "n95\\inst010\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 11,
+      "seed": 2234213886,
+      "relpath": "n95\\inst011\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 12,
+      "seed": 2626762164,
+      "relpath": "n95\\inst012\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 13,
+      "seed": 713485792,
+      "relpath": "n95\\inst013\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 14,
+      "seed": 544457495,
+      "relpath": "n95\\inst014\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 15,
+      "seed": 1053288822,
+      "relpath": "n95\\inst015\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 16,
+      "seed": 128919950,
+      "relpath": "n95\\inst016\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 17,
+      "seed": 1135612634,
+      "relpath": "n95\\inst017\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 18,
+      "seed": 2770314907,
+      "relpath": "n95\\inst018\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 19,
+      "seed": 3730755746,
+      "relpath": "n95\\inst019\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 20,
+      "seed": 1292012547,
+      "relpath": "n95\\inst020\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 21,
+      "seed": 2478916996,
+      "relpath": "n95\\inst021\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 22,
+      "seed": 3474861306,
+      "relpath": "n95\\inst022\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 23,
+      "seed": 3616457893,
+      "relpath": "n95\\inst023\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 24,
+      "seed": 2584057613,
+      "relpath": "n95\\inst024\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 25,
+      "seed": 3508281820,
+      "relpath": "n95\\inst025\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 26,
+      "seed": 4001335299,
+      "relpath": "n95\\inst026\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 27,
+      "seed": 1465534077,
+      "relpath": "n95\\inst027\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 28,
+      "seed": 1942140183,
+      "relpath": "n95\\inst028\\graph_target.pkl"
+    },
+    {
+      "n": 95,
+      "instance": 29,
+      "seed": 480155657,
+      "relpath": "n95\\inst029\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 0,
+      "seed": 271914307,
+      "relpath": "n100\\inst000\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 1,
+      "seed": 3031574521,
+      "relpath": "n100\\inst001\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 2,
+      "seed": 251373304,
+      "relpath": "n100\\inst002\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 3,
+      "seed": 4187043126,
+      "relpath": "n100\\inst003\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 4,
+      "seed": 1594137475,
+      "relpath": "n100\\inst004\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 5,
+      "seed": 1043133794,
+      "relpath": "n100\\inst005\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 6,
+      "seed": 3965085881,
+      "relpath": "n100\\inst006\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 7,
+      "seed": 1561618663,
+      "relpath": "n100\\inst007\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 8,
+      "seed": 500280300,
+      "relpath": "n100\\inst008\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 9,
+      "seed": 2962471543,
+      "relpath": "n100\\inst009\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 10,
+      "seed": 4136395121,
+      "relpath": "n100\\inst010\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 11,
+      "seed": 1616940812,
+      "relpath": "n100\\inst011\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 12,
+      "seed": 2303174609,
+      "relpath": "n100\\inst012\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 13,
+      "seed": 1307999208,
+      "relpath": "n100\\inst013\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 14,
+      "seed": 4209440712,
+      "relpath": "n100\\inst014\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 15,
+      "seed": 1705503424,
+      "relpath": "n100\\inst015\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 16,
+      "seed": 1137462193,
+      "relpath": "n100\\inst016\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 17,
+      "seed": 3847206744,
+      "relpath": "n100\\inst017\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 18,
+      "seed": 1091246611,
+      "relpath": "n100\\inst018\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 19,
+      "seed": 2880947970,
+      "relpath": "n100\\inst019\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 20,
+      "seed": 2981865002,
+      "relpath": "n100\\inst020\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 21,
+      "seed": 4262358412,
+      "relpath": "n100\\inst021\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 22,
+      "seed": 3667356344,
+      "relpath": "n100\\inst022\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 23,
+      "seed": 3474704684,
+      "relpath": "n100\\inst023\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 24,
+      "seed": 1837335958,
+      "relpath": "n100\\inst024\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 25,
+      "seed": 297962269,
+      "relpath": "n100\\inst025\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 26,
+      "seed": 2108318654,
+      "relpath": "n100\\inst026\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 27,
+      "seed": 1651895612,
+      "relpath": "n100\\inst027\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 28,
+      "seed": 1387795513,
+      "relpath": "n100\\inst028\\graph_target.pkl"
+    },
+    {
+      "n": 100,
+      "instance": 29,
+      "seed": 2899246218,
+      "relpath": "n100\\inst029\\graph_target.pkl"
+    }
+  ],
+  "rescaled": {
+    "method": "per-instance uniform scaling of coordinates",
+    "target": "attempt sqrt(R_min * R_max) == R_ryd_um, but enforce physical constraints",
+    "R_ryd_um": 7.186760677748386,
+    "min_pairwise_distance_um": 5.0,
+    "allow_shrink": false,
+    "source_benchmark": "historical_local/mDS/scripts/udg_benchmark_Rryd_7_18"
+  }
+}

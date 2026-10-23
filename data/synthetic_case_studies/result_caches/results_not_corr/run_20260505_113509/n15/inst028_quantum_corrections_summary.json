@@ -1,0 +1,11 @@
+{
+  "n_samples": 500,
+  "n_raw_not_independent": 22,
+  "frac_raw_not_independent": 0.044,
+  "n_changed": 157,
+  "frac_changed": 0.314,
+  "mean_removed_nodes": 0.044,
+  "mean_added_nodes": 0.32,
+  "mean_conflict_edges_raw": 0.044,
+  "mean_conflict_nodes_raw": 0.088
+}

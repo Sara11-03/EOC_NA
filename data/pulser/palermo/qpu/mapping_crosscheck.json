@@ -1,0 +1,8 @@
+{
+  "case": "palermo",
+  "num_atoms": 41,
+  "all_qubit_names_match": true,
+  "max_coordinate_rounding_error_um": 6.464208087085927e-07,
+  "coordinate_tolerance_um": 1e-06,
+  "interpretation": "Portal register q000..q040 maps to alphabetical municipality names; displayed coordinates were rounded to 6 decimals."
+}

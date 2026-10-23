@@ -1,0 +1,23 @@
+{
+  "case": "modena",
+  "backend_kind": "qpu",
+  "num_bits": 100,
+  "shots": 1000,
+  "unique_bitstrings": 1000,
+  "jobs": [
+    {
+      "job_id": "70fc3039-da71-4480-9238-fd3c438c0a0e",
+      "status": "DONE",
+      "n_samples": 1000,
+      "runs_requested": 1000,
+      "seed": 12345
+    }
+  ],
+  "source_file": "fetched_results_summary(1).json",
+  "source_sha256": "5df6b8f39e474c6afca82f4b58c9135ee0ee9ccd4c1c62dad6710e4b74d23fde",
+  "source_submission_basename": "100_modena_fresnel_can1_1x1000_M6000_m2p0_20260414_233929",
+  "processing": "No correction, no postselection, no relabeling of bits; exact counts preserved.",
+  "sample_order": "The original samples list is retained if present. Acquisition order is not established by this export; do not use sorted counts as a chronological shot sequence.",
+  "seed_note": "A recorded software seed does not make physical QPU measurements deterministic.",
+  "node_mapping_included": true
+}

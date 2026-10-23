@@ -1,0 +1,23 @@
+{
+  "created_at_unix": 1776202772.276238,
+  "device_key": "FRESNEL_CAN1",
+  "device_type": "FRESNEL_CAN1",
+  "runs": 1000,
+  "seed": 12345,
+  "batch_id": "d2280632-5409-4bb4-9417-d2ce85c090ff",
+  "job_id": "70fc3039-da71-4480-9238-fd3c438c0a0e",
+  "graph_path": "register_modena.json",
+  "num_nodes": 100,
+  "num_edges": 145,
+  "R_ryd": 7.59865413712265,
+  "Omega_max": 4.497372924334234,
+  "U": 2.248686462167117,
+  "M_total": 3000,
+  "M_multiplier": 2.0,
+  "delta_0": -13.492118773002703,
+  "delta_f": 4.497372924334234,
+  "t_rise": 500,
+  "t_sweep": 1500,
+  "t_fall": 1000,
+  "provenance_note": "Copied recorded submission parameters; original local absolute graph path replaced by basename."
+}

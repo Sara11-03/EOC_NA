@@ -1,0 +1,116 @@
+{
+  "selected_submission": {
+    "submission_dir": "41_sicily_fresnel_can1_20260414_230242",
+    "backend_kind": "qpu",
+    "fetch_mode": "single_qpu_job"
+  },
+  "graph": {
+    "num_nodes": 41,
+    "num_edges": 56
+  },
+  "cache": {
+    "num_samples_used_hw_stats": 1000,
+    "num_samples_used_mds_quantum": 1000
+  },
+  "statuses": {
+    "docplex_exact": "integer optimal solution",
+    "from_mIS_classical": "ok",
+    "from_notMIS_classical": "ok",
+    "from_mIS_quantum": "ok",
+    "from_notMIS_quantum": "ok"
+  },
+  "mds_nodes": {
+    "docplex_exact": [
+      "Belmonte Mezzagno (PA)",
+      "Borgetto (PA)",
+      "Caltavuturo (PA)",
+      "Camporeale (PA)",
+      "Castellammare del Golfo (TP)",
+      "Cerda (PA)",
+      "Chiusa Sclafani (PA)",
+      "Isnello (PA)",
+      "Marineo (PA)",
+      "Salaparuta (TP)",
+      "Trapani (TP)",
+      "Vicari (PA)"
+    ],
+    "from_mIS_classical": [
+      "Alcamo (TP)",
+      "Belmonte Mezzagno (PA)",
+      "Borgetto (PA)",
+      "Buseto Palizzolo (TP)",
+      "Caltavuturo (PA)",
+      "Cerda (PA)",
+      "Chiusa Sclafani (PA)",
+      "Contessa Entellina (PA)",
+      "Godrano (PA)",
+      "Isnello (PA)",
+      "Santa Ninfa (TP)",
+      "Vicari (PA)"
+    ],
+    "from_notMIS_classical": [
+      "Belmonte Mezzagno (PA)",
+      "Borgetto (PA)",
+      "Buseto Palizzolo (TP)",
+      "Caccamo (PA)",
+      "Caltavuturo (PA)",
+      "Camporeale (PA)",
+      "Chiusa Sclafani (PA)",
+      "Contessa Entellina (PA)",
+      "Godrano (PA)",
+      "Isnello (PA)",
+      "Salemi (TP)",
+      "Vicari (PA)"
+    ],
+    "from_mIS_quantum": [
+      "Alcamo (TP)",
+      "Belmonte Mezzagno (PA)",
+      "Borgetto (PA)",
+      "Buseto Palizzolo (TP)",
+      "Caltavuturo (PA)",
+      "Campofiorito (PA)",
+      "Castronovo di Sicilia (PA)",
+      "Cerda (PA)",
+      "Contessa Entellina (PA)",
+      "Godrano (PA)",
+      "Isnello (PA)",
+      "Prizzi (PA)",
+      "Santa Ninfa (TP)"
+    ],
+    "from_notMIS_quantum": [
+      "Belmonte Mezzagno (PA)",
+      "Borgetto (PA)",
+      "Buseto Palizzolo (TP)",
+      "Caccamo (PA)",
+      "Caltavuturo (PA)",
+      "Camporeale (PA)",
+      "Chiusa Sclafani (PA)",
+      "Contessa Entellina (PA)",
+      "Godrano (PA)",
+      "Isnello (PA)",
+      "Salemi (TP)",
+      "Vicari (PA)"
+    ]
+  },
+  "mds_sizes": {
+    "docplex_exact": 12,
+    "from_mIS_classical": 12,
+    "from_notMIS_classical": 12,
+    "from_mIS_quantum": 13,
+    "from_notMIS_quantum": 12
+  },
+  "exact_method_selected_node_names": [
+    "Belmonte Mezzagno (PA)",
+    "Borgetto (PA)",
+    "Caltavuturo (PA)",
+    "Camporeale (PA)",
+    "Castellammare del Golfo (TP)",
+    "Cerda (PA)",
+    "Chiusa Sclafani (PA)",
+    "Isnello (PA)",
+    "Marineo (PA)",
+    "Salaparuta (TP)",
+    "Trapani (TP)",
+    "Vicari (PA)"
+  ]
+}

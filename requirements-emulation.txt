@@ -1,0 +1,4 @@
+# OPTIONAL. API targets Pulser 1.7.2; a live cloud run has NOT been tested here.
+# Install in a separate environment. Check access/device availability with Pasqal.
+pulser-core==1.7.2
+pulser-pasqal==1.7.2

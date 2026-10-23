@@ -1,0 +1,1313 @@
+{
+  "n_samples_valid": 1000,
+  "n_samples_invalid": 0,
+  "total_edge_violations": 2527,
+  "edge_counts": {
+    "Villa Minozzo (RE)||Frassinoro (MO)": 18,
+    "Ostiglia (MN)||Borgo Mantovano (MN)": 13,
+    "Frassinoro (MO)||Palagano (MO)": 58,
+    "Campegine (RE)||Poviglio (RE)": 14,
+    "Bagnolo San Vito (MN)||Mantova (MN)": 14,
+    "Rodigo (MN)||Curtatone (MN)": 25,
+    "Curtatone (MN)||Mantova (MN)": 16,
+    "Pomponesco (MN)||Commessaggio (MN)": 34,
+    "Pomponesco (MN)||Luzzara (RE)": 14,
+    "Guiglia (MO)||Pavullo nel Frignano (MO)": 95,
+    "Poviglio (RE)||Cadelbosco di Sopra (RE)": 20,
+    "Bagnolo San Vito (MN)||San Benedetto Po (MN)": 4,
+    "Mirandola (MO)||Medolla (MO)": 25,
+    "Anzola dell'Emilia (BO)||Sala Bolognese (BO)": 25,
+    "Vignola (MO)||Maranello (MO)": 96,
+    "Fontanellato (PR)||Fidenza (PR)": 90,
+    "Bagnolo San Vito (MN)||Sustinente (MN)": 9,
+    "Valmozzola (PR)||Varsi (PR)": 14,
+    "Valmozzola (PR)||Berceto (PR)": 30,
+    "Toano (RE)||Palagano (MO)": 22,
+    "Carpineti (RE)||Toano (RE)": 11,
+    "Redondesco (MN)||Marcaria (MN)": 15,
+    "Curtatone (MN)||Marcaria (MN)": 14,
+    "Carpineti (RE)||Casina (RE)": 20,
+    "Solignano (PR)||Valmozzola (PR)": 26,
+    "Monchio delle Corti (PR)||Corniglio (PR)": 13,
+    "Gerre de' Caprioli (CR)||Gadesco-Pieve Delmona (CR)": 87,
+    "Correggio (RE)||Carpi (MO)": 45,
+    "Vignola (MO)||Guiglia (MO)": 42,
+    "Medesano (PR)||Salsomaggiore Terme (PR)": 35,
+    "Novellara (RE)||Cadelbosco di Sopra (RE)": 6,
+    "Fidenza (PR)||Salsomaggiore Terme (PR)": 14,
+    "Montechiarugolo (PR)||Parma (PR)": 28,
+    "Anzola dell'Emilia (BO)||Castelfranco Emilia (MO)": 8,
+    "Ostiglia (MN)||Borgocarbonara (MN)": 22,
+    "Villa Minozzo (RE)||Toano (RE)": 19,
+    "Volongo (CR)||Gabbioneta-Binanuova (CR)": 12,
+    "Ravarino (MO)||Medolla (MO)": 30,
+    "Gadesco-Pieve Delmona (CR)||Gabbioneta-Binanuova (CR)": 16,
+    "Polinago (MO)||Pavullo nel Frignano (MO)": 29,
+    "Quattro Castella (RE)||Cavriago (RE)": 7,
+    "Quattro Castella (RE)||Traversetolo (PR)": 30,
+    "Neviano degli Arduini (PR)||Vetto (RE)": 17,
+    "Cingia de' Botti (CR)||Roccabianca (PR)": 44,
+    "Fidenza (PR)||Noceto (PR)": 20,
+    "San Benedetto Po (MN)||San Giacomo delle Segnate (MN)": 9,
+    "Monchio delle Corti (PR)||Palanzano (PR)": 5,
+    "Ostiglia (MN)||Sustinente (MN)": 18,
+    "Palanzano (PR)||Ventasso (RE)": 22,
+    "Palanzano (PR)||Tizzano Val Parma (PR)": 4,
+    "Ravarino (MO)||Sant'Agata Bolognese (BO)": 12,
+    "Carpi (MO)||Fabbrico (RE)": 28,
+    "Novellara (RE)||Correggio (RE)": 28,
+    "Medesano (PR)||Noceto (PR)": 14,
+    "Rivarolo del Re ed Uniti (CR)||Commessaggio (MN)": 13,
+    "Fontanellato (PR)||Noceto (PR)": 10,
+    "Marmirolo (MN)||Volta Mantovana (MN)": 27,
+    "Polinago (MO)||Palagano (MO)": 8,
+    "Prignano sulla Secchia (MO)||Serramazzoni (MO)": 14,
+    "Cingia de' Botti (CR)||Gussola (CR)": 5,
+    "Redondesco (MN)||Canneto sull'Oglio (MN)": 23,
+    "Reggio nell'Emilia (RE)||Cavriago (RE)": 22,
+    "Carpineti (RE)||Viano (RE)": 32,
+    "Viano (RE)||Castellarano (RE)": 8,
+    "Mantova (MN)||San Giorgio Bigarello (MN)": 15,
+    "Ravarino (MO)||Bastiglia (MO)": 12,
+    "San Giovanni in Croce (CR)||Canneto sull'Oglio (MN)": 18,
+    "Rodigo (MN)||Marmirolo (MN)": 34,
+    "Rodigo (MN)||Marcaria (MN)": 17,
+    "Gussola (CR)||Roccabianca (PR)": 23,
+    "Neviano degli Arduini (PR)||Tizzano Val Parma (PR)": 14,
+    "Rubiera (RE)||Formigine (MO)": 20,
+    "Rubiera (RE)||Correggio (RE)": 10,
+    "Gualtieri (RE)||Luzzara (RE)": 12,
+    "Gualtieri (RE)||Cadelbosco di Sopra (RE)": 7,
+    "Cappella de' Picenardi (CR)||Gabbioneta-Binanuova (CR)": 7,
+    "San Giacomo delle Segnate (MN)||San Possidonio (MO)": 9,
+    "San Possidonio (MO)||Medolla (MO)": 11,
+    "Sustinente (MN)||Castel d'Ario (MN)": 49,
+    "Scandiano (RE)||Viano (RE)": 13,
+    "Novellara (RE)||Fabbrico (RE)": 12,
+    "Maranello (MO)||Serramazzoni (MO)": 7,
+    "Gonzaga (MN)||Fabbrico (RE)": 8,
+    "San Giorgio Bigarello (MN)||Castel d'Ario (MN)": 12,
+    "San Benedetto Po (MN)||Moglia (MN)": 9,
+    "Gonzaga (MN)||Moglia (MN)": 12,
+    "Gonzaga (MN)||Luzzara (RE)": 11,
+    "Campegine (RE)||Cadelbosco di Sopra (RE)": 6,
+    "Calestano (PR)||Tizzano Val Parma (PR)": 20,
+    "San Benedetto Po (MN)||Sustinente (MN)": 4,
+    "Calestano (PR)||Fornovo di Taro (PR)": 12,
+    "Casina (RE)||Vetto (RE)": 20,
+    "Scandiano (RE)||Castellarano (RE)": 6,
+    "Moglia (MN)||San Possidonio (MO)": 14,
+    "Viano (RE)||Casina (RE)": 10,
+    "Palanzano (PR)||Corniglio (PR)": 18,
+    "Motteggiana (MN)||Curtatone (MN)": 15,
+    "Felino (PR)||Fornovo di Taro (PR)": 19,
+    "Cappella de' Picenardi (CR)||Cingia de' Botti (CR)": 4,
+    "Cappella de' Picenardi (CR)||Volongo (CR)": 5,
+    "Rubiera (RE)||Modena (MO)": 14,
+    "Medesano (PR)||Fornovo di Taro (PR)": 15,
+    "Berceto (PR)||Corniglio (PR)": 21,
+    "Cavriago (RE)||Campegine (RE)": 6,
+    "Pellegrino Parmense (PR)||Salsomaggiore Terme (PR)": 16,
+    "Pomponesco (MN)||Gualtieri (RE)": 10,
+    "Redondesco (MN)||Rodigo (MN)": 15,
+    "Novellara (RE)||Gualtieri (RE)": 8,
+    "Gualtieri (RE)||Poviglio (RE)": 14,
+    "San Giovanni in Croce (CR)||Rivarolo del Re ed Uniti (CR)": 11,
+    "Montechiarugolo (PR)||Traversetolo (PR)": 8,
+    "Motteggiana (MN)||Gonzaga (MN)": 18,
+    "Pieve d'Olmi (CR)||Cingia de' Botti (CR)": 9,
+    "Montechiarugolo (PR)||Cavriago (RE)": 4,
+    "Quattro Castella (RE)||Viano (RE)": 13,
+    "Quattro Castella (RE)||Casina (RE)": 16,
+    "Solignano (PR)||Varsi (PR)": 12,
+    "San Giovanni in Croce (CR)||Cingia de' Botti (CR)": 5,
+    "Guidizzolo (MN)||Casaloldo (MN)": 19,
+    "Guidizzolo (MN)||Volta Mantovana (MN)": 17,
+    "Prignano sulla Secchia (MO)||Polinago (MO)": 9,
+    "Polinago (MO)||Serramazzoni (MO)": 5,
+    "Borgo Mantovano (MN)||San Giacomo delle Segnate (MN)": 8,
+    "Borgo Mantovano (MN)||Sustinente (MN)": 8,
+    "Borgo Mantovano (MN)||Borgocarbonara (MN)": 10,
+    "Volongo (CR)||Canneto sull'Oglio (MN)": 10,
+    "Pieve d'Olmi (CR)||Gadesco-Pieve Delmona (CR)": 16,
+    "Formigine (MO)||Modena (MO)": 9,
+    "Marcaria (MN)||Commessaggio (MN)": 8,
+    "Tizzano Val Parma (PR)||Corniglio (PR)": 13,
+    "Motteggiana (MN)||Luzzara (RE)": 13,
+    "Gussola (CR)||Colorno (PR)": 12,
+    "Sant'Agata Bolognese (BO)||Castelfranco Emilia (MO)": 9,
+    "Collecchio (PR)||Parma (PR)": 22,
+    "Pieve d'Olmi (CR)||Roccabianca (PR)": 8,
+    "Pieve d'Olmi (CR)||Gerre de' Caprioli (CR)": 15,
+    "Redondesco (MN)||Casaloldo (MN)": 9,
+    "Maranello (MO)||Formigine (MO)": 7,
+    "Prignano sulla Secchia (MO)||Castellarano (RE)": 7,
+    "Moglia (MN)||San Giacomo delle Segnate (MN)": 8,
+    "Rivarolo del Re ed Uniti (CR)||Gussola (CR)": 7,
+    "San Giovanni in Croce (CR)||Gussola (CR)": 6,
+    "Cappella de' Picenardi (CR)||Gadesco-Pieve Delmona (CR)": 4,
+    "Felino (PR)||Collecchio (PR)": 10
+  },
+  "edge_rows": [
+    {
+      "u": "San Giovanni in Croce (CR)",
+      "v": "Cingia de' Botti (CR)",
+      "edge_key": "San Giovanni in Croce (CR)||Cingia de' Botti (CR)",
+      "violation_count": 5,
+      "violation_fraction": 0.005,
+      "edge_length": 5.614204065775456
+    },
+    {
+      "u": "San Giovanni in Croce (CR)",
+      "v": "Rivarolo del Re ed Uniti (CR)",
+      "edge_key": "San Giovanni in Croce (CR)||Rivarolo del Re ed Uniti (CR)",
+      "violation_count": 11,
+      "violation_fraction": 0.011,
+      "edge_length": 5.595824364038463
+    },
+    {
+      "u": "San Giovanni in Croce (CR)",
+      "v": "Gussola (CR)",
+      "edge_key": "San Giovanni in Croce (CR)||Gussola (CR)",
+      "violation_count": 6,
+      "violation_fraction": 0.006,
+      "edge_length": 5.291119916080265
+    },
+    {
+      "u": "San Giovanni in Croce (CR)",
+      "v": "Canneto sull'Oglio (MN)",
+      "edge_key": "San Giovanni in Croce (CR)||Canneto sull'Oglio (MN)",
+      "violation_count": 18,
+      "violation_fraction": 0.018,
+      "edge_length": 6.750682012301021
+    },
+    {
+      "u": "Mirandola (MO)",
+      "v": "Medolla (MO)",
+      "edge_key": "Mirandola (MO)||Medolla (MO)",
+      "violation_count": 25,
+      "violation_fraction": 0.025,
+      "edge_length": 5.5896957372310485
+    },
+    {
+      "u": "Bagnolo San Vito (MN)",
+      "v": "San Benedetto Po (MN)",
+      "edge_key": "Bagnolo San Vito (MN)||San Benedetto Po (MN)",
+      "violation_count": 4,
+      "violation_fraction": 0.004,
+      "edge_length": 5.053949970046726
+    },
+    {
+      "u": "Bagnolo San Vito (MN)",
+      "v": "Sustinente (MN)",
+      "edge_key": "Bagnolo San Vito (MN)||Sustinente (MN)",
+      "violation_count": 9,
+      "violation_fraction": 0.009,
+      "edge_length": 6.615487644523039
+    },
+    {
+      "u": "Bagnolo San Vito (MN)",
+      "v": "Mantova (MN)",
+      "edge_key": "Bagnolo San Vito (MN)||Mantova (MN)",
+      "violation_count": 14,
+      "violation_fraction": 0.014,
+      "edge_length": 6.890905683974468
+    },
+    {
+      "u": "Anzola dell'Emilia (BO)",
+      "v": "Sala Bolognese (BO)",
+      "edge_key": "Anzola dell'Emilia (BO)||Sala Bolognese (BO)",
+      "violation_count": 25,
+      "violation_fraction": 0.025,
+      "edge_length": 6.416185920884534
+    },
+    {
+      "u": "Anzola dell'Emilia (BO)",
+      "v": "Castelfranco Emilia (MO)",
+      "edge_key": "Anzola dell'Emilia (BO)||Castelfranco Emilia (MO)",
+      "violation_count": 8,
+      "violation_fraction": 0.008,
+      "edge_length": 5.245023968583278
+    },
+    {
+      "u": "San Benedetto Po (MN)",
+      "v": "Moglia (MN)",
+      "edge_key": "San Benedetto Po (MN)||Moglia (MN)",
+      "violation_count": 9,
+      "violation_fraction": 0.009,
+      "edge_length": 5.211096182782684
+    },
+    {
+      "u": "San Benedetto Po (MN)",
+      "v": "San Giacomo delle Segnate (MN)",
+      "edge_key": "San Benedetto Po (MN)||San Giacomo delle Segnate (MN)",
+      "violation_count": 9,
+      "violation_fraction": 0.009,
+      "edge_length": 5.981225048684297
+    },
+    {
+      "u": "San Benedetto Po (MN)",
+      "v": "Sustinente (MN)",
+      "edge_key": "San Benedetto Po (MN)||Sustinente (MN)",
+      "violation_count": 4,
+      "violation_fraction": 0.004,
+      "edge_length": 6.12012926237746
+    },
+    {
+      "u": "Reggio nell'Emilia (RE)",
+      "v": "Cavriago (RE)",
+      "edge_key": "Reggio nell'Emilia (RE)||Cavriago (RE)",
+      "violation_count": 22,
+      "violation_fraction": 0.022,
+      "edge_length": 6.130923748671896
+    },
+    {
+      "u": "Medesano (PR)",
+      "v": "Fornovo di Taro (PR)",
+      "edge_key": "Medesano (PR)||Fornovo di Taro (PR)",
+      "violation_count": 15,
+      "violation_fraction": 0.015,
+      "edge_length": 5.810838572721103
+    },
+    {
+      "u": "Medesano (PR)",
+      "v": "Noceto (PR)",
+      "edge_key": "Medesano (PR)||Noceto (PR)",
+      "violation_count": 14,
+      "violation_fraction": 0.014,
+      "edge_length": 6.7260350786733385
+    },
+    {
+      "u": "Medesano (PR)",
+      "v": "Salsomaggiore Terme (PR)",
+      "edge_key": "Medesano (PR)||Salsomaggiore Terme (PR)",
+      "violation_count": 35,
+      "violation_fraction": 0.035,
+      "edge_length": 7.388166144822026
+    },
+    {
+      "u": "Calestano (PR)",
+      "v": "Fornovo di Taro (PR)",
+      "edge_key": "Calestano (PR)||Fornovo di Taro (PR)",
+      "violation_count": 12,
+      "violation_fraction": 0.012,
+      "edge_length": 5.56711407503903
+    },
+    {
+      "u": "Calestano (PR)",
+      "v": "Tizzano Val Parma (PR)",
+      "edge_key": "Calestano (PR)||Tizzano Val Parma (PR)",
+      "violation_count": 20,
+      "violation_fraction": 0.02,
+      "edge_length": 6.499621254268067
+    },
+    {
+      "u": "Cappella de' Picenardi (CR)",
+      "v": "Cingia de' Botti (CR)",
+      "edge_key": "Cappella de' Picenardi (CR)||Cingia de' Botti (CR)",
+      "violation_count": 4,
+      "violation_fraction": 0.004,
+      "edge_length": 5.591654057748245
+    },
+    {
+      "u": "Cappella de' Picenardi (CR)",
+      "v": "Volongo (CR)",
+      "edge_key": "Cappella de' Picenardi (CR)||Volongo (CR)",
+      "violation_count": 5,
+      "violation_fraction": 0.005,
+      "edge_length": 5.518912603136392
+    },
+    {
+      "u": "Cappella de' Picenardi (CR)",
+      "v": "Gadesco-Pieve Delmona (CR)",
+      "edge_key": "Cappella de' Picenardi (CR)||Gadesco-Pieve Delmona (CR)",
+      "violation_count": 4,
+      "violation_fraction": 0.004,
+      "edge_length": 6.655922347059046
+    },
+    {
+      "u": "Cappella de' Picenardi (CR)",
+      "v": "Gabbioneta-Binanuova (CR)",
+      "edge_key": "Cappella de' Picenardi (CR)||Gabbioneta-Binanuova (CR)",
+      "violation_count": 7,
+      "violation_fraction": 0.007,
+      "edge_length": 5.363150777882857
+    },
+    {
+      "u": "Villa Minozzo (RE)",
+      "v": "Toano (RE)",
+      "edge_key": "Villa Minozzo (RE)||Toano (RE)",
+      "violation_count": 19,
+      "violation_fraction": 0.019,
+      "edge_length": 6.719303398479241
+    },
+    {
+      "u": "Villa Minozzo (RE)",
+      "v": "Frassinoro (MO)",
+      "edge_key": "Villa Minozzo (RE)||Frassinoro (MO)",
+      "violation_count": 18,
+      "violation_fraction": 0.018,
+      "edge_length": 5.858501144323912
+    },
+    {
+      "u": "Felino (PR)",
+      "v": "Collecchio (PR)",
+      "edge_key": "Felino (PR)||Collecchio (PR)",
+      "violation_count": 10,
+      "violation_fraction": 0.01,
+      "edge_length": 5.1899839860547665
+    },
+    {
+      "u": "Felino (PR)",
+      "v": "Fornovo di Taro (PR)",
+      "edge_key": "Felino (PR)||Fornovo di Taro (PR)",
+      "violation_count": 19,
+      "violation_fraction": 0.019,
+      "edge_length": 6.834597935250853
+    },
+    {
+      "u": "Monchio delle Corti (PR)",
+      "v": "Palanzano (PR)",
+      "edge_key": "Monchio delle Corti (PR)||Palanzano (PR)",
+      "violation_count": 5,
+      "violation_fraction": 0.005,
+      "edge_length": 5.246325214219142
+    },
+    {
+      "u": "Monchio delle Corti (PR)",
+      "v": "Corniglio (PR)",
+      "edge_key": "Monchio delle Corti (PR)||Corniglio (PR)",
+      "violation_count": 13,
+      "violation_fraction": 0.013,
+      "edge_length": 5.836967877086072
+    },
+    {
+      "u": "Redondesco (MN)",
+      "v": "Rodigo (MN)",
+      "edge_key": "Redondesco (MN)||Rodigo (MN)",
+      "violation_count": 15,
+      "violation_fraction": 0.015,
+      "edge_length": 6.588376771958553
+    },
+    {
+      "u": "Redondesco (MN)",
+      "v": "Canneto sull'Oglio (MN)",
+      "edge_key": "Redondesco (MN)||Canneto sull'Oglio (MN)",
+      "violation_count": 23,
+      "violation_fraction": 0.023,
+      "edge_length": 7.136544037950029
+    },
+    {
+      "u": "Redondesco (MN)",
+      "v": "Marcaria (MN)",
+      "edge_key": "Redondesco (MN)||Marcaria (MN)",
+      "violation_count": 15,
+      "violation_fraction": 0.015,
+      "edge_length": 7.051941646060481
+    },
+    {
+      "u": "Redondesco (MN)",
+      "v": "Casaloldo (MN)",
+      "edge_key": "Redondesco (MN)||Casaloldo (MN)",
+      "violation_count": 9,
+      "violation_fraction": 0.009,
+      "edge_length": 5.930251594103584
+    },
+    {
+      "u": "Rodigo (MN)",
+      "v": "Curtatone (MN)",
+      "edge_key": "Rodigo (MN)||Curtatone (MN)",
+      "violation_count": 25,
+      "violation_fraction": 0.025,
+      "edge_length": 7.357217244427014
+    },
+    {
+      "u": "Rodigo (MN)",
+      "v": "Marmirolo (MN)",
+      "edge_key": "Rodigo (MN)||Marmirolo (MN)",
+      "violation_count": 34,
+      "violation_fraction": 0.034,
+      "edge_length": 7.140536290450049
+    },
+    {
+      "u": "Rodigo (MN)",
+      "v": "Marcaria (MN)",
+      "edge_key": "Rodigo (MN)||Marcaria (MN)",
+      "violation_count": 17,
+      "violation_fraction": 0.017,
+      "edge_length": 6.577408927096175
+    },
+    {
+      "u": "Ostiglia (MN)",
+      "v": "Borgo Mantovano (MN)",
+      "edge_key": "Ostiglia (MN)||Borgo Mantovano (MN)",
+      "violation_count": 13,
+      "violation_fraction": 0.013,
+      "edge_length": 5.078155110309197
+    },
+    {
+      "u": "Ostiglia (MN)",
+      "v": "Sustinente (MN)",
+      "edge_key": "Ostiglia (MN)||Sustinente (MN)",
+      "violation_count": 18,
+      "violation_fraction": 0.018,
+      "edge_length": 7.140868701164723
+    },
+    {
+      "u": "Ostiglia (MN)",
+      "v": "Borgocarbonara (MN)",
+      "edge_key": "Ostiglia (MN)||Borgocarbonara (MN)",
+      "violation_count": 22,
+      "violation_fraction": 0.022,
+      "edge_length": 5.6670372292271765
+    },
+    {
+      "u": "Motteggiana (MN)",
+      "v": "Curtatone (MN)",
+      "edge_key": "Motteggiana (MN)||Curtatone (MN)",
+      "violation_count": 15,
+      "violation_fraction": 0.015,
+      "edge_length": 6.468123786664153
+    },
+    {
+      "u": "Motteggiana (MN)",
+      "v": "Gonzaga (MN)",
+      "edge_key": "Motteggiana (MN)||Gonzaga (MN)",
+      "violation_count": 18,
+      "violation_fraction": 0.018,
+      "edge_length": 6.514708691883778
+    },
+    {
+      "u": "Motteggiana (MN)",
+      "v": "Luzzara (RE)",
+      "edge_key": "Motteggiana (MN)||Luzzara (RE)",
+      "violation_count": 13,
+      "violation_fraction": 0.013,
+      "edge_length": 6.626830346284391
+    },
+    {
+      "u": "Solignano (PR)",
+      "v": "Valmozzola (PR)",
+      "edge_key": "Solignano (PR)||Valmozzola (PR)",
+      "violation_count": 26,
+      "violation_fraction": 0.026,
+      "edge_length": 7.1342708320693795
+    },
+    {
+      "u": "Solignano (PR)",
+      "v": "Varsi (PR)",
+      "edge_key": "Solignano (PR)||Varsi (PR)",
+      "violation_count": 12,
+      "violation_fraction": 0.012,
+      "edge_length": 6.122093301826489
+    },
+    {
+      "u": "Curtatone (MN)",
+      "v": "Marcaria (MN)",
+      "edge_key": "Curtatone (MN)||Marcaria (MN)",
+      "violation_count": 14,
+      "violation_fraction": 0.014,
+      "edge_length": 5.563774535554475
+    },
+    {
+      "u": "Curtatone (MN)",
+      "v": "Mantova (MN)",
+      "edge_key": "Curtatone (MN)||Mantova (MN)",
+      "violation_count": 16,
+      "violation_fraction": 0.016,
+      "edge_length": 5.101497219830242
+    },
+    {
+      "u": "Montechiarugolo (PR)",
+      "v": "Cavriago (RE)",
+      "edge_key": "Montechiarugolo (PR)||Cavriago (RE)",
+      "violation_count": 4,
+      "violation_fraction": 0.004,
+      "edge_length": 6.5779278673920185
+    },
+    {
+      "u": "Montechiarugolo (PR)",
+      "v": "Parma (PR)",
+      "edge_key": "Montechiarugolo (PR)||Parma (PR)",
+      "violation_count": 28,
+      "violation_fraction": 0.028,
+      "edge_length": 6.931936749625091
+    },
+    {
+      "u": "Montechiarugolo (PR)",
+      "v": "Traversetolo (PR)",
+      "edge_key": "Montechiarugolo (PR)||Traversetolo (PR)",
+      "violation_count": 8,
+      "violation_fraction": 0.008,
+      "edge_length": 5.562194709578115
+    },
+    {
+      "u": "Quattro Castella (RE)",
+      "v": "Cavriago (RE)",
+      "edge_key": "Quattro Castella (RE)||Cavriago (RE)",
+      "violation_count": 7,
+      "violation_fraction": 0.007,
+      "edge_length": 5.8468560783413155
+    },
+    {
+      "u": "Quattro Castella (RE)",
+      "v": "Viano (RE)",
+      "edge_key": "Quattro Castella (RE)||Viano (RE)",
+      "violation_count": 13,
+      "violation_fraction": 0.013,
+      "edge_length": 7.548082688486869
+    },
+    {
+      "u": "Quattro Castella (RE)",
+      "v": "Casina (RE)",
+      "edge_key": "Quattro Castella (RE)||Casina (RE)",
+      "violation_count": 16,
+      "violation_fraction": 0.016,
+      "edge_length": 7.214595248735578
+    },
+    {
+      "u": "Quattro Castella (RE)",
+      "v": "Traversetolo (PR)",
+      "edge_key": "Quattro Castella (RE)||Traversetolo (PR)",
+      "violation_count": 30,
+      "violation_fraction": 0.03,
+      "edge_length": 7.078339963163397
+    },
+    {
+      "u": "Valmozzola (PR)",
+      "v": "Varsi (PR)",
+      "edge_key": "Valmozzola (PR)||Varsi (PR)",
+      "violation_count": 14,
+      "violation_fraction": 0.014,
+      "edge_length": 5.077750749226445
+    },
+    {
+      "u": "Valmozzola (PR)",
+      "v": "Berceto (PR)",
+      "edge_key": "Valmozzola (PR)||Berceto (PR)",
+      "violation_count": 30,
+      "violation_fraction": 0.03,
+      "edge_length": 6.577284632640944
+    },
+    {
+      "u": "Collecchio (PR)",
+      "v": "Parma (PR)",
+      "edge_key": "Collecchio (PR)||Parma (PR)",
+      "violation_count": 22,
+      "violation_fraction": 0.022,
+      "edge_length": 6.4093641665950605
+    },
+    {
+      "u": "Collecchio (PR)",
+      "v": "Noceto (PR)",
+      "edge_key": "Collecchio (PR)||Noceto (PR)",
+      "violation_count": 0,
+      "violation_fraction": 0.0,
+      "edge_length": 5.6321904990534275
+    },
+    {
+      "u": "Prignano sulla Secchia (MO)",
+      "v": "Polinago (MO)",
+      "edge_key": "Prignano sulla Secchia (MO)||Polinago (MO)",
+      "violation_count": 9,
+      "violation_fraction": 0.009,
+      "edge_length": 5.875398666766947
+    },
+    {
+      "u": "Prignano sulla Secchia (MO)",
+      "v": "Serramazzoni (MO)",
+      "edge_key": "Prignano sulla Secchia (MO)||Serramazzoni (MO)",
+      "violation_count": 14,
+      "violation_fraction": 0.014,
+      "edge_length": 5.7872941920034675
+    },
+    {
+      "u": "Prignano sulla Secchia (MO)",
+      "v": "Castellarano (RE)",
+      "edge_key": "Prignano sulla Secchia (MO)||Castellarano (RE)",
+      "violation_count": 7,
+      "violation_fraction": 0.007,
+      "edge_length": 5.108792185539326
+    },
+    {
+      "u": "Pieve d'Olmi (CR)",
+      "v": "Cingia de' Botti (CR)",
+      "edge_key": "Pieve d'Olmi (CR)||Cingia de' Botti (CR)",
+      "violation_count": 9,
+      "violation_fraction": 0.009,
+      "edge_length": 7.28284629562943
+    },
+    {
+      "u": "Pieve d'Olmi (CR)",
+      "v": "Roccabianca (PR)",
+      "edge_key": "Pieve d'Olmi (CR)||Roccabianca (PR)",
+      "violation_count": 8,
+      "violation_fraction": 0.008,
+      "edge_length": 6.630081143845437
+    },
+    {
+      "u": "Pieve d'Olmi (CR)",
+      "v": "Gerre de' Caprioli (CR)",
+      "edge_key": "Pieve d'Olmi (CR)||Gerre de' Caprioli (CR)",
+      "violation_count": 15,
+      "violation_fraction": 0.015,
+      "edge_length": 5.225403066424709
+    },
+    {
+      "u": "Pieve d'Olmi (CR)",
+      "v": "Gadesco-Pieve Delmona (CR)",
+      "edge_key": "Pieve d'Olmi (CR)||Gadesco-Pieve Delmona (CR)",
+      "violation_count": 16,
+      "violation_fraction": 0.016,
+      "edge_length": 7.367958239167541
+    },
+    {
+      "u": "Carpineti (RE)",
+      "v": "Toano (RE)",
+      "edge_key": "Carpineti (RE)||Toano (RE)",
+      "violation_count": 11,
+      "violation_fraction": 0.011,
+      "edge_length": 5.578426642282539
+    },
+    {
+      "u": "Carpineti (RE)",
+      "v": "Viano (RE)",
+      "edge_key": "Carpineti (RE)||Viano (RE)",
+      "violation_count": 32,
+      "violation_fraction": 0.032,
+      "edge_length": 7.496822612898991
+    },
+    {
+      "u": "Carpineti (RE)",
+      "v": "Casina (RE)",
+      "edge_key": "Carpineti (RE)||Casina (RE)",
+      "violation_count": 20,
+      "violation_fraction": 0.02,
+      "edge_length": 6.5911861728351075
+    },
+    {
+      "u": "Marmirolo (MN)",
+      "v": "Volta Mantovana (MN)",
+      "edge_key": "Marmirolo (MN)||Volta Mantovana (MN)",
+      "violation_count": 27,
+      "violation_fraction": 0.027,
+      "edge_length": 6.173351076091122
+    },
+    {
+      "u": "Rubiera (RE)",
+      "v": "Formigine (MO)",
+      "edge_key": "Rubiera (RE)||Formigine (MO)",
+      "violation_count": 20,
+      "violation_fraction": 0.02,
+      "edge_length": 6.921027076497642
+    },
+    {
+      "u": "Rubiera (RE)",
+      "v": "Modena (MO)",
+      "edge_key": "Rubiera (RE)||Modena (MO)",
+      "violation_count": 14,
+      "violation_fraction": 0.014,
+      "edge_length": 5.7841910820904126
+    },
+    {
+      "u": "Rubiera (RE)",
+      "v": "Correggio (RE)",
+      "edge_key": "Rubiera (RE)||Correggio (RE)",
+      "violation_count": 10,
+      "violation_fraction": 0.01,
+      "edge_length": 6.8735213408197655
+    },
+    {
+      "u": "Palanzano (PR)",
+      "v": "Ventasso (RE)",
+      "edge_key": "Palanzano (PR)||Ventasso (RE)",
+      "violation_count": 22,
+      "violation_fraction": 0.022,
+      "edge_length": 6.558063466337522
+    },
+    {
+      "u": "Palanzano (PR)",
+      "v": "Tizzano Val Parma (PR)",
+      "edge_key": "Palanzano (PR)||Tizzano Val Parma (PR)",
+      "violation_count": 4,
+      "violation_fraction": 0.004,
+      "edge_length": 5.8062321385476015
+    },
+    {
+      "u": "Palanzano (PR)",
+      "v": "Corniglio (PR)",
+      "edge_key": "Palanzano (PR)||Corniglio (PR)",
+      "violation_count": 18,
+      "violation_fraction": 0.018,
+      "edge_length": 7.162261505388104
+    },
+    {
+      "u": "Cingia de' Botti (CR)",
+      "v": "Gussola (CR)",
+      "edge_key": "Cingia de' Botti (CR)||Gussola (CR)",
+      "violation_count": 5,
+      "violation_fraction": 0.005,
+      "edge_length": 6.768688051878765
+    },
+    {
+      "u": "Cingia de' Botti (CR)",
+      "v": "Roccabianca (PR)",
+      "edge_key": "Cingia de' Botti (CR)||Roccabianca (PR)",
+      "violation_count": 44,
+      "violation_fraction": 0.044,
+      "edge_length": 7.059381422861398
+    },
+    {
+      "u": "Neviano degli Arduini (PR)",
+      "v": "Tizzano Val Parma (PR)",
+      "edge_key": "Neviano degli Arduini (PR)||Tizzano Val Parma (PR)",
+      "violation_count": 14,
+      "violation_fraction": 0.014,
+      "edge_length": 6.9074686958580065
+    },
+    {
+      "u": "Neviano degli Arduini (PR)",
+      "v": "Vetto (RE)",
+      "edge_key": "Neviano degli Arduini (PR)||Vetto (RE)",
+      "violation_count": 17,
+      "violation_fraction": 0.017,
+      "edge_length": 5.470219910501039
+    },
+    {
+      "u": "Pomponesco (MN)",
+      "v": "Gualtieri (RE)",
+      "edge_key": "Pomponesco (MN)||Gualtieri (RE)",
+      "violation_count": 10,
+      "violation_fraction": 0.01,
+      "edge_length": 5.086129812646419
+    },
+    {
+      "u": "Pomponesco (MN)",
+      "v": "Commessaggio (MN)",
+      "edge_key": "Pomponesco (MN)||Commessaggio (MN)",
+      "violation_count": 34,
+      "violation_fraction": 0.034,
+      "edge_length": 7.032799618361395
+    },
+    {
+      "u": "Pomponesco (MN)",
+      "v": "Luzzara (RE)",
+      "edge_key": "Pomponesco (MN)||Luzzara (RE)",
+      "violation_count": 14,
+      "violation_fraction": 0.014,
+      "edge_length": 5.899765952219161
+    },
+    {
+      "u": "Scandiano (RE)",
+      "v": "Viano (RE)",
+      "edge_key": "Scandiano (RE)||Viano (RE)",
+      "violation_count": 13,
+      "violation_fraction": 0.013,
+      "edge_length": 5.794846570005302
+    },
+    {
+      "u": "Scandiano (RE)",
+      "v": "Castellarano (RE)",
+      "edge_key": "Scandiano (RE)||Castellarano (RE)",
+      "violation_count": 6,
+      "violation_fraction": 0.006,
+      "edge_length": 5.821233943773728
+    },
+    {
+      "u": "Rivarolo del Re ed Uniti (CR)",
+      "v": "Gussola (CR)",
+      "edge_key": "Rivarolo del Re ed Uniti (CR)||Gussola (CR)",
+      "violation_count": 7,
+      "violation_fraction": 0.007,
+      "edge_length": 6.825108073607797
+    },
+    {
+      "u": "Rivarolo del Re ed Uniti (CR)",
+      "v": "Commessaggio (MN)",
+      "edge_key": "Rivarolo del Re ed Uniti (CR)||Commessaggio (MN)",
+      "violation_count": 13,
+      "violation_fraction": 0.013,
+      "edge_length": 5.543420348169936
+    },
+    {
+      "u": "Volongo (CR)",
+      "v": "Canneto sull'Oglio (MN)",
+      "edge_key": "Volongo (CR)||Canneto sull'Oglio (MN)",
+      "violation_count": 10,
+      "violation_fraction": 0.01,
+      "edge_length": 5.800539265014164
+    },
+    {
+      "u": "Volongo (CR)",
+      "v": "Gabbioneta-Binanuova (CR)",
+      "edge_key": "Volongo (CR)||Gabbioneta-Binanuova (CR)",
+      "violation_count": 12,
+      "violation_fraction": 0.012,
+      "edge_length": 5.188252352232283
+    },
+    {
+      "u": "Gussola (CR)",
+      "v": "Roccabianca (PR)",
+      "edge_key": "Gussola (CR)||Roccabianca (PR)",
+      "violation_count": 23,
+      "violation_fraction": 0.023,
+      "edge_length": 7.5173633305948995
+    },
+    {
+      "u": "Gussola (CR)",
+      "v": "Colorno (PR)",
+      "edge_key": "Gussola (CR)||Colorno (PR)",
+      "violation_count": 12,
+      "violation_fraction": 0.012,
+      "edge_length": 5.043371687572878
+    },
+    {
+      "u": "Vignola (MO)",
+      "v": "Guiglia (MO)",
+      "edge_key": "Vignola (MO)||Guiglia (MO)",
+      "violation_count": 42,
+      "violation_fraction": 0.042,
+      "edge_length": 6.612526099707054
+    },
+    {
+      "u": "Vignola (MO)",
+      "v": "Maranello (MO)",
+      "edge_key": "Vignola (MO)||Maranello (MO)",
+      "violation_count": 96,
+      "violation_fraction": 0.096,
+      "edge_length": 7.468519300976524
+    },
+    {
+      "u": "Polinago (MO)",
+      "v": "Palagano (MO)",
+      "edge_key": "Polinago (MO)||Palagano (MO)",
+      "violation_count": 8,
+      "violation_fraction": 0.008,
+      "edge_length": 5.39387519917709
+    },
+    {
+      "u": "Polinago (MO)",
+      "v": "Serramazzoni (MO)",
+      "edge_key": "Polinago (MO)||Serramazzoni (MO)",
+      "violation_count": 5,
+      "violation_fraction": 0.005,
+      "edge_length": 6.734671517854513
+    },
+    {
+      "u": "Polinago (MO)",
+      "v": "Pavullo nel Frignano (MO)",
+      "edge_key": "Polinago (MO)||Pavullo nel Frignano (MO)",
+      "violation_count": 29,
+      "violation_fraction": 0.029,
+      "edge_length": 7.0793350027311925
+    },
+    {
+      "u": "Toano (RE)",
+      "v": "Palagano (MO)",
+      "edge_key": "Toano (RE)||Palagano (MO)",
+      "violation_count": 22,
+      "violation_fraction": 0.022,
+      "edge_length": 6.9003825295243235
+    },
+    {
+      "u": "Guiglia (MO)",
+      "v": "Pavullo nel Frignano (MO)",
+      "edge_key": "Guiglia (MO)||Pavullo nel Frignano (MO)",
+      "violation_count": 95,
+      "violation_fraction": 0.095,
+      "edge_length": 7.391821456080745
+    },
+    {
+      "u": "Maranello (MO)",
+      "v": "Formigine (MO)",
+      "edge_key": "Maranello (MO)||Formigine (MO)",
+      "violation_count": 7,
+      "violation_fraction": 0.007,
+      "edge_length": 5.9503874026705486
+    },
+    {
+      "u": "Maranello (MO)",
+      "v": "Serramazzoni (MO)",
+      "edge_key": "Maranello (MO)||Serramazzoni (MO)",
+      "violation_count": 7,
+      "violation_fraction": 0.007,
+      "edge_length": 5.625530276025249
+    },
+    {
+      "u": "Cavriago (RE)",
+      "v": "Campegine (RE)",
+      "edge_key": "Cavriago (RE)||Campegine (RE)",
+      "violation_count": 6,
+      "violation_fraction": 0.006,
+      "edge_length": 5.812640303013845
+    },
+    {
+      "u": "Marcaria (MN)",
+      "v": "Commessaggio (MN)",
+      "edge_key": "Marcaria (MN)||Commessaggio (MN)",
+      "violation_count": 8,
+      "violation_fraction": 0.008,
+      "edge_length": 5.74524989475335
+    },
+    {
+      "u": "Novellara (RE)",
+      "v": "Gualtieri (RE)",
+      "edge_key": "Novellara (RE)||Gualtieri (RE)",
+      "violation_count": 8,
+      "violation_fraction": 0.008,
+      "edge_length": 5.370341578021799
+    },
+    {
+      "u": "Novellara (RE)",
+      "v": "Correggio (RE)",
+      "edge_key": "Novellara (RE)||Correggio (RE)",
+      "violation_count": 28,
+      "violation_fraction": 0.028,
+      "edge_length": 7.329479583518053
+    },
+    {
+      "u": "Novellara (RE)",
+      "v": "Cadelbosco di Sopra (RE)",
+      "edge_key": "Novellara (RE)||Cadelbosco di Sopra (RE)",
+      "violation_count": 6,
+      "violation_fraction": 0.006,
+      "edge_length": 5.18394071376633
+    },
+    {
+      "u": "Novellara (RE)",
+      "v": "Fabbrico (RE)",
+      "edge_key": "Novellara (RE)||Fabbrico (RE)",
+      "violation_count": 12,
+      "violation_fraction": 0.012,
+      "edge_length": 6.082262772308558
+    },
+    {
+      "u": "Ravarino (MO)",
+      "v": "Medolla (MO)",
+      "edge_key": "Ravarino (MO)||Medolla (MO)",
+      "violation_count": 30,
+      "violation_fraction": 0.03,
+      "edge_length": 7.022591551697262
+    },
+    {
+      "u": "Ravarino (MO)",
+      "v": "Sant'Agata Bolognese (BO)",
+      "edge_key": "Ravarino (MO)||Sant'Agata Bolognese (BO)",
+      "violation_count": 12,
+      "violation_fraction": 0.012,
+      "edge_length": 6.411888143691137
+    },
+    {
+      "u": "Ravarino (MO)",
+      "v": "Bastiglia (MO)",
+      "edge_key": "Ravarino (MO)||Bastiglia (MO)",
+      "violation_count": 12,
+      "violation_fraction": 0.012,
+      "edge_length": 5.585646324617845
+    },
+    {
+      "u": "Borgo Mantovano (MN)",
+      "v": "San Giacomo delle Segnate (MN)",
+      "edge_key": "Borgo Mantovano (MN)||San Giacomo delle Segnate (MN)",
+      "violation_count": 8,
+      "violation_fraction": 0.008,
+      "edge_length": 6.53348441779031
+    },
+    {
+      "u": "Borgo Mantovano (MN)",
+      "v": "Sustinente (MN)",
+      "edge_key": "Borgo Mantovano (MN)||Sustinente (MN)",
+      "violation_count": 8,
+      "violation_fraction": 0.008,
+      "edge_length": 6.771257841468822
+    },
+    {
+      "u": "Borgo Mantovano (MN)",
+      "v": "Borgocarbonara (MN)",
+      "edge_key": "Borgo Mantovano (MN)||Borgocarbonara (MN)",
+      "violation_count": 10,
+      "violation_fraction": 0.01,
+      "edge_length": 5.397644633805123
+    },
+    {
+      "u": "Formigine (MO)",
+      "v": "Modena (MO)",
+      "edge_key": "Formigine (MO)||Modena (MO)",
+      "violation_count": 9,
+      "violation_fraction": 0.009,
+      "edge_length": 5.464155230894793
+    },
+    {
+      "u": "Gualtieri (RE)",
+      "v": "Luzzara (RE)",
+      "edge_key": "Gualtieri (RE)||Luzzara (RE)",
+      "violation_count": 12,
+      "violation_fraction": 0.012,
+      "edge_length": 7.161591097257839
+    },
+    {
+      "u": "Gualtieri (RE)",
+      "v": "Poviglio (RE)",
+      "edge_key": "Gualtieri (RE)||Poviglio (RE)",
+      "violation_count": 14,
+      "violation_fraction": 0.014,
+      "edge_length": 5.608928672576114
+    },
+    {
+      "u": "Gualtieri (RE)",
+      "v": "Cadelbosco di Sopra (RE)",
+      "edge_key": "Gualtieri (RE)||Cadelbosco di Sopra (RE)",
+      "violation_count": 7,
+      "violation_fraction": 0.007,
+      "edge_length": 5.915406499136776
+    },
+    {
+      "u": "Berceto (PR)",
+      "v": "Corniglio (PR)",
+      "edge_key": "Berceto (PR)||Corniglio (PR)",
+      "violation_count": 21,
+      "violation_fraction": 0.021,
+      "edge_length": 6.674658924753245
+    },
+    {
+      "u": "Gonzaga (MN)",
+      "v": "Moglia (MN)",
+      "edge_key": "Gonzaga (MN)||Moglia (MN)",
+      "violation_count": 12,
+      "violation_fraction": 0.012,
+      "edge_length": 5.5126929581028685
+    },
+    {
+      "u": "Gonzaga (MN)",
+      "v": "Luzzara (RE)",
+      "edge_key": "Gonzaga (MN)||Luzzara (RE)",
+      "violation_count": 11,
+      "violation_fraction": 0.011,
+      "edge_length": 6.424405444095808
+    },
+    {
+      "u": "Gonzaga (MN)",
+      "v": "Fabbrico (RE)",
+      "edge_key": "Gonzaga (MN)||Fabbrico (RE)",
+      "violation_count": 8,
+      "violation_fraction": 0.008,
+      "edge_length": 5.846711187976251
+    },
+    {
+      "u": "Moglia (MN)",
+      "v": "San Giacomo delle Segnate (MN)",
+      "edge_key": "Moglia (MN)||San Giacomo delle Segnate (MN)",
+      "violation_count": 8,
+      "violation_fraction": 0.008,
+      "edge_length": 5.200347333095168
+    },
+    {
+      "u": "Moglia (MN)",
+      "v": "San Possidonio (MO)",
+      "edge_key": "Moglia (MN)||San Possidonio (MO)",
+      "violation_count": 14,
+      "violation_fraction": 0.014,
+      "edge_length": 6.2988852934712245
+    },
+    {
+      "u": "Frassinoro (MO)",
+      "v": "Palagano (MO)",
+      "edge_key": "Frassinoro (MO)||Palagano (MO)",
+      "violation_count": 58,
+      "violation_fraction": 0.058,
+      "edge_length": 7.255905524733196
+    },
+    {
+      "u": "San Giacomo delle Segnate (MN)",
+      "v": "San Possidonio (MO)",
+      "edge_key": "San Giacomo delle Segnate (MN)||San Possidonio (MO)",
+      "violation_count": 9,
+      "violation_fraction": 0.009,
+      "edge_length": 6.505743861880889
+    },
+    {
+      "u": "San Possidonio (MO)",
+      "v": "Medolla (MO)",
+      "edge_key": "San Possidonio (MO)||Medolla (MO)",
+      "violation_count": 11,
+      "violation_fraction": 0.011,
+      "edge_length": 5.795879787940691
+    },
+    {
+      "u": "Correggio (RE)",
+      "v": "Carpi (MO)",
+      "edge_key": "Correggio (RE)||Carpi (MO)",
+      "violation_count": 45,
+      "violation_fraction": 0.045,
+      "edge_length": 7.3748450415140665
+    },
+    {
+      "u": "Viano (RE)",
+      "v": "Casina (RE)",
+      "edge_key": "Viano (RE)||Casina (RE)",
+      "violation_count": 10,
+      "violation_fraction": 0.01,
+      "edge_length": 6.567459039788982
+    },
+    {
+      "u": "Viano (RE)",
+      "v": "Castellarano (RE)",
+      "edge_key": "Viano (RE)||Castellarano (RE)",
+      "violation_count": 8,
+      "violation_fraction": 0.008,
+      "edge_length": 6.192445337169831
+    },
+    {
+      "u": "Fontanellato (PR)",
+      "v": "Fidenza (PR)",
+      "edge_key": "Fontanellato (PR)||Fidenza (PR)",
+      "violation_count": 90,
+      "violation_fraction": 0.09,
+      "edge_length": 7.12197457646602
+    },
+    {
+      "u": "Fontanellato (PR)",
+      "v": "Noceto (PR)",
+      "edge_key": "Fontanellato (PR)||Noceto (PR)",
+      "violation_count": 10,
+      "violation_fraction": 0.01,
+      "edge_length": 5.65429185798666
+    },
+    {
+      "u": "Fidenza (PR)",
+      "v": "Noceto (PR)",
+      "edge_key": "Fidenza (PR)||Noceto (PR)",
+      "violation_count": 20,
+      "violation_fraction": 0.02,
+      "edge_length": 6.916861799702634
+    },
+    {
+      "u": "Fidenza (PR)",
+      "v": "Salsomaggiore Terme (PR)",
+      "edge_key": "Fidenza (PR)||Salsomaggiore Terme (PR)",
+      "violation_count": 14,
+      "violation_fraction": 0.014,
+      "edge_length": 5.548446587893841
+    },
+    {
+      "u": "Gerre de' Caprioli (CR)",
+      "v": "Gadesco-Pieve Delmona (CR)",
+      "edge_key": "Gerre de' Caprioli (CR)||Gadesco-Pieve Delmona (CR)",
+      "violation_count": 87,
+      "violation_fraction": 0.087,
+      "edge_length": 6.985197889247122
+    },
+    {
+      "u": "Gadesco-Pieve Delmona (CR)",
+      "v": "Gabbioneta-Binanuova (CR)",
+      "edge_key": "Gadesco-Pieve Delmona (CR)||Gabbioneta-Binanuova (CR)",
+      "violation_count": 16,
+      "violation_fraction": 0.016,
+      "edge_length": 6.008843997407638
+    },
+    {
+      "u": "Sustinente (MN)",
+      "v": "Castel d'Ario (MN)",
+      "edge_key": "Sustinente (MN)||Castel d'Ario (MN)",
+      "violation_count": 49,
+      "violation_fraction": 0.049,
+      "edge_length": 7.156315172661013
+    },
+    {
+      "u": "Guidizzolo (MN)",
+      "v": "Casaloldo (MN)",
+      "edge_key": "Guidizzolo (MN)||Casaloldo (MN)",
+      "violation_count": 19,
+      "violation_fraction": 0.019,
+      "edge_length": 6.11984909246968
+    },
+    {
+      "u": "Guidizzolo (MN)",
+      "v": "Volta Mantovana (MN)",
+      "edge_key": "Guidizzolo (MN)||Volta Mantovana (MN)",
+      "violation_count": 17,
+      "violation_fraction": 0.017,
+      "edge_length": 5.000100000005
+    },
+    {
+      "u": "Tizzano Val Parma (PR)",
+      "v": "Corniglio (PR)",
+      "edge_key": "Tizzano Val Parma (PR)||Corniglio (PR)",
+      "violation_count": 13,
+      "violation_fraction": 0.013,
+      "edge_length": 6.801696789434928
+    },
+    {
+      "u": "Campegine (RE)",
+      "v": "Poviglio (RE)",
+      "edge_key": "Campegine (RE)||Poviglio (RE)",
+      "violation_count": 14,
+      "violation_fraction": 0.014,
+      "edge_length": 5.455662842399135
+    },
+    {
+      "u": "Campegine (RE)",
+      "v": "Cadelbosco di Sopra (RE)",
+      "edge_key": "Campegine (RE)||Cadelbosco di Sopra (RE)",
+      "violation_count": 6,
+      "violation_fraction": 0.006,
+      "edge_length": 5.835379527681917
+    },
+    {
+      "u": "Casina (RE)",
+      "v": "Vetto (RE)",
+      "edge_key": "Casina (RE)||Vetto (RE)",
+      "violation_count": 20,
+      "violation_fraction": 0.02,
+      "edge_length": 7.022124986634341
+    },
+    {
+      "u": "Mantova (MN)",
+      "v": "San Giorgio Bigarello (MN)",
+      "edge_key": "Mantova (MN)||San Giorgio Bigarello (MN)",
+      "violation_count": 15,
+      "violation_fraction": 0.015,
+      "edge_length": 5.092275442785568
+    },
+    {
+      "u": "Sant'Agata Bolognese (BO)",
+      "v": "Castelfranco Emilia (MO)",
+      "edge_key": "Sant'Agata Bolognese (BO)||Castelfranco Emilia (MO)",
+      "violation_count": 9,
+      "violation_fraction": 0.009,
+      "edge_length": 5.771372201628576
+    },
+    {
+      "u": "San Giorgio Bigarello (MN)",
+      "v": "Castel d'Ario (MN)",
+      "edge_key": "San Giorgio Bigarello (MN)||Castel d'Ario (MN)",
+      "violation_count": 12,
+      "violation_fraction": 0.012,
+      "edge_length": 5.3437600304801
+    },
+    {
+      "u": "Poviglio (RE)",
+      "v": "Cadelbosco di Sopra (RE)",
+      "edge_key": "Poviglio (RE)||Cadelbosco di Sopra (RE)",
+      "violation_count": 20,
+      "violation_fraction": 0.02,
+      "edge_length": 6.688576745756681
+    },
+    {
+      "u": "Pellegrino Parmense (PR)",
+      "v": "Salsomaggiore Terme (PR)",
+      "edge_key": "Pellegrino Parmense (PR)||Salsomaggiore Terme (PR)",
+      "violation_count": 16,
+      "violation_fraction": 0.016,
+      "edge_length": 5.120696093363174
+    },
+    {
+      "u": "Carpi (MO)",
+      "v": "Fabbrico (RE)",
+      "edge_key": "Carpi (MO)||Fabbrico (RE)",
+      "violation_count": 28,
+      "violation_fraction": 0.028,
+      "edge_length": 6.882047214122513
+    }
+  ]
+}

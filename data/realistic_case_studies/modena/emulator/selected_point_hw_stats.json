@@ -1,0 +1,89 @@
+{
+  "selected_submission": {
+    "submission_dir": "historical_local/subgraph_modena/scripts/pasqal_submissions/100_modena_emu_fresnel_can1_2x500_20260422_160150",
+    "backend_kind": "emulator",
+    "fetch_mode": "merged_emulator_jobs",
+    "n_jobs_fetched": 2,
+    "n_samples_used_hw_stats": 1000
+  },
+  "stats": {
+    "graph_num_nodes": 100,
+    "n_samples_valid": 1000,
+    "n_samples_invalid": 0,
+    "IS_count": 740,
+    "notIS_count": 260,
+    "IS_fraction": 0.74,
+    "notIS_fraction": 0.26,
+    "size_counts_all": {
+      "34": 112,
+      "32": 160,
+      "36": 44,
+      "31": 172,
+      "35": 89,
+      "33": 158,
+      "28": 32,
+      "30": 107,
+      "38": 2,
+      "29": 76,
+      "26": 11,
+      "27": 16,
+      "37": 19,
+      "39": 1,
+      "25": 1
+    },
+    "size_counts_is": {
+      "34": 77,
+      "32": 112,
+      "31": 142,
+      "35": 53,
+      "28": 25,
+      "30": 93,
+      "33": 116,
+      "29": 67,
+      "36": 19,
+      "26": 11,
+      "27": 12,
+      "37": 11,
+      "39": 1,
+      "25": 1
+    },
+    "size_counts_not": {
+      "36": 25,
+      "31": 30,
+      "34": 35,
+      "33": 42,
+      "32": 48,
+      "38": 2,
+      "29": 9,
+      "35": 36,
+      "30": 14,
+      "28": 7,
+      "37": 8,
+      "27": 4
+    },
+    "min_size": 25,
+    "max_size": 39,
+    "mean_size_all": 32.044
+  },
+  "notis_severity": {
+    "n_samples_invalid_length": 0,
+    "n_notis": 260,
+    "conflict_edges_counts": {
+      "1": 210,
+      "2": 44,
+      "3": 6
+    },
+    "conflict_nodes_counts": {
+      "2": 210,
+      "4": 35,
+      "3": 12,
+      "6": 3
+    },
+    "mean_conflict_edges": 1.2153846153846153,
+    "median_conflict_edges": 1.0,
+    "max_conflict_edges": 3,
+    "mean_conflict_nodes": 2.3615384615384616,
+    "median_conflict_nodes": 2.0,
+    "max_conflict_nodes": 6
+  }
+}

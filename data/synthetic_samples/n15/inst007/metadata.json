@@ -1,0 +1,31 @@
+{
+  "origin": "historical raw samples recovered from diagnostic CSV; no new emulation",
+  "source_csv": "data/synthetic_case_studies/result_caches/results_not_corr/run_20260505_113509/n15/inst007_quantum_corrections.csv",
+  "source_sha256": "7cd3db5758d17db90ba0a525f1fd2735420baa32f83080a6e5c13d457fc69169",
+  "node_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "graph_fingerprint_round8_sha256": "de9773c569c2a90ab591dd63b077a326385348a4dc8e6a185b76acc68cff6c8a",
+  "job_ids": [
+    "ebcfb0b9-9ef6-48a0-a10f-ccc1d5003695",
+    "d9bdf5a9-2d79-4cb8-aadd-5c7f4a824206"
+  ],
+  "n_samples": 500,
+  "sample_order": "sample_idx in archived diagnostics, not claimed as acquisition-time order",
+  "no_postselection": true,
+  "no_correction": true
+}

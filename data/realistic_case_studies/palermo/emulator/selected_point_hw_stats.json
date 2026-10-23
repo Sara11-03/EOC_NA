@@ -1,0 +1,76 @@
+{
+  "selected_submission": {
+    "submission_dir": "historical_local/subgraph_modena/scripts/pasqal_submissions/41_sicily_emu_fresnel_2x500_20260414_230042",
+    "backend_kind": "emulator",
+    "fetch_mode": "merged_emulator_jobs",
+    "n_jobs_fetched": 2,
+    "n_samples_used_hw_stats": 1000
+  },
+  "stats": {
+    "graph_num_nodes": 41,
+    "n_samples_valid": 1000,
+    "n_samples_invalid": 0,
+    "IS_count": 965,
+    "notIS_count": 35,
+    "IS_fraction": 0.965,
+    "notIS_fraction": 0.035,
+    "size_counts_all": {
+      "15": 127,
+      "12": 211,
+      "13": 245,
+      "10": 38,
+      "14": 213,
+      "16": 41,
+      "18": 1,
+      "11": 107,
+      "9": 10,
+      "8": 3,
+      "17": 4
+    },
+    "size_counts_is": {
+      "15": 121,
+      "12": 207,
+      "13": 236,
+      "10": 37,
+      "14": 204,
+      "16": 37,
+      "18": 1,
+      "11": 106,
+      "9": 10,
+      "8": 3,
+      "17": 3
+    },
+    "size_counts_not": {
+      "14": 9,
+      "13": 9,
+      "11": 1,
+      "15": 6,
+      "17": 1,
+      "12": 4,
+      "16": 4,
+      "10": 1
+    },
+    "min_size": 8,
+    "max_size": 18,
+    "mean_size_all": 13.017
+  },
+  "notis_severity": {
+    "n_samples_invalid_length": 0,
+    "n_notis": 35,
+    "conflict_edges_counts": {
+      "2": 4,
+      "1": 31
+    },
+    "conflict_nodes_counts": {
+      "3": 2,
+      "2": 31,
+      "4": 2
+    },
+    "mean_conflict_edges": 1.1142857142857143,
+    "median_conflict_edges": 1.0,
+    "max_conflict_edges": 2,
+    "mean_conflict_nodes": 2.1714285714285713,
+    "median_conflict_nodes": 2.0,
+    "max_conflict_nodes": 4
+  }
+}
